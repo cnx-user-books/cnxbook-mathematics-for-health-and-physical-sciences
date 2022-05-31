@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Molarity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62697</md:content-id>
+  <md:title>Molarity</md:title>
+  <md:abstract/>
+  <md:uuid>bb99f3cb-e513-420b-8614-2b07e61500f7</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-25"><title>Learning Objectives</title><para id="eip-id1166106629044">By the end of this lesson, you will be able to:</para>
+<list id="eip-id1166106846443">
+<item>Understand the meaning of molarity.</item>
+<item>Calculate solution concentrations, in terms of molarity, using dimensional analysis.</item>
+</list></section><section id="fs-idm10227280">
+<title>Molarity of Solutions</title><para id="eip-329">A <term>mole</term> is a unit that measures 6.02 × 10<sup>23</sup> particles of an element.  This is a very large count! The molecules are weighed though and not counted. Mole is abbreviated as mol.
+
+The weight of a mole varies depending on the density of the element.  There is a known weight for each element or compound and it is called the atomic weight. This atomic weight is found on the periodic chart of elements that you might use in your science classes.<newline/><newline/> 
+</para><para id="fs-idm62212352"><term>Molarity</term> is a rate or comparison of “moles per liter.” It shows a concentration of a solution as the ratio of moles of solute to liters of solution.<newline/><newline/>
+
+Molarity is the rate of moles per liter. Molarity is abbreviated as M. (Note: If you see a capital M without a base it is Molarity; a capital M with a base unit is the metric prefix of Mega.)
+<newline/><newline/></para><equation id="eip-68"><m:math><m:mi>M</m:mi><m:mo>=</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mtext>mol solute</m:mtext><m:mtext>L solution</m:mtext></m:mfrac></m:math></equation><example id="fs-idm98982768"><exercise id="eip-idm337122160"><problem id="eip-idm1146149632"><para id="fs-idm10181424">A 355-mL soft drink sample contains 0.133 mol of sucrose (table sugar). What is the molarity of sucrose in the beverage?</para></problem>
+
+<solution id="eip-idm1273807296"><para id="eip-idm1273807168">Since molarity, by definition, is a rate, we can use dimensional analysis to calculate molarity. We start by combining the given volume and moles into a single ratio, being sure to place moles in the numerator and mL in the denominator. Then, we use dimensional analysis to convert the mL to liters.</para>
+<media id="eip-id5475896" alt="molarity rate" display="block"><image src="../../media/molarity rate 1.PNG" mime-type="image.png" width="380"/></media></solution>
+</exercise></example><example id="fs-idm64107376"><exercise id="eip-idm977141232"><problem id="eip-idm526206032"><para id="fs-idm58170960">Find the molarity of 1.462 g of NaCl in 250 mL of solution, given the atomic weight of NaCl is 58 g/mol.
+</para></problem>
+
+<solution id="eip-idm948499776"><para id="eip-idm371262528">For this example, not only do we need to convert the mL to liters, but we also need to use the given atomic weight to convert the grams to moles.</para>
+
+<media id="eip-id5318498" alt="molarity rate" display="block"><image src="../../media/molarity rate 2.PNG" mime-type="image/png" width="380"/></media></solution>
+</exercise></example><example id="fs-idm81897840"><exercise id="eip-idm693293024"><problem id="eip-idm681824768"><para id="fs-idm98918048">Distilled white vinegar is a solution of acetic acid in water. A 0.500-L vinegar solution contains 25.2 g of acetic acid. What is the concentration of the acetic acid solution in units of molarity, given that the atomic weight of acetic acid is 60.052 g/mol?</para></problem>
+
+
+<solution id="eip-idm469189456"><para id="eip-idm1734626896">As in the previous example, we need to use the given atomic weight to convert the grams to moles.</para>
+
+<media id="eip-id2495626" alt="molarity rate" display="block"><image src="../../media/molarity rate 3.PNG" mime-type="image/png" width="380"/></media></solution>
+</exercise></example><example id="eip-305"><exercise id="eip-id1200689"><problem id="eip-id1244630"><para id="eip-648">If we mix a packet of sugar into one cup of coffee, what is the molarity of this solution? One packet of sugar weighs 2.8 grams.  A cup of coffee is about 250 mL. As an estimate, there are about 342.3 g per mol for sugar.   
+
+</para></problem>
+<solution id="eip-id1274047"><media id="eip-id1086568" alt="molarity rate" display="block"><image src="../../media/Figure for Example 7.28.png" mime-type="image/png" width="480"/></media></solution></exercise></example></section><section id="eip-97" class="section-exercises"><title>Homework</title><para id="eip-427">
+For the following problems, use dimensional analysis to find the molarity.
+</para><exercise id="eip-489"><problem id="eip-737">
+  <para id="eip-86">
+Find the molarity of 6.5 g of methanol in 500 ml of solution, given the atomic weight of methanol is 32.04 g/mol.
+  </para>
+</problem>
+
+<solution id="eip-473">
+  <para id="eip-500">
+   0.406 M
+  </para>
+</solution>
+</exercise><exercise id="eip-62"><problem id="eip-630">
+  <para id="eip-918">
+Find the molarity of 1.50 grams of NaCl in 500 ml of solution, given the atomic weight of NaCl is 58 g/mol.
+  </para>
+</problem>
+
+ </exercise><exercise id="eip-388"><problem id="eip-458">
+  <para id="eip-32">
+Find the molarity of 12.08 g of a substance in 900 mL of solution if one mole of the substance weighs 58.44 grams.
+  </para>
+</problem>
+
+<solution id="eip-162">
+  <para id="eip-927">0.2297 M
+  </para></solution>
+</exercise><exercise id="eip-599"><problem id="eip-436">
+  <para id="eip-617">
+  Find the molarity of 2.05 mg of lactose in 300 ml of solution, given the atomic weight of lactose is 342.3 g/mol.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-307"><problem id="eip-211">
+  <para id="eip-99">
+ Find the molarity of 5.3 grams of sodium carbonate in 750 ml of solution, given the atomic weight of sodium carbonate is 106 g/mol.
+  </para>
+</problem>
+
+<solution id="eip-784">
+  <para id="eip-915">
+ 0.0667 M
+  </para>
+</solution>
+</exercise><exercise id="eip-710"><problem id="eip-263">
+  <para id="eip-925">
+Find the molarity of 0.645 g of NaCl (given 1 mol = 58 g) in 750 mL of water. 
+
+  </para>
+</problem>
+
+</exercise><exercise id="eip-379"><problem id="eip-247">
+  <para id="eip-731">
+ Find the molarity of 15 grams of NaCl (given 1 mol = 58 g) in 2 L of solution. 
+  </para>
+</problem>
+
+<solution id="eip-703">
+  <para id="eip-216">0.129 M
+  </para></solution>
+</exercise><exercise id="eip-285"><problem id="eip-958">
+  <para id="eip-775">
+ Find the molarity of 50 mg of a substance in 800 mL of water if one mole of the substance weighs 49 grams.
+  </para>
+</problem>
+
+</exercise></section></content>
+
+</document>

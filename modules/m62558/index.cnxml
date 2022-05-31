@@ -1,0 +1,510 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Applications of Proportions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62558</md:content-id>
+  <md:title>Applications of Proportions</md:title>
+  <md:abstract/>
+  <md:uuid>c20b7c85-09a0-4121-9225-c8303ac0282a</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-897"><title>Learning Objectives</title><para id="eip-id2057765">By the end of this section, you will be able to:</para>
+<list id="eip-id2057805"><item>Solve proportions.</item>
+<item>Solve general application problems using proportions.</item>
+<item>Solve problems involving Charles Law.</item>
+
+</list></section><section id="fs-id1166490756517">
+<title>Solve Proportions</title>
+<para id="fs-id1166491401870">When solving a proportion for a variable, we’ll use the fact that the <term class="no-emphasis">cross products</term> of a proportion are equal. <newline/></para><para id="eip-247">We can find the cross products of the proportion and then set them equal. Then we solve the resulting equation using our familiar techniques.</para><example id="fs-id1166497375779">
+<exercise id="fs-id1691862"><problem id="fs-id1445776">
+<para id="fs-id1251260">Solve: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>144</m:mn></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1356436">
+
+<para id="fs-id1166497245846">Notice that the variable is in the denominator, so we will solve by finding the cross products and setting them equal.</para><table id="eip-id1168469872045" class="unnumbered unstyled" summary="The figure shows the steps to solve the proportion 144 is to a as 9 is to 4 using cross multiplication. It shows how the cross products are found and set equal to one another. The result is 4 times 144 = a times 9. The equation is simplified to 576 = 9 times a. Both sides of the equation is divided by 9. When simplified, the result is 64 = a."><label/>
+<tgroup cols="2"><tbody>
+
+<row> 
+<entry/>
+<entry><media id="eip-id1168469485492" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-01.png"/></media></entry>
+</row>
+
+ <row>
+   <entry> Find the cross products and set them equal.</entry>
+   <entry><media id="eip-id1168468280034" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-02.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168467308916" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-03.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Divide both sides by 9.</entry>
+ <entry><media id="eip-id1168468436933" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168468436950" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_02_024_img-05.png"/></media></entry>
+ </row>
+
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1731867">Check your answer. </para><table id="eip-id1168469467475" class="unnumbered unstyled" summary="The figure shows the steps to checking that a = 64 is the solution to the proportion 144 is to a as 9 is to 4. It shows 64 being substituted for a in the proportion. The proportion becomes 144 is to 64 as 9 is to 4. The common factors in the proportion are shown. The proportion becomes 9 times 16 is to 4 times 16 as 9 is to 4. The proportion is simplified to 9 is to 4 as 9 is to 4. So the solution a = 64 is correct."><label/>
+<tgroup cols="2"><tbody>
+
+<row> 
+<entry/>
+<entry><media id="eip-id1168468445856" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-01.png"/></media></entry>
+</row>
+
+ <row>
+   <entry align="left"><media id="eip-id1168469472298" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-02.png"/></media></entry>
+   <entry><media id="eip-id1168466275924" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-03.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Show common factors..</entry>
+ <entry><media id="eip-id1168469868535" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168467313516" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_025_img-05.png"/></media></entry>
+ </row>
+
+</tbody>
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166490805831" class="try"><label/><title>Try It</title><exercise id="fs-id1478601">
+<problem id="fs-id1236975">
+<para id="fs-id1341194">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>91</m:mn></m:mrow><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id828983">
+<para id="fs-id994403">65</para>
+</solution>
+</exercise>
+</note><example id="fs-id1166482427016">
+<exercise id="fs-id1526037"><problem id="fs-id1478962">
+<para id="fs-id1217253">Solve: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>52</m:mn></m:mrow><m:mrow><m:mn>91</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−4</m:mn></m:mrow><m:mi>y</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1499285">
+
+<table id="eip-id1168469612644" class="unnumbered unstyled" summary="The figure shows the steps to solve the proportion 52 is to 91 as -4 is to y using cross multiplication. It shows how the cross products are found and set equal to one another to form the equation y times 52 equals 91 times negative 4. When simplified, the equation becomes 52 times y = negative 364. Both sides of the equation are divided by 52. When simplified, the result is y = negative 7."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry> Find the cross products and set them equal. </entry>
+<entry><media id="eip-id1168466200955" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-02.png"/></media></entry>
+</row>
+
+<row> 
+<entry/>
+<entry><media id="eip-id1168469446628" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry>Simplify.</entry>
+   <entry><media id="eip-id1168466590965" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Divide both sides by 52.</entry>
+ <entry><media id="eip-id1168466126960" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-05.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168466126977" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_026_img-06.png"/></media></entry>
+ </row>
+
+</tbody>
+
+
+</tgroup>
+</table><table id="eip-id1168469797282" class="unnumbered unstyled" summary="The figure shows the steps to checking that y = negative 7 is the solution to the proportion 52 to 91 as negative 4 is to y. It shows negative 7 being substituted for y in the proportion. The proportion becomes 52 is to 91 as -4 is to y. The common factors in the proportion are shown. The proportion becomes 13 times 4 is to 13 times 7 as negative 4 is to negative 7. The proportion is simplified to 4 is to 7 as 4 is to 7. So the solution y= negative 7 is correct."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry> Check: </entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><media id="eip-id1168465991847" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-01.png"/></media></entry>
+</row>
+
+<row> 
+<entry align="left"><media id="eip-id1168469440416" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-02.png"/></media></entry>
+<entry><media id="eip-id1168469631391" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry>Show common factors.</entry>
+   <entry><media id="eip-id1168469603779" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-04.png"/></media></entry>
+ </row>
+
+ <row> 
+ <entry>Simplify.</entry>
+ <entry><media id="eip-id1168466047201" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_027_img-05.png"/></media></entry>
+ </row>
+
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166494584879" class="try"><label/><title>Try It</title><exercise id="fs-id1166490854296">
+<problem id="fs-id1154248">
+<para id="fs-id2053972">Solve the proportion: <m:math><m:mrow><m:mfrac><m:mrow><m:mn>84</m:mn></m:mrow><m:mrow><m:mn>98</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−6</m:mn></m:mrow><m:mi>x</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497424916">
+<para id="fs-id1166490859194">−7</para>
+</solution>
+</exercise>
+</note></section>
+<section id="fs-id1768035">
+<title>Solve Applications Using Proportions</title>
+<para id="fs-id1835884">The strategy for solving applications that we have used earlier in this chapter, also works for proportions, since proportions are equations. When we set up the <term class="no-emphasis">proportion</term>, we must make sure the units are correct—the units in the numerators match and the units in the denominators match.<newline/></para><example id="fs-id1317627"><exercise id="eip-idm1318891504"><problem id="eip-idm1233047584">
+<para id="fs-id1166490858421">When pediatricians prescribe acetaminophen to children, they prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (mL) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of the child’s weight. If Zoe weighs <m:math><m:mn>80</m:mn></m:math> pounds, how many milliliters of acetaminophen will her doctor prescribe?<newline/><newline/></para></problem>
+<solution id="fs-id1486412"><para id="eip-idm349029104"><newline/><media id="eip-id1165853910478" alt="Solution to Example 6"><image src="../../media/Example 6.png" mime-type="image/png" width="680"/></media> </para>
+
+
+</solution>
+</exercise></example><note id="fs-id1407584" class="try"><label/><title>Try It</title><exercise id="fs-id1549510">
+<problem id="fs-id1166494585593">
+<para id="fs-id1166497376317">Pediatricians prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (ml) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Emilia, who weighs <m:math><m:mn>60</m:mn></m:math> pounds?</para>
+</problem>
+<solution id="fs-id1693654">
+<para id="fs-id1559865">12 ml</para>
+</solution>
+</exercise>
+</note><note id="fs-id1362320" class="try"><label/><title>Try It</title><exercise id="fs-id1524849">
+<problem id="fs-id1105678">
+<para id="fs-id1166498099744">For every <m:math><m:mn>1</m:mn></m:math> kilogram (kg) of a child’s weight, pediatricians prescribe <m:math><m:mn>15</m:mn></m:math> milligrams (mg) of a fever reducer. If Isabella weighs <m:math><m:mn>12</m:mn></m:math> kg, how many milligrams of the fever reducer will the pediatrician prescribe?</para>
+</problem>
+<solution id="fs-id1272528">
+<para id="fs-id1166498083281">180 mg</para>
+</solution>
+</exercise>
+</note><example id="fs-id829816"><exercise id="eip-idm879159248"><problem id="eip-idm659439792">
+<para id="fs-id1166498049903">One brand of microwave popcorn has <m:math><m:mn>120</m:mn></m:math> calories per serving. A whole bag of this popcorn has <m:math><m:mn>3.5</m:mn></m:math> servings. How many calories are in a whole bag of this microwave popcorn?<newline/><newline/></para></problem>
+<solution id="fs-id1518056"><para id="eip-idm1503025776"><newline/><media id="eip-id2484644" alt="Solution for Example 7"><image src="../../media/Example 7.png" mime-type="image/png" width="680"/></media> </para>
+
+</solution>
+</exercise></example><note id="fs-id1166492002952" class="try"><label/><title>Try It</title><exercise id="fs-id1542650">
+<problem id="fs-id1693820">
+<para id="fs-id1412760">Marissa loves the Caramel Macchiato at the coffee shop. The <m:math><m:mn>16</m:mn></m:math> oz. medium size has <m:math><m:mn>240</m:mn></m:math> calories. How many calories will she get if she drinks the large <m:math><m:mn>20</m:mn></m:math> oz. size?</para>
+</problem>
+<solution id="fs-id1472106">
+<para id="fs-id1729173">300</para>
+</solution>
+</exercise>
+</note></section>
+<section id="eip-456"><title>Charles Law</title><para id="eip-903"><term>Charles Law</term> is an experimental gas law that describes how gases tend to expand when heated. According to this law, if the pressure of the gas is held constant, then the relationship between the volume and temperature of the gas can be modeled by the formula
+<equation id="eip-id1170771213897"><m:math>
+   <m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+</m:math></equation>
+
+<newline/><newline/> 
+Note that this formula is a proportion. If we know the initial volume and temperature of a gas, then we can find the resulting volume from changing the temperature or vise versa, by plugging in the three known values and solving the proportion to find the unknown value.<newline/><newline/></para><example id="eip-242"><exercise id="eip-id2933857"><problem id="eip-id4483012"><para id="eip-707">
+If 425 mL of nitrogen, originally at a temperature of 293 K, were rapidly squeezed so the resulting volume was 350 mL, what would the temperature change to? 
+</para></problem>
+<solution id="eip-id1171758451449"><para id="eip-id1171759802958">Plugging in the known values into the formula and solving the proportion for the resulting temperature, we obtain:<equation id="eip-id1171762176581"><m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>425</m:mn><m:mtext> mL</m:mtext></m:mrow>
+      <m:mrow>
+       <m:mn>293</m:mn><m:mtext> K</m:mtext></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>350</m:mn><m:mtext> mL</m:mtext></m:mrow>
+      <m:mrow>
+       <m:msub>
+        <m:mi>T</m:mi>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mn>425</m:mn><m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>293</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>350</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>425</m:mn><m:msub>
+        <m:mi>T</m:mi>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:mn>425</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>102550</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>425</m:mn></m:mrow>
+     </m:mfrac>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>≈</m:mo><m:mn>241</m:mn><m:mtext> K</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math>
+</equation>
+
+</para></solution>
+</exercise>
+</example></section>
+<section id="fs-id1387169" class="section-exercises"><title>Homework</title><para id="fs-id2053928"><emphasis effect="bold">Solve Proportions</emphasis> </para><para id="eip-940">In the following exercises, solve each proportion.</para><exercise id="fs-id1166490873748">
+<problem id="fs-id1166490873750">
+<para id="fs-id1832655"><m:math><m:mrow><m:mfrac><m:mi>x</m:mi><m:mrow><m:mn>56</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1948440">
+<para id="fs-id1948442">49</para>
+</solution>
+</exercise>
+<exercise id="fs-id1856456">
+<problem id="fs-id1856458">
+<para id="fs-id1856460"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>91</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>8</m:mn><m:mrow><m:mn>13</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1332920">
+<problem id="fs-id1332922">
+<para id="fs-id1332925"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>49</m:mn></m:mrow><m:mrow><m:mn>63</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>z</m:mi><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166476784575">
+<para id="fs-id1166476784577">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id1055640">
+<problem id="fs-id1055642">
+<para id="fs-id1166491053836"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>56</m:mn></m:mrow><m:mrow><m:mn>72</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>y</m:mi><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166491052667">
+<problem id="fs-id1166491052669">
+<para id="fs-id1731805"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>65</m:mn></m:mrow><m:mrow><m:mn>117</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166490874419">
+<para id="fs-id1166490874421">9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166491228338">
+<problem id="fs-id1166489102125">
+<para id="fs-id1166489102128"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mi>b</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>64</m:mn></m:mrow><m:mrow><m:mn>144</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497191913">
+<problem id="fs-id1321657">
+<para id="fs-id1321660"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>98</m:mn></m:mrow><m:mrow><m:mn>154</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−7</m:mn></m:mrow><m:mi>p</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497277650">
+<para id="fs-id1166497277653">−11</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166495278483">
+<problem id="fs-id1166495278485">
+<para id="fs-id1166495278487"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>72</m:mn></m:mrow><m:mrow><m:mn>156</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−6</m:mn></m:mrow><m:mi>q</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497196429">
+<problem id="fs-id1166493276399">
+<para id="fs-id1166493276401"><m:math><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mn>−8</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>−42</m:mn></m:mrow><m:mrow><m:mn>48</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1899661">
+<para id="fs-id1899663">7</para>
+</solution>
+</exercise>
+<exercise id="fs-id1341444">
+<problem id="fs-id657328">
+<para id="fs-id657330"><m:math><m:mrow><m:mfrac><m:mi>b</m:mi><m:mrow><m:mn>7</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>30</m:mn></m:mrow><m:mrow><m:mn>42</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para></problem>
+</exercise>
+<exercise id="fs-id1512065">
+<problem id="fs-id1166497229409">
+<para id="fs-id1166497229412"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.6</m:mn></m:mrow><m:mrow><m:mn>3.9</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>c</m:mi><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166498433833">
+<para id="fs-id1166491413038">2</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166479038728">
+<problem id="fs-id1166479038730">
+<para id="fs-id1166479038732"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.7</m:mn></m:mrow><m:mrow><m:mn>3.6</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>d</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1535836">
+<problem id="fs-id1535838">
+<para id="fs-id1166491984878"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.7</m:mn></m:mrow><m:mi>j</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>0.9</m:mn></m:mrow><m:mrow><m:mn>0.2</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166476814951">
+<para id="fs-id1166476814953">0.6</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492526042">
+<problem id="fs-id1166492526044">
+<para id="fs-id1166492526046"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>2.8</m:mn></m:mrow><m:mi>k</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2.1</m:mn></m:mrow><m:mrow><m:mn>1.5</m:mn></m:mrow></m:mfrac></m:mrow></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166491084037">
+<problem id="fs-id1166491084039">
+<para id="fs-id1166479028984"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mn>1</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>m</m:mi><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166498049824">
+<para id="fs-id1166498049826">4</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497147320">
+<problem id="fs-id1166497147322">
+<para id="fs-id1166497147324"><m:math><m:mrow><m:mfrac><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mn>3</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>9</m:mn><m:mi>n</m:mi></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1912193"><emphasis effect="bold">Solve Applications Using Proportions</emphasis> </para><para id="eip-371">In the following exercises, set up and solve a proportion to solve the problem.</para><exercise id="fs-id1166490773298">
+<problem id="fs-id1166490773300">
+<para id="fs-id1224443">Pediatricians prescribe <m:math><m:mn>5</m:mn></m:math> milliliters (mL) of acetaminophen for every <m:math><m:mn>25</m:mn></m:math> pounds of a child’s weight. How many milliliters of acetaminophen will the doctor prescribe for Jocelyn, who weighs <m:math><m:mn>45</m:mn></m:math> pounds?</para></problem>
+<solution id="fs-id929552">
+<para id="fs-id929554">9 mL</para></solution>
+</exercise>
+<exercise id="fs-id1430195">
+<problem id="fs-id1430197">
+<para id="fs-id1430199">Brianna, who weighs <m:math><m:mn>6</m:mn></m:math> kg, just received her shots and needs a pain killer. The pain killer is prescribed for children at <m:math><m:mn>15</m:mn></m:math> milligrams (mg) for every <m:math><m:mn>1</m:mn></m:math> kilogram (kg) of the child’s weight. How many milligrams will the doctor prescribe?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166483069196">
+<problem id="fs-id1166483069198">
+<para id="fs-id1166483069200">At the gym, Carol takes her pulse for <m:math><m:mn>10</m:mn></m:math> sec and counts <m:math><m:mn>19</m:mn></m:math> beats. How many beats per minute is this? Has Carol met her target heart rate of <m:math><m:mn>140</m:mn></m:math> beats per minute?</para>
+</problem>
+<solution id="fs-id1166484603014">
+<para id="fs-id1166484603016">114, no</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497426002">
+<problem id="fs-id1166497426004">
+<para id="fs-id1166497426006">Kevin wants to keep his heart rate at <m:math><m:mn>160</m:mn></m:math> beats per minute while training. During his workout he counts <m:math><m:mn>27</m:mn></m:math> beats in <m:math><m:mn>10</m:mn></m:math> seconds. How many beats per minute is this? Has Kevin met his target heart rate?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1523438">
+<problem id="fs-id1523440">
+<para id="fs-id1523442">A new energy drink advertises <m:math><m:mn>106</m:mn></m:math> calories for <m:math><m:mn>8</m:mn></m:math> ounces. How many calories are in <m:math><m:mn>12</m:mn></m:math> ounces of the drink?</para>
+</problem>
+<solution id="fs-id1877454">
+<para id="fs-id1166490819968">159 cal</para>
+</solution>
+</exercise>
+<exercise id="fs-id1342865">
+<problem id="fs-id1166491402076">
+<para id="fs-id1166491402078">One <m:math><m:mn>12</m:mn></m:math> ounce can of soda has <m:math><m:mn>150</m:mn></m:math> calories. If Josiah drinks the big <m:math><m:mn>32</m:mn></m:math> ounce size from the local mini-mart, how many calories does he get?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166483684806">
+<problem id="fs-id1523040">
+<para id="fs-id1523042">Karen eats <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> cup of oatmeal that counts for <m:math><m:mn>2</m:mn></m:math> points on her weight loss program. Her husband, Joe, can have <m:math><m:mn>3</m:mn></m:math> points of oatmeal for breakfast. How much oatmeal can he have?</para>
+</problem>
+<solution id="fs-id1790140">
+<para id="fs-id1387607"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mspace width="0.3em"/><m:mtext>cup</m:mtext></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1806619">
+<problem id="fs-id1806622">
+<para id="fs-id1806624">An oatmeal cookie recipe calls for <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math> cup of butter to make <m:math><m:mn>4</m:mn></m:math> dozen cookies. Hilda needs to make <m:math><m:mn>10</m:mn></m:math> dozen cookies for the bake sale. How many cups of butter will she need?</para>
+</problem>
+</exercise><exercise id="eip-519"><problem id="fs-id1166490867037">
+<para id="fs-id1166490867040"><emphasis effect="bold">Mixing a concentrate</emphasis> Sam bought a large bottle of concentrated cleaning solution at the warehouse store. He must mix the concentrate with water to make a solution for washing his windows. The directions tell him to mix <m:math><m:mn>3</m:mn></m:math> ounces of concentrate with <m:math><m:mn>5</m:mn></m:math> ounces of water. If he puts <m:math><m:mn>12</m:mn></m:math> ounces of concentrate in a bucket, how many ounces of water should he add? How many ounces of the solution will he have altogether?</para></problem>
+<solution id="fs-id1834022">
+<para id="fs-id1834024">20 oz., 32 oz.</para></solution></exercise><exercise id="eip-993"><problem id="eip-id1168835718517">
+<para id="eip-id1168835669986"><emphasis effect="bold">Mixing a concentrate</emphasis> Travis is going to wash his car. The directions on the bottle of car wash concentrate say to mix <m:math><m:mn>2</m:mn></m:math> ounces of concentrate with <m:math><m:mn>15</m:mn></m:math> ounces of water. If Travis puts <m:math><m:mn>6</m:mn></m:math> ounces of concentrate in a bucket, how much water must he mix with the concentrate?</para>
+</problem>
+</exercise>
+<exercise id="eip-852"><problem id="eip-137">
+  <para id="eip-164">
+  Use Charles Law to fill in the table.<newline/><newline/>
+<media id="eip-id1169542261589" alt="charles law table"><image src="../../media/Charles Law exercise 2.PNG" mime-type="image/png" width="480"/></media>
+  </para>
+</problem>
+
+<solution id="eip-38">
+  <para id="eip-230"><media id="eip-id6505573" alt="charles law table with solutions"><image src="../../media/Table for 4.5 Ex. 91 Answer.png" mime-type="image/png" print-width="2in" width="480"/></media>
+  </para></solution>
+
+</exercise><exercise id="eip-218"><problem id="eip-55">
+  <para id="eip-435">
+    Use Charles Law to fill in the table.<newline/><newline/>
+<media id="eip-id1164846453270" alt="charles law table"><image src="../../media/Charles Law exercise.PNG" mime-type="image/png" width="480"/></media>
+  </para>
+</problem>
+
+</exercise>
+
+</section></content>
+
+</document>

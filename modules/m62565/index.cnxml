@@ -1,0 +1,616 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Reading and Writing Decimals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62565</md:content-id>
+  <md:title>Reading and Writing Decimals</md:title>
+  <md:abstract/>
+  <md:uuid>161019eb-e4ec-4faa-9cad-5f72c6d57c13</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1164228711766">
+      <title>Learning Objectives</title><para id="eip-458">By the end of this lesson, you should be able to:</para><list id="id1164228455335" list-type="bulleted"><item>Understand the meaning of digits to the right of the ones place</item>
+<item>Be familiar with the meaning of decimal fractions</item>
+<item>Read and write a decimal fraction.</item></list></section>
+    <section id="id1164227994517">
+      <title>Digits to the Right of the Ones Place</title><para id="id1164228629447">Our number system is called a positional number system with base ten. Note that each position has a particular value. Observe that each position has ten times the value of the position to its right.</para><para id="id1164231835626"><media id="id1164231835626_media" alt="10 times 100,000 is the millions position. 10 times 10,000 is the hundred thousands position. 10 times 1,000 is the ten thousands position. 10 times 100 is the thousands position. 10 times 10 is the hundreds position. 10 times 1 is the tens position. 1 is the ones position.">
+          <image mime-type="image/png" src="../../media/graphics1-4762.png" id="id1164231835626__onlineimage" width="437" print-width="4in"/>
+        </media>
+      </para>
+      <para id="id1164228004158">This means that each position has <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math> the value of the position to its left.</para>
+      <para id="id1164227974435"><media id="id1164227974435_media" alt="1,000,000 is the millions position. One tenth of 1,000,000 is the hundred thousands. One tenths of 100,000 is the ten thousands. One tenth of 10,000 is the thousands position. One tenth of 1,000 is the thousands. One tenth of 100 is the tens position. One tenth of 10 is the ones position.">
+          <image mime-type="image/png" src="../../media/graphics2-3533.png" id="id1164227974435__onlineimage" width="450" print-width="4.25in"/>
+        </media>
+      </para>
+      <para id="id1164228003908">Thus, a digit written to the right of the units position must have a value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of 1. Recalling that the word "of" translates to multiplication 
+<m:math><m:mfenced open="(" close=")"><m:mo>⋅</m:mo></m:mfenced></m:math>, we can see that the value of the <emphasis effect="italics">first position</emphasis> to the right of the units digit is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of 1, or</para>
+      
+      <para id="eip-611"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mtext>10</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:mn>1</m:mn>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>10</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} }  cdot 1= {  {1}  over  {"10"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1164227963184">The value of the <emphasis effect="italics">second position</emphasis> to the right of the units digit is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math>, or</para>
+      <para id="id1164227982982">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mtext>10</m:mtext>
+                        </m:mfrac>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mtext>10</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>100</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} }  cdot  {  {1}  over  {"10"} } = {  {1}  over  {"10" rSup { size 8{2} } } } = {  {1}  over  {"100"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id1164228972686">The value of the third position to the right of the units digit is 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>10</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} } } {}</m:annotation></m:semantics></m:math> of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>100</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"100"} } } {}</m:annotation></m:semantics></m:math>, or</para>
+      
+      <para id="eip-698"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mtext>10</m:mtext>
+                        </m:mfrac>
+                        <m:mo stretchy="false">⋅</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mtext>100</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>3</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mn>1</m:mn>
+                      <m:mtext>1000</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"10"} }  cdot  {  {1}  over  {"10"} } = {  {1}  over  {"10" rSup { size 8{3} } } } = {  {1}  over  {"1000"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><para id="id1164228003398">This pattern continues.</para>
+      <para id="id1164227988969">We can now see that if we were to write digits in positions to the right of the units positions, those positions have values that are fractions. Not only do the positions have fractional values, but the fractional values are all powers of 10 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>10</m:mtext><m:mi>,</m:mi><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>,</m:mi><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msup><m:mi>,</m:mi><m:mo stretchy="false">…</m:mo></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ("10","10" rSup { size 8{2} } ,"10" rSup { size 8{3} } , dotslow  right )} {}</m:annotation></m:semantics></m:math>.</para>
+    </section>
+    <section id="id1164227995478"><title>Decimal Fractions</title><para id="id1164229017480"><title>Decimal Point, Decimal</title>If we are to write numbers with digits appearing to the right of the ones digit, we must have a way of denoting where the whole number part ends and the fractional part begins. Mathematicians denote the separation point of the ones digit and the tenths digit by writing a <term>decimal point</term>. The word <emphasis effect="italics">decimal</emphasis> comes from the Latin prefix "deci" which means ten, and we use it because we use a base ten number system. Numbers written in this form are called <term>decimal fractions</term>, or more simply, <term>decimals</term>.</para><para id="id1164228004062"><media id="id1164228004062_media" alt="millions, hundred thousands, ten thousands, thousands, hundreds, tens and ones are to the left of the decimal point. tenths, hundredths, thousandths, ten thousandths, hundred thousandths, and millionths are to the right of the decimal point.">
+          <image mime-type="image/png" src="../../media/graphics3-92f7.png" id="id1164228004062__onlineimage" width="600" print-width="6in"/>
+        </media>
+      </para>
+      <para id="id1164228008302">Notice that decimal numbers have the suffix "th."</para>
+      <para id="id1164228003597"><title>Decimal Fraction</title>A <term>decimal fraction</term> is a fraction in which the denominator is a power of 10.</para>
+      <para id="id1164228739392">The following numbers are examples of decimals.</para>
+     
+<list id="eip-id1167957228560" list-type="enumerated" number-style="lower-alpha"><item>
+ 42.6<newline/>
+      <para id="id1164229441204">The 6 is in the tenths position.</para>
+      <para id="id1164227994648">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtext>42</m:mtext>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mn>6</m:mn>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>42</m:mtext>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mn>6</m:mn>
+                      <m:mtext>10</m:mtext>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{"42" "." 6="42" {  {6}  over  {"10"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</item>
+<item>
+      9.8014<newline/>
+      <para id="id1164227967657">The 8 is in the tenths position. <newline/>
+The 0 is in the hundredths position. <newline/>
+The 1 is in the thousandths position. <newline/>
+The 4 is in the ten thousandths position. </para>
+      
+      
+      
+      
+      <para id="eip-683"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>9</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mtext>8014</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>9</m:mn>
+                    </m:mrow>
+                    <m:mfrac>
+                      <m:mtext>8014</m:mtext>
+                      <m:mrow>
+                        <m:mtext>10</m:mtext>
+                        <m:mi>,</m:mi>
+                        <m:mtext>000</m:mtext>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{9 "." "8014"=9 {  {"8014"}  over  {"10","000"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+</item>
+<item>0.93<newline/>
+      <para id="id1164229021194">The 9 is in the tenths position. <newline/>
+The 3 is in the hundredths position.</para>
+      
+      
+      <para id="eip-911"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mtext>93</m:mtext>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mtext>93</m:mtext>
+                        <m:mtext>100</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0 "." "93"= {  {"93"}  over  {"100"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><note id="id1164228711883" type="Note">Quite often a zero is inserted in front of a decimal point (in the units position) of a decimal fraction that has a value less than one. This zero helps keep us from overlooking the decimal point.</note>
+</item>
+<item>
+      0.7<newline/>
+      <para id="id1164228448593">The 7 is in the tenths position.</para>
+      
+      <para id="eip-87"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mn>0</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mn>7</m:mn>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>10</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{0 "." 7= {  {7}  over  {"10"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para><note id="id1164227977580" type="Note">We can insert zeros to the right of the right-most digit in a decimal fraction without changing the value of the number. <newline/>
+<m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>10</m:mtext>
+                      </m:mfrac>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mn>7</m:mn>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>70</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mtext>70</m:mtext>
+                          <m:mtext>100</m:mtext>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>7</m:mn>
+                        <m:mtext>10</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {  {7}  over  {"10"} } =0 "." 7=0 "." "70"= {  {"70"}  over  {"100"} } = {  {7}  over  {"10"} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </note>
+      </item></list></section>
+    <section id="id1164227982532"><title>Reading Decimal Fractions</title><para id="id1164228710401"><title>Reading a Decimal Fraction</title>To read a decimal fraction,
+<list id="id1164228712173" list-type="enumerated" number-style="arabic"><item>Read the whole number part as usual. (If the whole number is less than 1, omit steps 1 and 2.)</item>
+        <item>Read the decimal point as the word "and."</item>
+        <item>Read the number to the right of the decimal point as if it were a whole number.</item>
+        <item>Say the name of the place value of the last digit.</item>
+      </list></para>
+      
+      <section id="id1164228707234"><title/><para id="id1164227983990">Read the following numbers.</para>
+<example id="eip-id1172508709708">        
+<para id="id1164227978163">6.8</para>
+        <para id="id1164227979699"><media id="id1164227979699_media" alt="6.8 is six and eight tenths. The 8 is in the tenths position.">
+            <image mime-type="image/png" src="../../media/graphics4-be4f.png" id="id1164227979699__onlineimage" width="200" print-width="1.75in"/>
+          </media>
+        </para>
+        <note id="id1164227989658" type="Note">Some people read this as "six point eight." This phrasing gets the message across, but technically, "six <emphasis effect="italics">and</emphasis> eight tenths" is the correct phrasing.</note>
+</example>
+<example id="eip-id1172503414612">
+        <para id="id1164227978904">14.116 </para>
+        <para id="id1164227997870"><media id="id1164227997870_media" alt="14.116 is fourteen and one hundred sixteen thousandths. The six is in the thousandths position.">
+            <image mime-type="image/png" src="../../media/graphics5-b63f.png" id="id1164227997870__onlineimage" width="350" print-width="3in"/>
+          </media>
+        </para>
+</example>
+<example id="eip-id1172507063574">
+        <para id="id1164228964190">0.0019 </para>
+        <para id="id1164230400694"><media id="id1164230400694_media" alt="0.0019 is nineteen ten thousandths. The nine is in the ten thousandths position.">
+            <image mime-type="image/png" src="../../media/graphics6-a58c.png" id="id1164230400694__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+        </para>
+</example>
+<example id="eip-id1165232484965">
+        <para id="id1164227836132">81</para>
+        <para id="id1164228739456">Eighty-one</para>
+        
+        <para id="id1164228009578">In this problem, the indication is that any whole number is a decimal fraction. Whole numbers are often called <emphasis effect="italics">decimal numbers</emphasis>.</para><para id="eip-898"><m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>81</m:mtext>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mtext>81</m:mtext>
+                      </m:mrow>
+                      <m:mtext>.</m:mtext>
+                      <m:mn>0</m:mn>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"81"="81" "." 0} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        </example>
+      </section>
+      <section id="id1164227989704"><title>Practice Exercises</title><para id="id1164227994928">Read the following numbers.</para><note id="eip-770" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm385166176">
+<problem id="oo-id1164227984507">
+            <para id="id1164227991304">12.9   </para>
+          </problem>
+        
+<solution id="eip-id1164752418692"><para id="eip-id1164745360711">twelve and nine tenths</para></solution>
+</exercise></note>
+        <note id="eip-725" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm186557104">
+<problem id="oo-id1164229018224">
+            <para id="id1164227988543">4.86</para>
+          </problem>
+        <solution id="eip-id1165326877203"><para id="eip-id1165343328838">four and eighty-six hundredths</para></solution>
+</exercise></note><note id="eip-142" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm184034880">
+<problem id="oo-id1164227965797">
+            <para id="id1164228629460">7.00002</para>
+          </problem>
+        <solution id="eip-id5653534"><para id="eip-id1167625636557">seven and two hundred-thousandths</para></solution>
+</exercise></note>
+        </section></section>
+    <section id="id1164227991486"><title>Writing Decimal Fractions</title><para id="id1164228013335"><title>Writing a Decimal Fraction</title>To write a decimal fraction,
+<list id="id1164227991179" list-type="enumerated" number-style="arabic"><item>Write the whole number part.</item>
+        <item>Write a decimal point for the word "and."</item>
+        <item>Write the decimal part of the number so that the right-most digit appears in the place value indicated in the word name. If necessary, insert zeros to the right of the decimal point in order that the right-most digit appears in the correct position.</item>
+      </list></para>
+      
+      <section id="id1164228711892"><title/><para id="id1164228007351">Write each number.</para>
+        <example id="eip-id1170351333583">
+          <para id="eip-id1744631">Thirty-one and twelve hundredths.</para>
+        
+        <para id="id1164227996628">The decimal position indicated is the hundredths position.</para>
+        <para id="id1164228685233">31.12</para>
+</example>
+<example id="eip-id1170352795943">
+        
+          <para id="eip-id1170352130330">Two and three hundred-thousandths.</para>
+        
+        <para id="id1164227996870">The decimal position indicated is the hundred thousandths. We'll need to insert enough zeros to the immediate right of the decimal point in order to locate the 3 in the correct position.</para>
+        <para id="id1164227965778">2.00003</para>
+        </example>
+<example id="eip-id1170353319138">
+       
+         <para id="eip-id1170351460351"> Six thousand twenty-seven and one hundred four millionths.</para>
+     
+        <para id="id1164227980060">The decimal position indicated is the millionths position. We'll need to insert enough zeros to the immediate right of the decimal point in order to locate the 4 in the correct position.</para>
+        <para id="id1164228008747">6,027.000104</para>
+</example>
+</section>
+      <section id="id1164227654783"><title>Practice Exercises</title><para id="id1164227994155">Write each number.</para>
+        
+        <note id="eip-245" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm349455696">
+<problem id="oo-id1164227941660">
+            <para id="id1164227961665">Three hundred six and forty-nine hundredths.  </para>
+          </problem>
+        <solution id="eip-id1170358016537"><para id="eip-id3467809">306.49</para></solution>
+</exercise></note>
+        <note id="eip-417" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm389452112">
+<problem id="oo-id1164229018270">
+            <para id="id1164228737209">Nine and four thousandths.</para>
+          </problem>
+        <solution id="eip-id1168346730070"><para id="eip-id1168354517763">9.004</para></solution>
+</exercise></note><note id="eip-347" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm786400432">
+<problem id="oo-id1164228712676">
+            <para id="id1164227991016">Sixty-one millionths.</para>
+          </problem>
+        <solution id="eip-id1172522869714"><para id="eip-id1172509105350">0.000061</para></solution>
+</exercise></note>
+      </section></section>
+    <section id="id1164228712193" class="section-exercises"><title>Homework</title><para id="id1164229017218">For the following three problems, give the decimal name of the posi­tion of the given number in each decimal fraction.</para>
+      <exercise id="id1164227971507" print-placement="here"><problem id="oo-id1164228840773">
+          <para id="id1164227962565">1. 3.941  <newline/> 9 is in the <space count="20" effect="underline"/> position. <newline/>  4 is in the <space count="20" effect="underline"/> position. <newline/> 1 is in the <space count="20" effect="underline"/> position.</para>
+        </problem>
+      <solution id="eip-id1167883885527" print-placement="end"><para id="eip-id1167870780146">Tenths; hundredths, thousandths</para></solution></exercise>
+      <exercise id="id1164229019724" print-placement="here"><problem id="oo-id1164227962572">
+          <para id="id1164228007894">17.1085 <newline/> 1 is in the <space count="20" effect="underline"/> position. <newline/> 0 is in the <space count="20" effect="underline"/> position. <newline/> 8 is in the <space count="20" effect="underline"/> position. <newline/> 5 is in the <space count="20" effect="underline"/> position.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227995929" print-placement="here"><problem id="oo-id1164227979450">
+          <para id="id1164229016846">652.3561927 <newline/> 9 is in the <space count="20" effect="underline"/> position. <newline/> 7 is in the <space count="20" effect="underline"/> position.</para>
+        </problem>
+      <solution id="eip-id7355122" print-placement="end"><para id="eip-id1164733240969">Hundred thousandths; ten millionths</para></solution></exercise>
+      <para id="id1164227985836">For the following 7 problems, read each decimal fraction by writing it.</para>
+      <exercise id="id1164230774812" print-placement="here"><problem id="oo-id1164229018649">
+          <para id="id1164230448508">9.2</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227971297" print-placement="here"><problem id="oo-id1164228080225">
+          <para id="id1164229810156">8.1</para>
+        </problem>
+      <solution id="eip-id1168353305017" print-placement="end"><para id="eip-id1168366654238">eight and one tenth</para></solution></exercise>
+      <exercise id="id1164228737707" print-placement="here"><problem id="oo-id1164229747070">
+          <para id="id1164229018839">10.15</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164228007731" print-placement="here"><problem id="oo-id1164228737795">
+          <para id="id1164227996458">55.06</para>
+        </problem>
+      <solution id="eip-id1167625847826" print-placement="end"><para id="eip-id1167625949191">fifty-five and six hundredths</para></solution></exercise>
+      <exercise id="id1164228579531" print-placement="here"><problem id="oo-id1164227977442">
+          <para id="id1164227995406">0.78</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227967769" print-placement="here"><problem id="oo-id1164227990326">
+          <para id="id1164228843086">1.904</para>
+        </problem>
+      <solution id="eip-id1168160536746" print-placement="end"><para id="eip-id1168158775835">one and nine hundred four thousandths</para></solution></exercise>
+      <exercise id="id1164227989277" print-placement="here"><problem id="oo-id1164227967513">
+          <para id="id1164227973947">10.00011</para>
+        </problem>
+      </exercise>
+      <para id="id1164228201609">For the following 10 problems, write each decimal fraction.</para>
+      <exercise id="id1164228368794" print-placement="here"><problem id="oo-id1164229021201">
+          <para id="id1164229101129">Three and twenty-one hundredths.</para></problem>
+      <solution id="eip-id1172518897656" print-placement="end"><para id="eip-id1172496708435">3.21</para></solution></exercise>
+      <exercise id="id1164229361826" print-placement="here"><problem id="oo-id1164228728725">
+          <para id="id1164227965529">Fourteen and sixty-seven hundredths.</para></problem>
+      </exercise>
+      <exercise id="id1164228627722" print-placement="here"><problem id="oo-id1164227961659">
+          <para id="id1164227983642">One and eight tenths.</para>
+        </problem>
+      <solution id="eip-id1167955495673" print-placement="end"><para id="eip-id1167955403209">1.8</para></solution></exercise>
+      <exercise id="id1164227997249" print-placement="here"><problem id="oo-id1164228243897">
+          <para id="id1164227941199">Sixty-one and five tenths.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227995922" print-placement="here"><problem id="oo-id1164227985194">
+          <para id="id1164228842995">Five hundred eleven and four thousandths.</para>
+        </problem>
+      <solution id="eip-id1170725353888" print-placement="end"><para id="eip-id1170734605128">511.004</para></solution></exercise>
+      <exercise id="id1164228842720" print-placement="here"><problem id="oo-id1164227961678">
+          <para id="id1164227941818">Thirty-three and twelve ten-thousandths.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227995445" print-placement="here"><problem id="oo-id1164228250584">
+          <para id="id1164227985868">Nine hundred forty-seven thousandths.</para>
+        </problem>
+      <solution id="eip-id1164738495032" print-placement="end"><para id="eip-id1164740312657">0.947</para></solution></exercise>
+      <exercise id="id1164227729037" print-placement="here"><problem id="oo-id1164227977050">
+          <para id="id1164227966569">Two millionths.</para>
+        </problem>
+      </exercise>
+      <exercise id="id1164227570669" print-placement="here"><problem id="oo-id1164227961882">
+          <para id="id1164227968109">Seventy-one hundred-thousandths.</para>
+        </problem>
+      <solution id="eip-id1172507446284" print-placement="end"><para id="eip-id1172496112468">0.00071</para></solution></exercise>
+      <exercise id="id1164228628532" print-placement="here"><problem id="oo-id1164227962892">
+          <para id="id1164227967854">One and ten ten-millionths.</para>
+        </problem>
+      </exercise>
+      <para id="id1164228629852"><title>Calculator Problems</title>For the following 10 problems, perform each division using a calculator. Then write the resulting decimal using words.</para>
+      <exercise id="id1164228737786" print-placement="here"><problem id="oo-id1164228737450">
+          <para id="id1164228712186">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mi>÷</m:mi><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3¸4} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      <solution id="eip-id2737992" print-placement="end"><para id="eip-id1165418968357">seventy-five hundredths</para></solution></exercise>
+      <exercise id="id1164228738044" print-placement="here"><problem id="oo-id1164229790703">
+          <para id="id1164228840753">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mi>÷</m:mi><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1¸8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1164228614289" print-placement="here"><problem id="oo-id1164228629473">
+          <para id="id1164227984599">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>÷</m:mi><m:mtext>10</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4¸"10"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+      <solution id="eip-id1165326903021" print-placement="end"><para id="eip-id1165338193298">four tenths</para></solution></exercise>
+      <exercise id="id1164228008571" print-placement="here"><problem id="oo-id1164227979443">
+          <para id="id1164228009018">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mi>÷</m:mi><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2¸5} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1164228837159" print-placement="here"><problem id="oo-id1164227996092">
+          <para id="id1164227977521">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>4</m:mn><m:mi>÷</m:mi><m:mtext>25</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4¸"25"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      <solution id="eip-id1171083585122" print-placement="end"><para id="eip-id1171089370170">sixteen hundredths</para></solution></exercise>
+      <exercise id="id1164228842205" print-placement="here"><problem id="oo-id1164229018368">
+          <para id="id1164227941870"> 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mi>÷</m:mi><m:mtext>50</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1¸"50"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      
+      <exercise id="id1164227973053" print-placement="here"><problem id="oo-id1164227991617">
+          <para id="id1164228009414">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>3</m:mn><m:mi>÷</m:mi><m:mtext>16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3¸"16"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+      <solution id="eip-id1167955720134" print-placement="end"><para id="eip-id1167954672489">one thousand eight hundred seventy-five ten thousandths</para></solution></exercise>
+      <exercise id="id1164227973997" print-placement="here"><problem id="oo-id1164227963161">
+          <para id="id1164227965673"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>15</m:mtext><m:mi>÷</m:mi><m:mn>8</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"15"¸8} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+      <exercise id="id1164228710842" print-placement="here"><problem id="oo-id1164227985213">
+          <para id="id1164227997007"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>11</m:mtext><m:mi>÷</m:mi><m:mtext>20</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"11"¸"20"} {}</m:annotation></m:semantics></m:math>  </para>
+        </problem>
+      <solution id="eip-id1165424983994" print-placement="end"><para id="eip-id1165423636052">fifty-five hundredths</para></solution></exercise>
+      <exercise id="id1164227984216" print-placement="here">
+        <problem id="oo-id1164227988438">
+          <para id="id1164227977455"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>9</m:mn><m:mi>÷</m:mi><m:mtext>40</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9¸"40"} {}</m:annotation></m:semantics></m:math></para>
+        </problem>
+      </exercise>
+  
+    </section></content>
+</document>

@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Converting Rates</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62695</md:content-id>
+  <md:title>Converting Rates</md:title>
+  <md:abstract/>
+  <md:uuid>8d1bfa34-fe09-4840-82fe-80c65234c40e</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-418"><title>Learning Objectives</title><para id="eip-270">
+By the end of this lesson, you will be able to use dimensional analysis to:
+</para>
+<list id="eip-id8301342"><item>Convert rates.</item>
+<item>Convert measurements with squared or cubed units.</item>
+<item>Convert mi./hr. to m/min. for metabolic calculations.</item>
+<item>Convert metric rates.</item>
+
+</list></section><section id="eip-110"><title>Converting Rates</title><para id="eip-247">Rates have 2 labels that need to be changed in the one process. <emphasis>Don’t stop with a partial set up. Convert both labels in one process.</emphasis><newline/><newline/>
+</para><example id="eip-446"><exercise id="eip-id2261710"><problem id="eip-id1172728773612"><para id="eip-809">
+Convert 20.5 m/hr. to ft./min. 
+</para></problem>
+<solution id="eip-id2015310"><para id="eip-id1172727475025"><media id="eip-id1513704" alt="converting rates"><image src="../../media/converting rates 1.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+
+When you are converting rates, concentrate on converting one label (unit) at a time. So, the first 3 unit ratios are used to convert the m to ft. and the last unit ratio is used to convert the hr. to min, using the fact that there are 60 minutes in 1 hour. Note that the first “hr.” is in the denominator, so the unit ratio must have “hr.” in the numerator in order to cancel each other.<newline/><newline/>
+Notice how, after all the unit ratios are given so that we are left with ft. in the numerator and min. in the denominator, the ratios are then multiplied by first multiplying all the numerators together (ignoring the 1’s) and then multiplying the denominators together (again, ignoring the 1’s). Units that have not been canceled are included in this multiplication. The last step is to divide and label the answer correctly.</para></solution></exercise></example></section><section id="eip-626"><title>Conversions with Squared or Cubed Units</title><para id="eip-382">When converting squared or cubed units, keep in mind what “squared” or “cubed” means. For example, square feet means ft.<sup>2</sup>, which means (ft.)(ft.). So, to convert ft.<sup>2</sup> into in.<sup>2</sup>, we would need two unit ratios, one for each “ft.”.<newline/>
+</para><example id="eip-195"><exercise id="eip-id1171757667785"><problem id="eip-id5310664"><para id="eip-199">
+ Convert 40,000 sq. cm to sq. ft.
+</para></problem>
+<solution id="eip-id1171791516010"><para id="eip-id1171769715801"><media id="eip-id1171759435479" alt="converting rates"><image src="../../media/converting rates 2.PNG" mime-type="image/png" width="680"/></media><newline/><newline/>
+Notice that we need two unit ratios relating cm and in. so that both cm’s in the cm<sup>2</sup> label will cancel. Then, we need two unit ratios relating in. and ft. to cancel the two “in.” labels and end up with two “ft.” labels, which multiplied together results in the “ft.<sup>2</sup>” label, which we were converting to.<newline/><newline/>
+Here is another possible set up:<newline/>
+<media id="eip-id2413556" alt="converting rates"><image src="../../media/converting rates 3.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+<emphasis>Caution:</emphasis> When using this type of set-up, you must be careful to remember that everything inside the parentheses gets squared – the units <emphasis>and</emphasis> the numbers.
+</para></solution></exercise>
+</example></section><section id="eip-235"><title>Metabolic Calculations</title><para id="eip-226">Here are a few basics that will be seen for Metabolic Calculations, like those shown in <link document="m62588"> Evaluating Formulas</link>. These types of equations calculate oxygen consumption and energy expenditure for a given type of exercise.<newline/><newline/> 
+It is common to change miles per hour to meters per min when using formulas for Metabolic Calculations.
+Because it is so common, there is a standardized number to use, which is 26.8 m/min.  Let’s see where this standardized number comes from. Start with a rate of 1 mile per hour.
+
+<newline/><newline/>
+</para><example id="eip-661"><exercise id="eip-id1198132"><problem id="eip-id806646"><para id="eip-143">
+ Convert 1 mi./hr. to m/min.
+</para></problem>
+<solution id="eip-id3853004"><para id="eip-id1245374"><media id="eip-id4260974" alt="converting rates"><image src="../../media/converting rates 4.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+Notice that all the same unit ratios would be used with any number of miles. So, if we need to convert any number of miles/hour to m/min, we can simply multiply that number times 26.8. We only use this shortcut because converting from mi./hr. to m/min. is very common in exercise movement science.
+</para></solution></exercise></example><example id="eip-380"><exercise id="eip-id1166093329403"><problem id="eip-id1166091943986"><para id="eip-588">
+ Convert 2.34 miles per hour to meters per minute by multiplying it by the standard 26.8 and then verify with dimensional analysis.
+</para></problem>
+<solution id="eip-id1166090025276"><para id="eip-id1166090051776"><media id="eip-id1166091754205" alt="converting rates"><image src="../../media/converting rates 6.PNG" mime-type="image/png" width="240"/></media><newline/><newline/>
+Let’s check this answer with dimensional analysis.<newline/>
+<media id="eip-id1166091099984" alt="converting rates"><image src="../../media/converting rates 5.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+There is a slight difference in answers due to rounding, but it is standard to just use 26.8 when converting miles per hour to meters per minute for metabolic calculations. </para></solution></exercise></example></section><section id="eip-51"><title>Metric Rates</title><para id="eip-576"><title>More Metric Prefixes</title>Previously, we discussed the fact that for the metric system, there are basic units for the categories of linear, volume, and mass, which are meter, liter, and gram, respectively. We also learned the prefixes of kilo, hecto, deka, deci, centi, and milli. We will now add four more prefixes and their abbreviations, which are commonly used in the health and physical sciences:<list id="eip-id4478734">
+<item>mega (M) for one million times a standard unit.</item>
+<item>micro (mc) for one millionth of a standard unit.</item>
+<item>nano (use a lower case n) for one billionth of a standard unit.</item>
+<item>pico (p) for one trillionth of a standard unit.</item></list>
+You should recognize these prefixes and their abbreviations. Although, the metric prefix chart will be provided whenever needed.<newline/><newline/>
+We now have an extended metric prefix chart that we can use for converting between metric units by shifting the decimal, which is an extension of the chart used in <link document="m62526"> the Metric System</link>.<newline/>
+<media id="eip-id2215222" alt="metric prefix chart"><image src="../../media/metric prefix chart.PNG" mime-type="image/png" width="680"/></media><newline/><newline/>
+Note the gaps in the chart. These represent powers of 10 that we won't be using the prefixes for, but they must be used when shifting the decimal to convert between metric units.<newline/><newline/>
+</para><example id="eip-785"><exercise id="eip-id1166110086714"><problem id="eip-id1166106708894"><para id="eip-634">
+Convert 52,375 nanograms to milligrams.
+</para></problem>
+<solution id="eip-id1166111387071"><para id="eip-id1166103683953">Start in the chart at nano and count how many places and what direction you need to move in the chart to end at milli, making sure you count the gaps as well.<newline/><newline/><media id="eip-id1166089822317" alt="ng to mg"><image src="../../media/metric example.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+Therefore, 52,375 ng = 0.052375 mg.</para></solution></exercise>
+</example><para id="eip-648">When both labels of a rate are metric measurements, we can convert to another metric rate by either shifting the decimal point or with dimensional analysis. Be sure to watch for the denominator that is wanted. If it says per mL that means one mL.</para><example id="eip-938"><exercise id="eip-id1166089959056"><problem id="eip-id1166088656721"><para id="eip-895">
+Convert 180 mg per mL to g per dL, first using dimensional analysis, and then by shifting the decimal.
+</para></problem>
+<solution id="eip-id1166089993303"><para id="eip-id1166092488179">Using dimensional analysis:<newline/><newline/><media id="eip-id1166089875600" alt="converting rates"><image src="../../media/converting rates 7.PNG" mime-type="image/png" width="380"/></media><newline/><newline/>
+In contrast, to convert this rate by shifting the decimal, we move the decimal on the numerator (180 mg) three places to the left, to convert it to grams, and then move the decimal on the denominator (1 mL) two places to the left, to convert it to deciliters. The last step is to reduce the denominator to 1 dL by dividing the numerator by the denominator.<newline/><newline/>
+<media id="eip-id1166108097980" alt="converting rates"><image src="../../media/converting rates 8.PNG" mime-type="image/png" width="280"/></media></para></solution></exercise></example><example id="eip-774"><exercise id="eip-id1164840574560"><problem id="eip-id1164840614725"><para id="eip-111">
+ Convert 2.5 g/L to mg per 100 mL, first using dimensional analysis, and then by shifting the decimal.
+</para></problem>
+<solution id="eip-id1164840997083"><para id="eip-id1164840560568">Using dimensional analysis:<newline/><newline/>
+<media id="eip-id1164840595927" alt="converting rates"><image src="../../media/converting rates 9.PNG" mime-type="image/png" width="420"/></media><newline/><newline/>
+Notice that we first convert to mg/mL and then we multiply both the numerator and denominator by 100 to obtain a denominator of 100 mL.<newline/><newline/>
+By shifting the decimal:<newline/><newline/>
+<media id="eip-id1164842926074" alt="converting rates"><image src="../../media/converting rates 10.PNG" mime-type="image/png" width="380"/></media><newline/><newline/>Notice that the last step is the same as with dimensional analysis. However, we could also have divided both the numerator and denominator by 10, instead of reducing and then multiplying, since 1000 divided by 10 is also 100.</para></solution></exercise></example></section>
+
+<section id="eip-683" class="section-exercises"><title>Homework</title><para id="eip-952">
+For the following exercises, use dimensional analysis to make the conversions. Be sure to include labels on your answers.
+</para><exercise id="eip-535"><problem id="eip-876">
+  <para id="eip-654">
+Convert 343 miles in 3.5 hr. to kilometers per 1 hr. 
+  </para>
+</problem>
+
+<solution id="eip-551">
+  <para id="eip-321">
+ 158.06 km/hr.
+  </para>
+</solution>
+</exercise><exercise id="eip-359"><problem id="eip-536">
+  <para id="eip-875">
+  Convert 10 mg per lb. to g per kg 
+
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-381"><problem id="eip-79">
+  <para id="eip-385">
+Convert 0.85 g per liter to mg per ml 
+  </para>
+</problem>
+
+<solution id="eip-646">
+  <para id="eip-898">
+0.85 mg/mL
+  </para>
+</solution>
+</exercise><exercise id="eip-900"><problem id="eip-474">
+  <para id="eip-780">
+  If a snail travels 12 feet over night in 8 hours, how many inches per second does it travel?
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-257"><problem id="eip-768">
+  <para id="eip-855">
+Convert 16.5 square feet to square yard. 
+  </para>
+</problem>
+
+<solution id="eip-552">
+  <para id="eip-66">
+ 1.83 yd.<sup>2</sup>
+  </para>
+</solution>
+</exercise><exercise id="eip-245"><problem id="eip-25">
+  <para id="eip-815">
+ Convert 1.45 sq. meters to sq. inches.
+  </para>
+</problem>
+</exercise><exercise id="eip-452"><problem id="eip-121">
+  <para id="eip-114">
+  Change 0.55 sq. m per hour to sq. ft per minute. 
+  </para>
+</problem>
+
+<solution id="eip-930">
+  <para id="eip-375">
+ 0.099 ft.<sup>2</sup>/min.
+
+  </para>
+</solution>
+</exercise><exercise id="eip-826"><problem id="eip-727">
+  <para id="eip-801">
+  Convert 2750 sq. cm to sq feet.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-448"><problem id="eip-43">
+  <para id="eip-94">
+ Convert 5 miles per hour to meters per min., using the standard conversion factor of 26.8 and then verify with dimensional analysis.
+  </para>
+</problem>
+
+<solution id="eip-606">
+  <para id="eip-910"><media id="eip-id1166103901771" alt="converting rates"><image src="../../media/converting rates 11.PNG" mime-type="image/png" print-width="2in" width="480"/></media>
+  </para></solution>
+</exercise><exercise id="eip-336"><problem id="eip-16">
+  <para id="eip-457">
+Change 0.05 g per liter to mcg per mL.  
+  </para>
+</problem>
+
+</exercise><exercise id="eip-291"><problem id="eip-326">
+  <para id="eip-308">
+  Change 2500 mg per liter to g per 100 mL. 
+  </para>
+</problem>
+<solution id="eip-id8237937"><para id="eip-id8237938">0.25g/100mL</para></solution>
+
+</exercise><exercise id="eip-132"><problem id="eip-830">
+  <para id="eip-754">
+  Change 1.06 mg per liter to mcg per dL.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-35"><problem id="eip-732">
+  <para id="eip-558">
+ Change 0.2305 g per liter to mg per mL.
+  </para>
+</problem>
+
+<solution id="eip-id1166107213516"><para id="eip-id1166110476682">0.2305 mg/mL.</para></solution></exercise><exercise id="eip-4"><problem id="eip-742">
+  <para id="eip-356">
+ Change 6.2 kg per liter to g per mL.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-548"><problem id="eip-50">
+  <para id="eip-640">
+A current reading for driving under the influence of marijuana is a reading of THC blood content. If the reading is higher than 5 nanograms per milliliter, then the person legally can’t be driving.   Change this reading to mg per dl.
+  </para>
+</problem>
+
+<solution id="eip-825">
+  <para id="eip-442">
+0.0005 mg/dL
+  </para>
+</solution>
+</exercise><exercise id="eip-184"><problem id="eip-942">
+  <para id="eip-572">
+ A blood report shows a reading of 0.006 g per liter, convert to mcg per dl for this blood report.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-760"><problem id="eip-549">
+  <para id="eip-410">
+    Given a reading of 0.3 mg per liter change to mcg per dl.
+  </para>
+</problem>
+
+<solution id="eip-436">
+  <para id="eip-850">
+    30mcg/dL
+  </para>
+</solution>
+</exercise><exercise id="eip-831"><problem id="eip-839">
+  <para id="eip-913">
+    Convert 21.2 miles per gallon to feet per cup.
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

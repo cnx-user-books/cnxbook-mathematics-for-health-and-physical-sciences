@@ -1,0 +1,249 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Variation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62675</md:content-id>
+  <md:title>Variation</md:title>
+  <md:abstract/>
+  <md:uuid>dcdbe718-6f5a-4fe5-ae94-7adbd2db9b2c</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-869"><title>Learning Objectives</title><para id="eip-904">
+By the end of this lesson, you will be able to:
+</para>
+<list id="eip-id1168832935956">
+<item>Solve and identify direct variation problems.</item>
+<item>Solve and identify inverse variation problems.</item>
+<item>Find the constant of proportionality.</item></list></section><section id="eip-418"><title>Direct Variation</title><para id="eip-687">A relationship in which one quantity is a constant multiplied by another quantity is called <term>direct variation</term>. Each variable in this type of relationship varies directly with the other.<newline/><newline/>The constant multiplier is called the <term>constant of proportionality</term> and is represented by the variable <m:math><m:mi>k</m:mi></m:math>.<newline/><newline/>
+
+One characteristic of direct variation between two variables is that if one variable increases, the other variable increases as well.<newline/><newline/></para><example id="eip-584"><para id="eip-710">When the volume of a gas is kept constant, the relationship between the pressure and temperature of the gas is an example of direct variation. In the table below, a gas is kept at a constant volume while the pressure is increased. Then, the resulting temperature is also recorded.<newline/>
+
+</para><media id="eip-id7097670" alt="table of pressure and temperature"> <image src="../../media/Direct variation table.png" mime-type="image/png" width="580"/></media> 
+
+<para id="eip-id1165742292920">Notice how as the pressure increases, so does the temperature. This is a characteristic of direct variation. Another characteristic of direct variation is that one quantity must be a constant (<m:math><m:mi>k</m:mi></m:math>) multiplied by the other quantity. To find the constant of proportionality, <m:math><m:mi>k</m:mi></m:math>, we divide each pressure by its respective temperature. <newline/><newline/></para><equation id="eip-866"><m:math>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>750</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>300</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>2.5</m:mn><m:mo>;</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mrow>
+     <m:mn>812.5</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>325</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>2.5</m:mn><m:mo>;</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mrow>
+     <m:mn>1000</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>400</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>2.5</m:mn> 
+</m:math>
+</equation><para id="eip-769"><newline/>Thus, the constant of proportionality is <m:math><m:mi>k</m:mi></m:math> = 2.5 mmHg/K. Note that the we determine the units mmHg/K by noticing that this value of <m:math><m:mi>k</m:mi></m:math> was calculated by dividing each pressure, which is measured in mmHg, by the respective temperature, which is measured in degrees Kelvin (K).<newline/><newline/>
+
+This value is a constant of proportionality because you can multiply each temperature by this value and obtain the respective pressure. For example, <m:math><m:mn>300</m:mn><m:mo>(</m:mo><m:mn>2.5</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>750</m:mn></m:math>.</para><para id="eip-191">There is another constant of proportionality possible, if we instead divide each temperature by the respective pressure.</para><equation id="eip-188"><m:math>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>300</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>750</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>0.4</m:mn><m:mo>;</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mrow>
+     <m:mn>325</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>812.5</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>0.4</m:mn><m:mo>;</m:mo><m:mtext> </m:mtext><m:mfrac>
+    <m:mrow>
+     <m:mn>400</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>1000</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>0.4</m:mn> 
+</m:math>
+</equation><para id="eip-601">Thus, another constant of proportionality for this relationship is <m:math><m:mi>k</m:mi><m:mo>=</m:mo></m:math> 0.4 K/mmHg. You can verify that this is another constant of proportionality by multiplying this value by each pressure to see if you obtain the respective temperature.</para></example><section id="eip-416"><title>Inverse Variation</title><para id="eip-25">Another type of variation that we will look at is <term>inverse variation</term>. When the product of two variables is constant, in other words when their product is always equal to the same value, the relationship between the two variables is called inverse variation. The product that stays constant is called the constant of proportionality and is represented with the letter <m:math><m:mi>k</m:mi></m:math>. (Note that since multiplication is commutative, which means the order doesn't matter, there is only one constant of proportionality possible with inverse variation.)<newline/><newline/>
+A characteristic of inverse variation between two variables is that as one variable increases, the other variable decreases, and vice versa.<newline/></para><example id="eip-230"><exercise id="eip-id1166115235399"><problem id="eip-id1166105316315"><para id="eip-903">Recall that, according to Boyle's Law, if the temperature of a gas is kept constant, then the relationship between the pressure and volume of the gas can be modeled by the formula <m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math>.<newline/><newline/>
+This formula was used to determine the volume of a gas, under various amounts of pressure. The results are recorded in the table below.<newline/><newline/>
+<media id="eip-id4240324" alt="inverse variation example"><image src="../../media/inverse variation table.PNG" mime-type="image/png" width="580"/></media></para><para id="eip-id1169542445220">Notice how as the pressure increases, the volume decreases. This is a characteristic of inverse variation. Another characteristic of inverse variation is that the product of the two quantities must be constant. That common product is the constant of proportionality, <m:math><m:mi>k</m:mi></m:math>. To find the constant of proportionality, we multiply each pressure and it's respective volume. We should get the same result each time.<newline/><newline/></para></problem></exercise><para id="eip-477">The following table shows the products for each pair. Note that the volumes were found using the Boyle's Law formula and the third volume was rounded, which is why that product is slightly off. However, if you use the formula to find the exact volume (keeping it as a fraction) and used that value for the volume instead of the rounded value, you will find that the resulting product will be exactly the same as the rest.<newline/><newline/>
+<media id="eip-id1164549562392" alt="rest of table filled in"><image src="../../media/constant k found.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+Therefore, the constant of proportionality is <m:math><m:mi>k</m:mi></m:math> = 113,750.<newline/><newline/></para></example></section><example id="eip-108"><para id="eip-203">When the concentration of a solution must stay the same, this is an example of variation. In this example, we will determine whether this is direct or inverse variation and find the constant of proportionality.
+<newline/><newline/></para><exercise id="eip-id1166109985190"><problem id="eip-id1166109985191"><para id="eip-id1166110307662"><list id="eip-id1166110307663" list-type="enumerated" number-style="lower-alpha"><item>How much chemical should be added to obtain a total of 45 mL of a 3:10 solution?</item>
+<item>How much chemical should be added to obtain a total of 100 mL of a 3:10 solution?</item>
+<item>How much solution will be needed with 5 mL of chemical, to keep the 3:10 concentration?</item>
+<item>What type of variation is shown in this data?</item>
+<item>What is the constant of proportionality?</item></list></para></problem>
+<solution id="eip-id1166108744769"><para id="eip-id1166110300081"><list id="eip-id1170220059540" list-type="enumerated" number-style="lower-alpha"><item>Let <m:math><m:mi>x</m:mi></m:math> = the amount of chemical to be added. Then, we set up the following proportion:<newline/><newline/>
+<m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mrow>
+     <m:mn>10</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mi>x</m:mi>
+    <m:mrow>
+     <m:mn>45</m:mn></m:mrow>
+   </m:mfrac>
+</m:math>
+<newline/><newline/>Solving the proportion, we find that we need 13.5 mL of chemical.</item>
+<item>Let <m:math><m:mi>x</m:mi></m:math> = the amount of chemical to be added. Then, we set up the following proportion:<newline/><newline/>
+<m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mrow>
+     <m:mn>10</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mi>x</m:mi>
+    <m:mrow>
+     <m:mn>100</m:mn></m:mrow>
+   </m:mfrac>
+</m:math>
+<newline/><newline/>Solving the proportion, we find that we need 30 mL of chemical.</item>
+<item>Let <m:math><m:mi>x</m:mi></m:math> = the amount of chemical to be added. Then, we set up the following proportion:<newline/><newline/>
+<m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mrow>
+     <m:mn>10</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mrow>
+     <m:mi>x</m:mi></m:mrow>
+   </m:mfrac>
+</m:math>
+<newline/><newline/>Solving the proportion, we find that we need about 16.7 mL of solution (16 and 2/3 mL to be exact).</item>
+<item>Notice that as the amount of solution increases, so does the amount of chemical. So this is an example of direct variation.</item>
+<item>To find the constant of proportionality, we can divide the amount of chemical by the amount of solution. This gives us, <m:math><m:mi>k</m:mi></m:math> = 0.3. We can also divide the amount of solution by the amount of chemical to get another constant of proportionality of <m:math><m:mi>k</m:mi></m:math> is approximately 3.3.</item></list></para></solution></exercise></example></section>
+<section id="eip-816" class="section-exercises"><title>Homework</title><para id="eip-id1169542402058">For the following exercises, determine whether it is an example of direct or inverse variation and find the constant of proportionality.</para><exercise id="eip-312"><problem id="eip-14">
+  <para id="eip-292">Gas is purchased at a gas station by 4 separate customers and the number of gallons and total cost are recorded in the table below:<newline/><newline/>
+
+<media id="eip-id1170218454855" alt="variation exercise"><image src="../../media/variation exercise 2.PNG" mime-type="image/png" width="480"/></media>
+  </para></problem>
+
+<solution id="eip-838">
+  <para id="eip-994">This is direct variation and <m:math><m:mi>k</m:mi></m:math> is approximately 0.47 gal/$ or $2.13/gal.
+  </para></solution>
+</exercise><exercise id="eip-461"><problem id="eip-721">
+  <para id="eip-349">A distance of 100 miles is traveled by 4 separate vehicles, traveling at different speeds, and the speed and time to travel for each is recorded below:
+<newline/><newline/>
+
+<media id="eip-id1164847836914" alt="variation exercise"><image src="../../media/variation exercise 1.PNG" mime-type="image/png" width="480"/></media>
+  </para></problem>
+
+
+</exercise><exercise id="eip-553"><problem id="eip-960">
+  <para id="eip-223">A group of people want to buy a gift for someone that costs $40. Fill in the table of data for number of people and how much they have to contribute. Also find how many people contributed if each person contributed $8.<newline/><newline/>
+<media id="eip-id1170220077799" alt="variation table"><image src="../../media/variation exercise 3.PNG" mime-type="image/png" width="480"/></media>
+  </para></problem>
+
+<solution id="eip-907">
+  <para id="eip-470">This is inverse variation and <m:math><m:mi>k</m:mi></m:math> = 40.<newline/><newline/>
+<media id="eip-id1169542956795" alt="variation solution"><image src="../../media/variation exercise 3 solution.PNG" mime-type="image/png" print-width="3in" width="680"/></media>
+  </para></solution>
+</exercise><exercise id="eip-881"><problem id="eip-337">
+  <para id="eip-321">
+   When a force of 12 pounds is used to stretch a spring, it can be stretched to 9 inches. The same spring can be stretched to 30 inches by applying 40 pounds of force. What type of variation is this? What is the constant of proportionality?
+  </para>
+</problem></exercise><exercise id="eip-340"><problem id="eip-689">
+  <para id="eip-637">Use the formula <m:math>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>P</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>P</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   </m:mrow>
+</m:math> to find the resulting temperature when the pressure of the gas is decreased to 697 mmHg. Then, determine the constant of proportionality  and which type of variation this is.<newline/><newline/><media id="eip-idm1003219712" alt="variation"><image src="../../media/variation exercise 4.png" mime-type="image/png" width="480"/></media>
+  </para></problem>
+
+<solution id="eip-754">
+  <para id="eip-41">This is direct variation.
+
+<media id="eip-idm192013760" alt="variation"><image src="../../media/variation exercise 4 solution.png" mime-type="image/png" print-width="3in" width="680"/></media>
+  </para></solution>
+</exercise><exercise id="eip-233"><problem id="eip-1">
+  <para id="eip-680">If 425 mL of nitrogen, originally at a temperature of 293 K, were rapidly squeezed so the resulting volume was 350 mL, what would the temperature change to? Use Charles Gas Law to answer the question: <m:math>
+   <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>T</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   </m:mrow>
+</m:math>. Then, determine which type of variation this is and find the constant of proportionality.
+
+  </para></problem>
+
+
+</exercise><exercise id="eip-243"><problem id="eip-27">
+  <para id="eip-277">
+    It takes 3 people 40 hours to dig a ditch. The same size ditch can be dug by 5 people in 24 hours. What type of variation is this? What is the constant of proportionality?
+  </para>
+</problem>
+
+<solution id="eip-408">
+  <para id="eip-395">Inverse variation; <m:math><m:mi>k</m:mi><m:mo>=</m:mo><m:mn>120</m:mn></m:math>
+  </para></solution>
+</exercise><exercise id="eip-503"><problem id="eip-103">
+  <para id="eip-564">
+   Last week you worked 32 hours and earned $408. Two weeks ago, you earned $446.25 for 35 hours of work. What type of variation is this? What is the constant of proportionality? 
+  </para>
+</problem>
+
+
+</exercise></section>
+</content>
+
+</document>

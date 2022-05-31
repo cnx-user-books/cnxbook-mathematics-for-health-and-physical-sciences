@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Dosage</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62674</md:content-id>
+  <md:title>Dosage</md:title>
+  <md:abstract/>
+  <md:uuid>fbc05aeb-ac9c-4b65-8355-6797ff173aee</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-129"><title>Learning Objectives</title><para id="eip-638">
+By the end of this lesson, you will be able to:
+</para><list id="eip-id1165763167859"><item>Use the correct routine for dosage conversions.</item>
+<item>Use dimensional analysis to calculate dosages from doctor's order.</item>
+<item>Calculate dosages based on body size.</item>
+<item>Calculate dosages that include reconstituting a powdered drug to a liquid.</item></list></section><para id="delete_me">Recall the following abbreviations from <link document="m62673">Medical Abbreviations and Systems</link>:<list id="eip-id1166105387598">
+  
+<item>I.M. (intramuscular) This is a small amount to be injected with a syringe.</item>
+<item>I.V. (intravenously) This is a larger amount to be infused with an IV bag.</item>
+<item>P.O. (by mouth) This is to be swallowed.</item>
+<item>S.C. (subcutaneously which is under the skin) This is a small amount for a syringe.</item></list> 
+</para><para id="eip-34">The useable form of drug for the patient depends on what supply is on hand. Some medicines come in different 
+strengths; a tablet could be 125 mg or 500 mg.<newline/><newline/> 
+The doctor’s order could also be written as drug per kilogram or drug per square meter. In this case the patient’s 
+size will need to be a factor in the conversion process. For example, a doctor’s order may be written as 0.25 mg 
+of drug per 1 sq. meter. 
+The size of the patient will then determine how many mg are to be given.<newline/><newline/> 
+Dimensional analysis can be used to change the order to the amount to be administered, but note that the label 
+of square meter is eliminated by the body size and thus not converted as a squared unit. <newline/><newline/>
+</para><para id="eip-390">There is a preferred routine to set up the dosage conversion, starting first with the doctor’s order.<newline/><newline/> 
+Here is the plan: go from order to size to supply.<list id="eip-id1170802178801" list-type="enumerated" number-style="arabic"><item>Order</item> 
+<item>Patient size (this may or may not be part of the order)</item> 
+<item>Supply (this is the type of medicine with its concentration on the label; a different bottle may have a different 
+concentration.)</item></list></para><example id="eip-686"><exercise id="eip-id1166114680098"><problem id="eip-id1166111633281"><para id="eip-592">
+A patient’s BSA is 0.72 sq. m. Estimate how much of the drug will be administered 
+based on the order of 0.25 mg per sq. meter. The supply on hand has a concentration of 1 mg/10 mL.
+</para></problem>
+<solution id="eip-id1166106798755"><para id="eip-id1166106606624"><media id="eip-id1165753521291" alt="dosage calculation using dimensional analysis"><image src="../../media/dosage 1.PNG" mime-type="image/png" width="480"/></media><newline/><newline/></para>
+<para id="eip-id1164851494546">Notice how we start by writing the order as a ratio. Then, we multiply by the patient's size. Lastly, we multiply by the concentration of the supply, written as a ratio with mg in the denominator so the mg will cross cancel.</para></solution></exercise></example><note id="eip-199" class="try"><label/><title>Try It</title><exercise id="eip-id6699704"><problem id="eip-id1166104539451"><para id="eip-259">
+The patient has a BSA of 1.8 sq. m. Estimate how much of the drug will be 
+administered based on the order of 0.25 mg per sq. m. The concentration of the supply is 1 mg/10 mL.</para></problem>
+<solution id="eip-id1166106886656"><media id="eip-id1166104433626" alt="dosage calculation using dimensional analysis"><image src="../../media/dosage 2.PNG" mime-type="image/png" print-width="2in" width="480"/></media></solution></exercise></note><example id="eip-748"><exercise id="eip-id3439020"><problem id="eip-id3438612"><para id="eip-789">
+  The order is for 0.05 mg per kg and the patient weighs 92.6 kg. Determine how much 
+drug in mL will be administered. The concentration of the supply is 10 mg/22 mL.
+</para></problem>
+<solution id="eip-id3432715"><media id="eip-id3432547" alt="dosage calculation using dimensional analysis"><image src="../../media/dosage 3.PNG" mime-type="image/png" width="480"/></media></solution></exercise>
+</example><example id="eip-812"><exercise id="eip-id1164852116432"><problem id="eip-id1164854673159"><para id="eip-107">A physician has ordered mephenytoin (Mesatoin) 150 mg/m<sup>2</sup> tid P.O. for control of grand mal seizures. The BSA of the patient is 1.1 m<sup>2</sup>. Using a supply concentration of 1 capsule/82.5 mg, how many capsules are needed for the day? 
+</para></problem>
+<solution id="eip-id1164850811667"><para id="eip-id1164852194465">Recall that tid means three times per day. We first use dimensional analysis to calculate a single dose.<media id="eip-id1164851415558" alt="dosage calculation"><image src="../../media/dosage 5.PNG" mime-type="image/png" width="380"/></media><newline/>
+Since a single dose is 2 capsules and they are to take three doses per day, that means they will need to take 6 capsules per day.</para></solution></exercise></example><para id="eip-818"><figure id="eip-id6481303"><media id="eip-id1171874109242" alt="reconstituting a powdered drug to a liquid"><image src="../../media/Reconstitute.PNG" mime-type="image/png" width="240"/></media><caption>The diagram above shows reconstituting a powdered drug into a liguid, to be administered with a syringe. Some vials contain a specific amount of powdered drug measured in units or grams or milligrams. This powder must be changed into a liquid by adding a specified amount of diluent, such as sterile water.</caption></figure>
+
+This vial of dry powder contains 1,000,000 units of the drug, which is a type of penicillin. The directions on the label of the dry powder will include how to mix the drug by stating how much liquid to add (4.6 mL in this example). This is not part of the dosage calculation. After following the mixing directions, the concentration of the reconstituted solution to be administered will be 200,000 units per mL, as shown on its label. This is considered the supply.<newline/><newline/> 
+</para><example id="eip-57"><exercise id="eip-id1164847739451"><problem id="eip-id1164850407206"><para id="eip-489">Here is an example where the supply is a powdered drug in a vial. Find a single dose in milliliters.<list id="eip-id1164847007862"><item>Doctor’s order: 50,000 units I.M.</item> 
+ <item>Supply: 100,000 units/mL. (After reconstituting, the strength of the solution in the vial is 100,000 units 
+per mL.)</item> 
+</list></para></problem>
+<solution id="eip-id1164849584596"><para id="eip-id1164850365277"><media id="eip-id1171876549776" alt="reconstitute example"><image src="../../media/dosage 6.PNG" mime-type="image/png" width="380"/></media><newline/><newline/>
+
+Notice that we start with the doctor's order. Then, we multiply the unit ratio formed by the supply, which is the strength of the solution indicated on the label, placing the units in the denominator so the units will cross cancel.</para></solution></exercise></example><note id="eip-27" class="try"><label/><title>Try It</title><exercise id="eip-id1169450986422"><problem id="eip-id1169449788876"><para id="eip-id1169453148920">The order is 150,000 units to be administered from a vial containing 1,000,000 units, to be reconstituted with 5 mL of diluent. The supply concentration of the reconstituted vial is 200,000 units per cc. How many cc should be withdrawn from the vial? </para></problem>
+<solution id="eip-id1171874388952"><media id="eip-id1171875202486" alt="reconstitute example"><image src="../../media/dosage 7.PNG" mime-type="image/png" print-width="2in" width="380"/></media></solution>
+
+
+
+
+
+
+</exercise></note><section id="eip-666" class="section-exercises"><title>Homework</title><para id="eip-921">In the following exercises, use dimensional analysis to determine a single dose. If the drug is to be administered more than once, then multiply the 
+single dose by the total number of doses that will be given. 
+</para><exercise id="eip-794"><problem id="eip-558">
+  <para id="eip-394">
+     The doctor’s order is for 0.4 mcg per sq. meter. If the patient has a BSA of 0.3 sq. meters and the supply concentration is 1 mcg/10 mL, how much drug 
+will be administered? 
+  </para>
+</problem>
+
+<solution id="eip-146">
+  <para id="eip-79">1.2 mL</para></solution>
+</exercise><exercise id="eip-341"><problem id="eip-768">
+  <para id="eip-352">
+   The order is cycloserine (Seromycin) 0.25 g P.O. q8h for 2 weeks. Each capsule of the antitubercular drug contains 250 mg. How many capsules will you need for two weeks? 
+
+  </para>
+</problem>
+
+</exercise><exercise id="eip-910"><problem id="eip-615">
+  <para id="eip-46">
+   You have asked the patient for the name of his antihypertensive drug. The drug is Minipress 0.002 g/cap. The label on the bottle reads: 1 capsule tid. How many milligrams of drug is contained in one capsule? How many milligrams are to be administered each day?
+  </para>
+</problem>
+
+<solution id="eip-729">
+  <para id="eip-380">
+   6 mg/day
+  </para>
+</solution>
+</exercise><exercise id="eip-709"><problem id="eip-555">
+  <para id="eip-867">
+   The antianxiety drug prazepan has been prescribed for the patient, 20 mg tid. The medication is available in 5 mg capsules. How many capsules are prescribed per day? 
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-624"><problem id="eip-904">
+  <para id="eip-993">
+  A patient has an order for the antidepressant drug, Zoloft, 0.05 g P.O. daily. Each scored tablet is labeled 100 mg. How many tablets will you administer? (A scored tablet has a dividing mark across the tablet so it can be cut in half.) 
+  </para>
+</problem>
+
+<solution id="eip-465">
+  <para id="eip-136">
+    0.5 tab
+  </para>
+</solution>
+</exercise><exercise id="eip-200"><problem id="eip-715">
+  <para id="eip-790">
+   A patient has been having difficulty swallowing and the physician changed Compazine from tablets tosuppositories. The order is Compazine suppositories (rectal) q6h prn 10 mg. If each suppository is 5 mg, how many suppositories would you administer for the day? (prn is the abbreviation for “as needed.”) 
+  </para>
+</problem>
+
+</exercise><exercise id="eip-723"><problem id="eip-788">
+  <para id="eip-446">
+  The order is 2.5 milligrams per kilogram of a drug for a patient weighing 68 kilograms. Each capsule contains 50 milligrams. How many capsules would you administer to the patient?
+  </para>
+</problem>
+
+<solution id="eip-270">
+  <para id="eip-258">
+    = 3.4 cap , so give 3 capsules
+  </para>
+</solution>
+</exercise><exercise id="eip-49"><problem id="eip-886">
+  <para id="eip-775">
+    Cromolyn (Opticrom) nasal solution has been prescribed for its antiasthmatic action. The solution is labeled 5.2 mg/metered spray. If the patient administers 3 metered sprays via an inhaler, how many milligrams are inhaled? 
+  </para>
+</problem>
+
+</exercise><exercise id="eip-104"><problem id="eip-564">
+  <para id="eip-470">
+    Your patient must receive 0.5 mg of digoxin P.O. stat. Tablets available contain 0.125 mg. How many tablets will you administer to the patient? 
+
+  </para>
+</problem>
+
+<solution id="eip-653">
+  <para id="eip-186">
+    4 tabs
+  </para>
+</solution>
+</exercise><exercise id="eip-845"><problem id="eip-990">
+  <para id="eip-643">
+    The prescriber has written an order for 3 mg hydromorphone (Dilaudid) an opiod P.O., q4h prn. Label reads 10 mg = 15 mL. How many milliliters will you give your patient? 
+
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-945"><problem id="eip-641">
+  <para id="eip-15">
+    How many tablets are needed over 24 hours if the order is 300 mg every 4 hours and the supply is 150 mg/tab?
+  </para>
+</problem>
+
+<solution id="eip-91">
+  <para id="eip-805">
+    12 tablets
+  </para>
+</solution>
+</exercise><exercise id="eip-501"><problem id="eip-373">
+  <para id="eip-860">
+    The order is 100 mg b.i.d and there is 25 mg/cap available. How many caplets will be given to the patient over 24 hours?
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-718"><problem id="eip-975">
+  <para id="eip-785">
+    The doctor orders 15 mg/kg of a drug. The patient weighs 66 kg The drug is supplied as 100
+mg/2mL. How many mL will you administer per dose?
+
+  </para>
+</problem>
+
+<solution id="eip-943">
+  <para id="eip-711">
+    19.8 mL
+  </para>
+</solution>
+</exercise><exercise id="eip-668"><problem id="eip-836">
+  <para id="eip-161">
+    The order is for Ibuprofen 6 mg/kg by mouth every 4 hours as needed for pain for a child. The child
+weighs 72 lbs. The pharmacy dispenses the Ibuprofen at 25 mg/mL. How many mL will you administer in 24 hours?
+  </para>
+</problem>
+
+
+
+</exercise></section></content>
+
+</document>

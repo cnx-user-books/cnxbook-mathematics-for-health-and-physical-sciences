@@ -1,0 +1,185 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Graphing Solutions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62657</md:content-id>
+  <md:title>Graphing Solutions</md:title>
+  <md:abstract/>
+  <md:uuid>1b31c2be-e8ce-4219-ad84-ef0a8f8e61d4</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-85"><title>Learning Objectives</title><para id="eip-914">
+By the end of this lesson, you will be able to:</para>
+<list id="eip-id1164527482055"><item>Graph ordered pairs on a rectangular coordinate system.</item>
+<item>Calculate the slope of a line.</item>
+<item>Interpret the slope, in terms of the input and output.</item></list></section><section id="eip-718"><title>The Rectangular Coordinate System</title><para id="eip-105">Grids are used to show the relationship of the result of a formula, equation, or ratio. Given a value for the input, we can find the result or output. <newline/><newline/>
+</para><para id="eip-863">Properties of a <term>Rectangular Coordinate System</term>:<newline/><list id="eip-id1170787894323"><item>The grid is made of 2 intersecting number lines intersecting at zero.</item> 
+<item>The horizontal axis is called the x-axis or the input axis.</item> 
+<item>The vertical axis is called the y-axis or the output axis.</item> 
+<item>There are four quadrants that are labeled with Roman numerals I, II, III, and IV and this numbering goes counterclockwise.</item></list>
+		 
+Notice the use of negative numbers on these number lines. Since we are usually working with measurement numbers we will only use Quadrant I. <newline/><newline/> 
+<figure id="eip-id1166366233351"><media id="eip-id1895214" alt="grid" display="block"> <image src="../../media/Grid 1.png" mime-type="image/gif" width="240"/></media></figure> <newline/>
+<newline/>There are points plotted and labeled with two numbers. These labels are called <term>ordered pairs</term>. The first number is the <m:math><m:mi>x</m:mi></m:math>-coordinate (or the input value) and the second number is the <m:math><m:mi>y</m:mi></m:math>-coordinate (or the output value). In this course, since we are only working with measurements, which will always be positive, we will only be working with Quadrant I.<newline/>
+</para><para id="eip-770">When plotting points on a grid, start at zero. On the x-axis move to the x value and then go up to find the y value. In quadrant I, see the point (2, 1). It is plotted by moving horizontally from zero to 2 and then moving vertically up to 1. 
+
+Ordered pairs can come from numbers in a table of data, which can be given to us or we can find them by using an equation, formula, or ratio. <newline/><newline/>
+	
+The <m:math><m:mi>x</m:mi></m:math>-coordinates are usually already in the table as they are a sampling of inputs that could work in the relationship.<newline/><newline/>
+
+Each input is substituted into a given formula to find its matching <m:math><m:mi>y</m:mi></m:math> or output.<newline/> <newline/>
+
+After several points are found, they can then be plotted on the graph. The points are connected to make a line or curve. This line is a graphical representation of the relationship in the equation.<newline/><newline/>
+
+</para><example id="eip-45"><label/><title>Kool-Aid Solution</title><exercise id="eip-id5712144"><problem id="eip-id1165559495183"><para id="eip-434">When mixing Kool-Aid, we are making a solution with a chemical and water. 
+ 
+Remember, amount of solution = amount of chemical + amount of water, so amount of Kool-Aid = amount of powder + amount of water.<newline/><newline/> 
+ 	 
+We are told that it takes 1 tsp of powder to ½ cup of water to make this solution. 
+
+<newline/><newline/>
+ 	 
+Below is a table of data for increasing quantities of solution. <newline/><newline/>
+<media id="eip-id7705416" alt="Kool-Aid table" display="block"> <image src="../../media/Kool-Aid table.png" mime-type="image/gif" width="480"/></media> <newline/><newline/>
+Each of these matching inputs and outputs create an ordered pair. This is a pair that is “ordered” because we list the input first so (1, 0.5) is the first ordered pair while (5, 2.5) is the last. Each of the ordered pairs makes a point on a graph.<newline/><newline/>
+Use the ordered pairs from the table to plot points:(1, 0.5), (2, 1), (3, 1.5), (4, 2), (5, 2.5). Using only the first quadrant, plot a point for each of the ordered pairs. Connect the points with a straight line.
+</para></problem>
+<solution id="eip-id1166801603099"><para id="eip-id1166800357237">Plotting points: 
+<newline/>
+For the input, start at zero and go horizontal (right) to reach the input (for example 1) and then go up to reach the output (for example 0.5) and place a dot here.   
+<newline/>
+After several points are plotted they can be connected and we see that they form a line. This line is an estimate of the relationship between input and output.  <newline/><newline/>
+<figure id="eip-id1168898522572"><media id="eip-id7138470" alt="Kool-Aid Graph" display="block"><image src="../../media/Kool-Aid graph.png" mime-type="image/png" width="380"/></media></figure>
+
+
+</para></solution>
+</exercise>
+</example></section><section id="eip-141"><title>Calculating and Interpreting Slope</title><para id="eip-168">Slope is a numerical description of the steepness of the line on the graph, seen as the “difference of the outputs” divided by the “difference of the inputs.”  <newline/><newline/>The formula for slope is: <m:math>
+   <m:menclose notation="box">
+    <m:mrow>
+     <m:mtext>slope</m:mtext><m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:msub>
+        <m:mrow>
+         <m:mtext>output</m:mtext></m:mrow>
+        <m:mn>1</m:mn>
+       </m:msub>
+       <m:mo>−</m:mo><m:msub>
+        <m:mrow>
+         <m:mtext>output</m:mtext></m:mrow>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:msub>
+        <m:mrow>
+         <m:mtext>input</m:mtext></m:mrow>
+        <m:mn>1</m:mn>
+       </m:msub>
+       <m:mo>−</m:mo><m:msub>
+        <m:mrow>
+         <m:mtext>input</m:mtext></m:mrow>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+     </m:mfrac>
+     </m:mrow>
+   </m:menclose>
+</m:math>
+<newline/><newline/>
+Slope is a rate so it will have 2 labels as seen from a table of data.<newline/> 
+
+Notice how the formula is using two points with output1 and output2.<newline/>
+
+Notice also that the correlating inputs are in the same order when subtracting.<newline/>  
+</para><example id="eip-682"><title>Kool-Aid Solution revisited</title><para id="eip-818">
+ In the Kool-Aid solution graph, because a line is formed when connecting the points, we can use any two ordered pairs from the table of data to find the slope. 
+</para><exercise id="eip-355"><problem id="eip-62">
+  <para id="eip-596">
+   Using (2, 1) and (4, 2) we evaluate the formula. Be sure to use outputs in the numerator and inputs in the denominator.  Also, reduce the rate to a unit rate. 
+  </para>
+</problem>
+
+<solution id="eip-755">
+  <para id="eip-82"><emphasis>Calculating the slope</emphasis><newline/>
+<equation id="eip-id1209635"><m:math>
+   <m:mtext>slope</m:mtext><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>2</m:mn><m:mo>−</m:mo><m:mn>4</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+    <m:mrow>
+     <m:mo>−</m:mo><m:mn>2</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>0.5</m:mn> 
+</m:math>
+</equation>
+  So, the slope of the line is 0.5. We can verify this by evaluating the formula at two different points, (5, 2.5) and (1, 0.5):
+<equation id="eip-id1735910"><m:math>
+   <m:mtext>slope</m:mtext><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>2.5</m:mn><m:mo>−</m:mo><m:mn>0.5</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>5</m:mn><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mn>2</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>0.5</m:mn> 
+</m:math>
+</equation><newline/>
+<emphasis>Interpreting of slope</emphasis><newline/><newline/>
+
+The slope of the line is 0.5, but what does that mean? Let’s write an interpretation of the slope rate with labels, keeping in mind that the outputs are measured in cups and the inputs are measured in teaspoons:<newline/><newline/>  
+
+“For every 0.5 cup of solution, there is 1 tsp of chemical.”<newline/>
+
+Or “for every 1 tsp of chemical going in, we get 0.5 cups of solution out.” <newline/><newline/>
+
+Notice how the last interpretation uses the words  “in” for input and “out” for output. It also uses the correct labels.
+</para></solution>
+</exercise>
+</example></section><section id="eip-206" class="section-exercises"><title>Homework</title><para id="eip-874">
+For each of the following problems,<list id="eip-id6099830" list-type="enumerated" number-style="lower-alpha"><item>Use the given information about solutions and the ratio to complete the table of data.</item>
+<item> Plot the points on the graph and connect to form a line. </item>
+<item> Calculate the slope of the line, using the slope formula, and reduce to a unit rate.</item>
+<item> Write an interpretation for the slope using the correct measuring labels. </item></list></para><exercise id="eip-120"><problem id="eip-714">
+  <para id="eip-63">A 20 mL solution has 7.2 mL of alcohol. Maintain the ratio of 7.2 to
+20 to keep the same strength to fill in the table of data.<newline/><media id="eip-id2038955" alt="Solution table 1"> <image src="../../media/Solution table 1.png" mime-type="image/png" width="240"/></media><media id="eip-id2342959" alt="Solution graph 1"> <image src="../../media/Solution graph 1.png" mime-type="image/gif" width="240"/></media>   
+  </para></problem>
+
+<solution id="eip-474">
+  <para id="eip-910">
+    <list id="eip-id2345023" list-type="enumerated" number-style="lower-alpha"><item><media id="eip-id2050873" alt="Solution table 1a"> <image src="../../media/Solution table 1a.png" mime-type="image/gif" print-width="2in" width="240"/></media> </item>
+<item><media id="eip-id2055639" alt="Solution graph 1a"> <image src="../../media/Solution graph 1a.png" mime-type="image/gif" print-width="2in" width="240"/></media> </item>
+<item>slope is about 2.8.</item>
+<item>For every 2.8 mL of solution there is 1 mL of alcohol.</item></list></para>
+</solution>
+</exercise><exercise id="eip-853"><problem id="eip-907">
+  <para id="eip-881">There is a 500 ml solution with 10 grams of salt. Set up proportions to fill in the table of data, maintaining a ratio of 500 to 10.<newline/>
+<media id="eip-id2644195" alt="Solution table 3"> <image src="../../media/Solution table 3.png" mime-type="image/gif" width="240"/></media> 
+<media id="eip-id1724106" alt="Solution graph 3"> <image src="../../media/Solution graph 3.png" mime-type="image/gif" width="240"/></media> 
+  </para></problem>
+
+</exercise><exercise id="eip-955"><problem id="eip-423">
+  <para id="eip-199">
+    There is a 900 fl. oz. solution with 3 oz. of boric acid. Set up proportions to fill in the table of data, maintaining a chemical-to-solution ratio of 3 to 900.<newline/>
+<media id="eip-id1166812319631" alt="Solution table 2"> <image src="../../media/Solution table 2.png" mime-type="image/gif" width="240"/></media> <media id="eip-id1166800888305" alt="Solution graph 2"> <image src="../../media/Solution graph 2.png" mime-type="image/gif" width="240"/></media> 
+  </para>
+</problem>
+
+<solution id="eip-844">
+  <para id="eip-764"><list id="eip-id1166808891560" list-type="enumerated" number-style="lower-alpha"><item><media id="eip-id1166801765499" alt="Solution table 2a"> <image src="../../media/Solution table 2a.png" mime-type="image/gif" print-width="2in" width="240"/></media> </item>
+<item><media id="eip-id2911385" alt="Solution graph 2a"> <image src="../../media/Solution graph 2a.png" mime-type="image/gif" print-width="2in" width="240"/></media></item>
+<item>slope = 300</item>
+<item>For every 300 fl. oz. of solution, there is 1 of boric acid.</item></list></para>
+</solution>
+</exercise></section></content>
+
+</document>

@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>pH and Molarity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62702</md:content-id>
+  <md:title>pH and Molarity</md:title>
+  <md:abstract/>
+  <md:uuid>3accdb15-da3a-4de9-bb5b-3edffa27c068</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-164"><title>Learning Objectives</title><para id="eip-890">
+By the end of this lesson, you will be able to:
+</para><list id="eip-id1164843935850">
+<item>Understand the meaning of pH.</item>
+<item>Understand the formula for finding pH, based on molarity.</item>
+<item>Calculate pH of a solution given its molarity.</item></list></section><para id="delete_me">A solution may contain acids which produce hydrogen ions or a base which decreases the hydrogen ions. The acidity or base of the solution can be determined by the amount of hydrogen ions present. The measurement of the hydrogen ion concentration is equal to the molarity of the solution.<newline/><newline/> 
+
+Molarity is a rate of “ moles per liter.” Molarity (M) is used to measure the concentration of hydrogen ions in a solution, which is used with pH applications. <newline/><newline/> 
+
+The molarity is usually written in scientific notation, for example 5.5 × 10<sup>−4</sup> M means there is a partial mole (0.00055) of particles in one liter for this particular solution.<newline/><newline/>  
+</para><para id="eip-533">It is common to use <term>pH</term> to tell if a solution is acidic or basic. The pH scale shows a reading of 7 as neutral, a reading from 0 to below 7 as acidic and a reading from above 7 to 14 as basic. 
+<figure id="eip-id8201413"><media id="eip-id1170713803224" alt="pH scale"><image src="../../media/pH scale.png" mime-type="image/png" width="480"/></media></figure></para><para id="eip-37"><title>The pH formula</title>pH formula:   pH = −log[H+]  (This formula will be given on tests.)<newline/><newline/> 
+
+Because the scientific notation form for molarity is difficult to use directly as a basis for determining acidity, this formula changes it into a standard number between 0 and 14, which is the pH level.  Let’s analyze the formula reading it from right to left this time before we enter it into our calculator. <newline/><newline/> 
+
+[H+]<newline/><newline/> 
+
+The [H+] is the molarity number, which shows the concentration of hydrogen ions in the solution. This will be a small decimal number written in scientific notation so it will have a negative exponent.<newline/><newline/>  
+
+LOG<newline/><newline/>    
+
+The log part of the formula will give us a negative number because the molarity reading is always a decimal number (between 0 and 1).  Remember that logs are the exponents on the base of ten so a molarity reading of 2.65 × 10<sup>−5</sup> M will give us a log that is a little more than −5.  Enter in LOG 2.65 EXP −5 = to get about −4.576754.<newline/><newline/> 
+
+Opposite sign "−"  (<emphasis>Caution</emphasis> this is NOT the subtraction key)<newline/><newline/> 
+
+This part of the formula makes the final number positive. pH is usually rounded to the hundredths place. So -(−4.576754) becomes 4.58.  Thus, the pH of a solution with a molarity of 2.65 × 10<sup>−5</sup> M is 4.58. We can see from the scale that this solution is slightly acidic. <newline/><newline/> 
+
+<emphasis>Entering the formula into the calculator:</emphasis> <newline/><newline/> 
+ 	This formula uses "–" for opposite or negative so don’t use the subtraction sign.<newline/><newline/> 
+  	It uses EXP or EE for the scientific notation form.<newline/><newline/> 
+  	It uses the LOG key.<newline/><newline/> 
+</para><example id="eip-647"><exercise id="eip-id1164855685080"><problem id="eip-id1164853411739"><para id="eip-666">Given a molarity of  4.32 × 10<sup>−5</sup> M for hydrogen ions in a solution, find the pH with the given formula.
+</para></problem>
+
+<solution id="eip-id1164846637082"><para id="eip-id1164845687994">Enter in: − LOG 4.32 Exp −5 =  to see about 4.3645 on the screen. Round to 4.36 for pH.</para></solution></exercise></example><example id="eip-846"><exercise id="eip-id3111708"><problem id="eip-id1170228527369"><para id="eip-228">
+ Find the pH of the solution that has hydrogen ions of 3.67 × 10<sup>−8</sup> M.</para></problem><solution id="eip-id1170247396496"><para id="eip-id1170220497563">
+Enter in: –LOG 3.67 EE −8 = 7.43533. Round to 7.44 for pH.</para></solution></exercise> 
+</example><section id="eip-594" class="section-exercises"><title>Homework</title><para id="eip-992">
+For the following exercises. Use the pH formula and a scientific calculator to determine the pH level.
+</para><exercise id="eip-187"><problem id="eip-981">
+  <para id="eip-649">Find the pH of the solution that has a hydrogen ion concentration of 1.26 × 10<sup>−5</sup> M.
+  </para></problem>
+
+<solution id="eip-768">
+  <para id="eip-14">
+   pH = 4.90
+  </para>
+</solution>
+</exercise><exercise id="eip-708"><problem id="eip-1">
+  <para id="eip-185">Find the pH of a solution that has a molarity of 4.6 × 10<sup>-3</sup> M.
+  </para></problem>
+
+</exercise><exercise id="eip-476"><problem id="eip-249">
+  <para id="eip-605">Find the pH of a solution that has a molarity of 6.84 × 10<sup>-12</sup> M.
+  </para></problem>
+
+<solution id="eip-722">
+  <para id="eip-836">
+  pH = 11.16</para></solution>
+</exercise><exercise id="eip-491"><problem id="eip-89">
+  <para id="eip-475">Find the pH of sauerkraut with a hydrogen ion concentration of 3.162 × 10<sup>−4</sup> M.
+  </para></problem>
+
+
+</exercise><exercise id="eip-174"><problem id="eip-339">
+  <para id="eip-901">Find the pH of milk with a hydrogen ion concentration of 2.512 × 10<sup>−7</sup> M.
+  </para></problem>
+
+<solution id="eip-380">
+  <para id="eip-998">
+    pH = 6.60
+  </para>
+</solution>
+</exercise><exercise id="eip-71"><problem id="eip-29">
+  <para id="eip-310">Find the pH of baking soda with a hydrogen ion concentration of 3.1 × 10<sup>−9</sup> M.    
+  </para></problem>
+
+
+</exercise></section></content>
+
+</document>

@@ -1,0 +1,369 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Applications of Linear Equations in Health and Science</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62615</md:content-id>
+  <md:title>Applications of Linear Equations in Health and Science</md:title>
+  <md:abstract/>
+  <md:uuid>749ec078-a5da-490d-8674-fd5d5b0402be</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-993"><title>Learning Objectives</title><para id="eip-749">
+By the end of this lesson, you will be able to use linear equations to:
+</para><list id="eip-id2262272">
+<item>Solve problems involving the dilution of stock solutions.</item>
+<item>Solve problems using Boyle's Law.</item>
+</list></section><section id="eip-661"><title>Diluting Stock Solutions</title><para id="eip-31">
+When a solution is ordered, it may be that we can find it already mixed in the correct concentration or percentage.  Other times we find a "stock solution" already mixed, but it is too strong. We can use it if we first dilute it so the concentration is decreased.<newline/><newline/> 
+</para><para id="eip-266"><media id="eip-id4183281" alt="Diluting stock solution.png" display="block"> <image src="../../media/Diluting stock solution.png" mime-type="image/png" width="240"/></media> <newline/><newline/>
+
+In this image, water is added to a 10% stock solution to dilute it to 1%. Note that 9.0 mL of water is added to 1.0 mL of the stock solution. This gives a <emphasis><term>chemical-to-solution</term></emphasis>  ratio of 1 to 10 since there is 1 mL of chemical and 1 + 9 = 10 mL of solution.<newline/><newline/></para><para id="eip-230"><media id="eip-id1164073598762" alt="mixing OJ" display="block"> <image src="../../media/Mixing OJ.png" mime-type="image/gif" width="240"/></media> <newline/><newline/>
+This image shows the man using a strong stock concentrate (100% pure orange juice) and adding water to dilute it to a weaker strength.  Note that the ratio of this solution is 1 to 4. Remember this ratio is “chemical-to-solution” and not chemical-to-water. 
+A 1 to 4 ratio is the same as a 25% solution. So he used a 100% stock solution and diluted it down to a 25% solution. <newline/><newline/>
+</para><para id="eip-210">When we are diluting stock solutions, we will need to determine how much of the strong stock solution is needed, as well as how much water, to create the ordered solution. We will use a formula for the calculation and then we will write a sentence to describe how to prepare the ordered solution.<newline/><newline/>
+ 
+The formula we will use is:  <m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math> , where<newline/><newline/>  
+<m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub></m:math> is the concentration or strength of the premixed stock solution.<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub></m:math> is the volume of the premixed stock solution that will be used.<newline/>
+<m:math><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub></m:math> is the concentration or strength of the desired resulting solution.<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math> is the volume of the desired resulting solution. <newline/><newline/>
+</para><para id="eip-284">As you are reading these examples, notice how the percent sign is used as a label and that the number is not changed to a decimal, even though we are multiplying. (The percentages could be changed to decimals as long as both are changed, but it is not necessary in this situation.) Be sure to answer both questions - how much stock is needed and how to prepare it.<newline/><newline/></para><example id="eip-826"><exercise id="eip-id1170219915118"><problem id="eip-id1170254090637"><para id="eip-300">The order is for 1000 mL of a 10% solution to be made from a 25% stock solution. How much stock solution is needed to prepare this order? Describe how to prepare the ordered solution.
+</para></problem>
+
+<solution id="eip-id1170220747443"><para id="eip-id1170218387820">The formula to use: <m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math>.<newline/><newline/>
+Determine what values are known:<newline/><newline/>
+<m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>25</m:mn></m:math>%<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mtext>unknown</m:mtext></m:math><newline/>
+<m:math><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>10</m:mn></m:math>%<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>1000</m:mn></m:math> mL<newline/></para>
+<para id="eip-id1166124735936"><newline/>Plugging these values into the formula and then solving the equation, we obtain:<equation id="eip-id1166133347248"><m:math display="block">
+   <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>25</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     <m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>10</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>1000</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>25</m:mn><m:msub>
+        <m:mi>V</m:mi>
+        <m:mn>1</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:mn>25</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>10000</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>25</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     <m:mo>=</m:mo><m:mn>400</m:mn><m:mtext> mL</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math>
+</equation></para><para id="eip-id1166111500054">So, 400 mL of stock solution is needed.   
+This is the answer to the first question.<newline/><newline/> Now for the second question: How do we prepare the solution?  
+Since the total volume of the ordered solution must be 1000 mL, we need to add 600 mL of water to the 400 mL of stock solution.<newline/></para></solution>
+         
+</exercise></example><example id="eip-515"><exercise id="eip-id1170220103840"><problem id="eip-id1170252861074"><para id="eip-723">
+  The order is for 500 mL of a 0.2% solution to be made from a 0.5% stock solution. How much stock solution is needed to prepare this order? Describe how to prepare the ordered solution.
+</para></problem>
+<solution id="eip-id1166801634006"><para id="eip-id1166805455049">The formula to use: <m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math>.<newline/><newline/>
+Determine what values are known:<newline/><newline/>
+<m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>0.5</m:mn></m:math>%<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mtext>unknown</m:mtext></m:math><newline/>
+<m:math><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>0.2</m:mn></m:math>%<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>500</m:mn></m:math> mL<newline/></para>
+<para id="eip-id1166805393851"><newline/>Plugging these values into the formula and then solving the equation, we obtain:<equation id="eip-id1166801631714"><m:math display="block">
+   <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>0.5</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     <m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>0.2</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>500</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>0.5</m:mn><m:msub>
+        <m:mi>V</m:mi>
+        <m:mn>1</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:mn>0.5</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+      <m:mrow><m:mn>0.5</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     <m:mo>=</m:mo><m:mn>200</m:mn><m:mtext> mL</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math>
+</equation></para><para id="eip-id1166801544740">So, 200 mL of stock solution is needed.   
+This is the answer to the first question.<newline/><newline/> Now for the second question: How do we prepare the solution?  
+Since the total volume of the ordered solution must be 500 mL, we need to add 300 mL of water to the 200 mL of stock solution.<newline/>
+
+</para></solution></exercise></example></section><section id="eip-25"><title>Boyle's Law</title><para id="eip-541"><term>Boyle's Law</term> relates the pressure and volume of an ideal gas. This law states that, at constant temperature for a fixed mass, the product of absolute pressure and volume is always constant.   <newline/><newline/>
+
+The Boyle's Law formula is <m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math> , where<newline/><newline/>
+
+
+<m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:math> is the initial pressure of a gas.<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub></m:math> is the initial volume.<newline/>
+<m:math><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:math> is the final pressure.<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math> is the final volume. <newline/><newline/></para><example id="eip-165"><exercise id="eip-id1170792221074"><problem id="eip-id1170792205247"><para id="eip-933">
+  A respiratory therapist is monitoring a patient. The 150 mL of oxygen is at a pressure of 750 mmHg. If the pressure changed to 200 mmHg while the temperature remained the same, what would be the resulting volume?
+</para></problem>
+<solution id="eip-id1170794976008"><para id="eip-id1170790932346">The formula to use: <m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math><newline/><newline/>
+Determine what values are known:<newline/><newline/>
+<m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>750</m:mn></m:math> mmHg<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>150</m:mn></m:math> mL<newline/>
+<m:math><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>200</m:mn></m:math> mmHg<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mtext>unknown</m:mtext></m:math><newline/></para><para id="eip-id1168898207155"><newline/>Plugging these values into the formula and then solving the equation, we obtain:<equation id="eip-id1168935133337"><m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>750</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>150</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>200</m:mn><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>112500</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>200</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>200</m:mn><m:msub>
+        <m:mi>V</m:mi>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:mn>200</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mn>562.5</m:mn><m:mo>=</m:mo><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math></equation>
+<newline/>So, the resulting volume is 562.5 mL.</para></solution></exercise></example><example id="eip-813"><exercise id="eip-id1170789737569"><problem id="eip-id1170784659507"><para id="eip-580">
+  A container of 200 mL of oxygen is at a pressure of 625 mmHg. If the pressure changed to 350 mmHg, what would be the resulting volume?
+<newline/>
+</para></problem>
+<solution id="eip-id1170788029913"><para id="eip-id1170788035738">The formula to use: <m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math><newline/><newline/>
+Determine what values are known:<newline/><newline/>
+<m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>625</m:mn></m:math> mmHg<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>200</m:mn></m:math> mL<newline/>
+<m:math><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mn>350</m:mn></m:math> mmHg<newline/>
+<m:math><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mtext>unknown</m:mtext></m:math><newline/><newline/>Plugging these values into the formula and then solving the equation, we obtain:<equation id="eip-id1169512"><m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>625</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>200</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>350</m:mn><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>125000</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>350</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>350</m:mn><m:msub>
+        <m:mi>V</m:mi>
+        <m:mn>2</m:mn>
+       </m:msub>
+       </m:mrow>
+      <m:mrow>
+       <m:mn>350</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mn>357</m:mn><m:mo>≈</m:mo><m:msub>
+      <m:mi>V</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math></equation>
+So, the resulting volume is 357 mL.</para></solution></exercise>
+</example></section><section id="eip-748" class="section-exercises"><title>Homework</title><para id="eip-875">For each of the following exercises, use the formula <m:math><m:msub><m:mi>C</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>C</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math>  to determine how much stock solution must be used to prepare the ordered solution and describe how to prepare the solution.
+</para><exercise id="eip-894"><problem id="eip-879">
+  <para id="eip-183">
+   Prepare 50 mL of a 0.05% solution using a 0.2% stock solution.
+  </para>
+</problem>
+
+<solution id="eip-64">
+  <para id="eip-890">
+    Use 12.5 mL of the stock solution and add 37.5 mL of water to make 50 mL.
+  </para>
+</solution>
+</exercise><exercise id="eip-621"><problem id="eip-957">
+  <para id="eip-298">
+    Prepare 200 mL of a 20% solution using a 40% stock solution.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-946"><problem id="eip-317">
+  <para id="eip-341">
+    Prepare 200 mL of a 0.1% solution using a 0.45% stock solution.
+  </para>
+</problem>
+
+<solution id="eip-809">
+  <para id="eip-175">
+    Use 44.4 mL of the stock solution and add 155.6 mL of water to make 200 mL.
+  </para>
+</solution>
+</exercise><exercise id="eip-971"><problem id="eip-61">
+  <para id="eip-347">
+    Prepare 500 mL of a 25% solution using a 50% stock solution.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-703"><problem id="eip-506">
+  <para id="eip-746">
+    Prepare 100 mL of a 0.25% solution using a 0.3% stock solution.
+  </para>
+</problem>
+
+<solution id="eip-154">
+  <para id="eip-488">
+   Use 83.3 mL of stock solution and add 16.7 mL of water to make 100 mL.
+  </para>
+</solution>
+</exercise><exercise id="eip-212"><problem id="eip-891">
+  <para id="eip-629">
+    Prepare 400 mL of a 3% solution using a 15% stock solution.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-902"><problem id="eip-782">
+  <para id="eip-849">
+    Prepare 500 mL of a 10% bleach solution for cleaning made with 100% bleach.
+  </para>
+</problem>
+
+<solution id="eip-244">
+  <para id="eip-256">
+   Use 50 mL of pure bleach stock solution and add 450 mL of water to make 500 mL. This is a 10% bleach solution used for cleaning. 
+  </para>
+</solution>
+</exercise><para id="eip-301">For the following exercises, use the formula for Boyle's Law, <m:math><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>V</m:mi><m:mn>2</m:mn></m:msub></m:math>, to answer the question.</para><exercise id="eip-658"><problem id="eip-554">
+  <para id="eip-519">
+    A respiratory therapist is monitoring a patient. The 175 mL of oxygen is at a pressure of 650 mmHg. While keeping the same temperature, what is the resulting volume if the pressure changed to 200 mmHg?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-963"><problem id="eip-921">
+  <para id="eip-10">
+    A respiratory therapist is monitoring a patient. The 175 mL of oxygen is at a pressure of 650 mmHg. While keeping the same temperature, what is the resulting volume if the pressure changed to 375 mmHg?  
+  </para>
+</problem>
+
+<solution id="eip-id1168909734279"><para id="eip-id1168909734280">303.33 mL</para></solution></exercise><exercise id="eip-704"><problem id="eip-868">
+  <para id="eip-623">
+   A respiratory therapist is monitoring a patient. The 175 mL of oxygen is at a pressure of 650 mmHg. While keeping the same temperature, what is the resulting volume if the pressure changed to 100 mmHg?  
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

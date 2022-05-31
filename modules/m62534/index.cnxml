@@ -1,0 +1,529 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Scientific Notation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62534</md:content-id>
+  <md:title>Scientific Notation</md:title>
+  <md:abstract/>
+  <md:uuid>4fdc27c1-da90-423d-86aa-547fc386f62b</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-201"><title>Learning Objectives</title><para id="eip-860">
+By the end of this lesson, you will be able to
+<list id="eip-id1166809250248"><item>Read and understand scientific notation.</item>
+<item>Convert between decimal notation and scientific notation.</item>
+<item>Use scientific notation on a calculator.</item></list></para></section><section id="fs-id1529963"><title>Convert from Decimal Notation to Scientific Notation</title><para id="fs-id1529969">Remember working with place value for whole numbers and decimals? Our number system is based on powers of <m:math><m:mn>10</m:mn><m:mo>.</m:mo></m:math> We use tens, hundreds, thousands, and so on. Our decimal numbers are also based on powers of tens—tenths, hundredths, thousandths, and so on.</para>
+<para id="fs-id1529982">Consider the numbers <m:math><m:mn>4000</m:mn></m:math> and <m:math><m:mrow><m:mn>0.004</m:mn><m:mo>.</m:mo></m:mrow></m:math> We know that <m:math><m:mn>4000</m:mn></m:math> means <m:math><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1000</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:mn>0.004</m:mn></m:mrow></m:math> means <m:math><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math> If we write the <m:math><m:mn>1000</m:mn></m:math> as a power of ten in exponential form, we can rewrite these numbers in this way:</para>
+<equation id="fs-id1475680" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mn>4000</m:mn></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mn>0.004</m:mn></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>1000</m:mn></m:mrow></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="center"><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-id1513969">When a number is written as a product of two numbers, where the first factor is a number greater than or equal to one but less than <m:math><m:mrow><m:mn>10</m:mn><m:mo>,</m:mo></m:mrow></m:math> and the second factor is a power of <m:math><m:mrow><m:mn>10</m:mn></m:mrow></m:math> written in exponential form, it is said to be in <emphasis effect="italics">scientific notation.</emphasis></para>
+<note id="fs-id1513991"><label/><title>Scientific Notation</title>
+<para id="fs-id1513996">A number is expressed in <term>scientific notation</term> when it is of the form</para>
+<equation id="fs-id1171103166993" class="unnumbered"><label/><m:math><m:mrow><m:mi>a</m:mi><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mi>n</m:mi></m:msup></m:mrow></m:math></equation>
+<para id="fs-id1493616">where <m:math><m:mi>a</m:mi><m:mo>≥</m:mo><m:mn>1</m:mn></m:math> and <m:math><m:mi>a</m:mi></m:math> &lt; <m:math><m:mn>10</m:mn></m:math> and <m:math><m:mi>n</m:mi></m:math> is an integer.</para></note><para id="fs-id1493643">It is customary in scientific notation to use <m:math><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/></m:math> as the multiplication sign, even though we avoid using this sign elsewhere in algebra.</para>
+<para id="fs-id1493650">Scientific notation is a useful way of writing very large or very small numbers. It is used often in the sciences to make calculations easier.</para>
+<para id="fs-id1493655">If we look at what happened to the decimal point, we can see a method to easily convert from decimal notation to scientific notation.</para>
+<media id="fs-id1493659" alt="On the left, we see 4000 equals 4 times 10 cubed. Beneath that is the same thing, but there is an arrow from after the last 0 in 4000 to between the 4 and the first 0. Beneath, it says, “Moved the decimal point 3 places to the left.” On the right, we see 0.004 equals 4 times 10 to the negative 3. Beneath that is the same thing, but there is an arrow from the decimal point to after the 4. Beneath, it says, “Moved the decimal point 3 places to the right.”" display="block">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_008_img.jpg"/></media>
+<para id="fs-id1493671">In both cases, the decimal was moved <m:math><m:mn>3</m:mn></m:math> places to get the first factor, <m:math><m:mn>4</m:mn><m:mo>,</m:mo></m:math> by itself.</para>
+<list id="fs-id1487398" list-type="bulleted" bullet-style="bullet"><item>The power of <m:math><m:mn>10</m:mn></m:math> is positive when the number is larger than <m:math><m:mn>1</m:mn><m:mtext>:  </m:mtext><m:mspace width="0.2em"/><m:mn>4000</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:math></item>
+<item>The power of <m:math><m:mn>10</m:mn></m:math> is negative when the number is between <m:math><m:mn>0</m:mn></m:math> and <m:math><m:mn>1</m:mn><m:mtext>:  </m:mtext><m:mspace width="0.2em"/><m:mn>0.004</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mn>3</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:math></item>
+</list><example id="fs-id1513514">
+<exercise id="fs-id1513516"><problem id="fs-id1513518">
+<para id="fs-id1513520">Write <m:math><m:mrow><m:mn>37,000</m:mn></m:mrow></m:math> in scientific notation.</para>
+</problem>
+<solution id="fs-id1513530">
+
+
+<table id="eip-id1168467360549" class="unnumbered unstyled" summary="The first line says, “Step 1: Move the decimal point so that the first factor is greater than or equal to 1 but less than 10.” Beside that is 37000 with an arrow from after the last 0 to between the 3 and the 7. The next line says, “Step 2: Count the number of decimal places, n, that the decimal point was moved.” Beside that is 3.7000 and 4 places. The next line says, “Step 3: Write the number as a product with a power of 10. If the original number is: greater than 1, the power of 10 will be 10 o the n, Between 0 and 1, the power of 10 will be 10 to the negative n.” Beside that is 3.7 times 10 to the 4th. The last line says, “Step 4: Check.” Beside that is 10 to the 4th is 10,000 and 10,000 times 3.7 will be 37,000. 37,000 equals 3.7 times 10 to the fourth."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry><emphasis>Step 1</emphasis>: Move the decimal point so that the first factor is greater than or equal to 1 but less than 10.</entry>
+<entry><media id="eip-id1168467326175" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_009_img-01.png"/></media></entry>
+</row>
+
+
+<row>
+<entry><emphasis>Step 2</emphasis>: Count the number of decimal places, <m:math><m:mi>n</m:mi></m:math>, that the decimal point was moved. </entry>
+<entry>3.70000<newline/>4 places</entry>
+</row>
+
+<row>
+<entry><emphasis>Step 3</emphasis>: Write the number as a product with a power of 10.</entry>
+
+<entry><m:math><m:mn>3.7</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup></m:math></entry>
+</row>
+
+<row>
+<entry>If the original number is:
+<list id="eip-id1168468452809">
+<item>greater than 1, the power of 10 will be <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>.</item>
+<item>between 0 and 1, the power of 10 will be <m:math><m:msup><m:mn>10</m:mn><m:mi>−n</m:mi></m:msup></m:math></item>
+</list></entry>
+<entry> </entry>
+</row>
+
+<row>
+<entry><emphasis>Step 4</emphasis>: Check.</entry>
+<entry/>
+</row>
+
+<row>
+<entry><m:math><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup></m:math> is 10,000 and 10,000 times 3.7 will be 37,000. </entry>
+<entry/>
+</row>
+
+<row>
+<entry/>
+<entry><m:math><m:mn>37,000</m:mn><m:mo>=</m:mo><m:mn>3.7</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup></m:math></entry></row>
+
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<example id="eip-30"><exercise id="eip-id3296200">
+<problem id="eip-id3295541">
+<para id="eip-id3301813">Write in scientific notation: <m:math><m:mrow><m:mn>96,000</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="eip-id3210328">
+<para id="eip-id3318508">9.6 × 10<sup>4</sup></para>
+</solution>
+</exercise></example><note id="fs-id1506461" class="try"><label/><title>Try It</title><exercise id="fs-id1506465">
+<problem id="fs-id1506467">
+<para id="fs-id1506469">Write in scientific notation: <m:math><m:mrow><m:mn>48,300</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1506480">
+<para id="fs-id1506482">4.83 × 10<sup>4</sup></para>
+</solution>
+</exercise>
+</note><note id="fs-id1506500" class="howto"><label/><title>Convert from decimal notation to scientific notation</title><list id="eip-id1168468758847" list-type="enumerated" number-style="arabic" class="stepwise"><item>Move the decimal point so that the first factor is greater than or equal to <m:math><m:mn>1</m:mn></m:math> but less than <m:math><m:mrow><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>Count the number of decimal places, <m:math><m:mi>n</m:mi><m:mo>,</m:mo></m:math> that the decimal point was moved.</item>
+<item>Write the number as a product with a power of <m:math><m:mrow><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math>
+<list id="eip-id1168466026987">
+<item>If the original number is:</item>
+<item>greater than <m:math><m:mn>1</m:mn><m:mo>,</m:mo></m:math> the power of <m:math><m:mn>10</m:mn></m:math> will be <m:math><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mi>n</m:mi></m:msup><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>between <m:math><m:mn>0</m:mn></m:math> and <m:math><m:mn>1</m:mn><m:mo>,</m:mo></m:math> the power of <m:math><m:mn>10</m:mn></m:math> will be <m:math><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mo>−</m:mo><m:mi>n</m:mi></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></item>
+</list></item>
+<item>Check.</item>
+</list></note><example id="fs-id1491297">
+<exercise id="fs-id1491299"><problem id="fs-id1491301">
+<para id="fs-id1491303">Write in scientific notation: <m:math><m:mrow><m:mn>0.0052</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1491314">
+
+
+
+<table id="eip-id1168467187199" class="unnumbered unstyled" summary="The top line shows 0.0052. The next line says, “Move the decimal point to get 5.2, a number between 1 and 10. Count the number of decimal places the point was moved.” Beside that is 0.0052 with an arrow from the decimal to after the 5. Beneath that is written, “3 places.” The last line says, “Write as a product with a power of 10,” and shows 5.2 times 10 to the negative 3."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry> </entry>
+<entry align="center">0.0052</entry>
+</row>
+
+
+<row>
+<entry>Move the decimal point to get 5.2, a number between 1 and 10.</entry>
+<entry align="center"><media id="eip-id1168468543286" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_010_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry>Count the number of decimal places the point was moved.</entry>
+<entry align="center">3 places</entry>
+</row>
+
+<row>
+<entry>Write as a product with a power of 10.</entry>
+<entry align="center"><m:math><m:mn>5.2</m:mn><m:mo> ×</m:mo><m:msup><m:mn>10</m:mn><m:mn>−3</m:mn></m:msup></m:math></entry>
+</row>
+
+</tbody>
+
+
+
+</tgroup>
+</table><para id="eip-id1170325435190"><m:math display="block"><m:mtable><m:mtr><m:mtd columnalign="center"><m:mrow><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mrow><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac><m:mspace width="0.35em"/></m:mrow></m:mtd></m:mtr><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="center"><m:mspace width="0.15em"/><m:mrow><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1000</m:mn></m:mrow></m:mfrac></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mspace width="0.25em"/><m:mrow><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0.001</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mrow><m:mn>0.0052</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="center"><m:mrow><m:mn>0.0052</m:mn><m:mo>=</m:mo><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.2em"/></m:mtd></m:mtr></m:mtable></m:math></para></solution>
+</exercise></example>
+<example id="eip-763"><exercise id="eip-id1165854261928">
+<problem id="eip-id1165854261958">
+<para id="eip-id1165854261963">Write in scientific notation: <m:math><m:mrow><m:mn>0.0078</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="eip-id1165854262066">
+<para id="eip-id1165854262070">7.8 × 10<sup>−3</sup></para>
+</solution>
+</exercise>
+</example><note id="fs-id1488033" class="try"><label/><title>Try It</title><exercise id="fs-id1488037">
+<problem id="fs-id1488039">
+<para id="fs-id1488041">Write in scientific notation: <m:math><m:mrow><m:mn>0.0129</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1488052">
+<para id="fs-id1488054">1.29 × 10<sup>−2</sup></para>
+</solution>
+</exercise>
+</note></section><section id="fs-id1488063"><title>Convert Scientific Notation to Decimal Form</title><para id="fs-id1488069">How can we convert from scientific notation to decimal form? Let’s look at two numbers written in scientific notation and see.</para>
+<equation id="fs-id1488074" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="left"><m:mrow><m:mn>9.12</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup></m:mrow></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mn>9.12</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mn>9.12</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>10,000</m:mn></m:mrow></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mn>9.12</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>0.0001</m:mn></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mrow><m:mn>91,200</m:mn></m:mrow></m:mtd><m:mtd><m:mspace width="2em"/></m:mtd><m:mtd/><m:mtd columnalign="left"><m:mrow><m:mn>0.000912</m:mn></m:mrow></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-id1495986">If we look at the location of the decimal point, we can see an easy method to convert a number from scientific notation to decimal form.</para>
+<media id="fs-id1495991" alt="On the left, we see 9.12 times 10 to the 4th equals 91,200. Beneath that is 9.12 followed by 2 spaces, with an arrow from the decimal to after the second space, times 10 to the 4th equals 91,200.  On the right, we see 9.12 times 10 to the negative 4 equals 0.000912. Beneath that is three spaces followed by 9.12 with an arrow from the decimal to after the first space, times 10 to the negative 4 equals 0.000912." display="block">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_011_img.jpg"/>
+</media>
+<para id="fs-id1496002">In both cases the decimal point moved 4 places. When the exponent was positive, the decimal moved to the right. When the exponent was negative, the decimal point moved to the left.</para>
+<example id="fs-id1496007">
+<exercise id="fs-id1496009"><problem id="fs-id1496011">
+<para id="fs-id1496013">Convert to decimal form: <m:math><m:mrow><m:mn>6.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1496032">
+
+
+<table id="eip-id1168465244409" class="unnumbered unstyled" summary="The first line says, “Step 1: Determine the exponent, n, on the factor 10,” and shows 6.2 times 10 to the 3rd. The next line says, “Step 2: Move the decimal n places, adding zeros if needed. If the exponent is positive, move the decimal point n places to the right. If the exponent is negative, move the decimal point the absolute value of n places to the left.” Beside that is 6.200 with an arrow from the decimal point to after the second 0. Beneath that is 6,200. The last line says, “Step 3: Check to see if your answer makes sense.” Beside that, it says, “10 cubed is 1000 and 1000 times 6.2 will be 6,200. 6.2 times 10 to the 3rd equals 6,200."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry><emphasis>Step 1</emphasis>: Determine the exponent, <m:math><m:mi>n</m:mi></m:math>, on the factor 10.</entry>
+<entry align="center"><m:math><m:mn>6</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math></entry>
+</row>
+
+
+<row>
+<entry><emphasis>Step 2</emphasis>: Move the decimal point <m:math><m:mi>n</m:mi></m:math> places, adding zeros if needed.</entry>
+<entry align="center"><media id="eip-id1168467111645" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_012_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry><list id="eip-id1168467377733"><item>If the exponent is positive, move the decimal point <m:math><m:mi>n</m:mi></m:math> places to the right.</item>
+<item>If the exponent is negative, move the decimal point <m:math><m:mo>|</m:mo><m:mi>n</m:mi><m:mo>|</m:mo></m:math> places to the left. </item></list></entry>
+<entry align="center">6,200</entry>
+</row>
+
+<row>
+<entry><emphasis>Step 3</emphasis>: Check to see if your answer makes sense.</entry>
+<entry/>
+</row>
+
+<row>
+<entry><m:math><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup></m:math> is 1000 and 1000 times 6.2 will be 6,200.
+<newline/>
+<m:math><m:mn>6.2</m:mn> <m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mn>6,200</m:mn></m:math></entry>
+<entry/></row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<example id="eip-103"><exercise id="eip-id1166807380165">
+<problem id="eip-id1166807205850">
+<para id="eip-id1166806118815">Convert to decimal form: <m:math><m:mrow><m:mn>1.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="eip-id1166806108472">
+<para id="eip-id1166807342515">1,300</para>
+</solution>
+</exercise>
+</example><note id="fs-id1487648" class="try"><label/><title>Try It</title><exercise id="fs-id1487652">
+<problem id="fs-id1487654">
+<para id="fs-id1487656">Convert to decimal form: <m:math><m:mrow><m:mn>9.25</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1487676">
+<para id="fs-id1487678">92,500</para>
+</solution>
+</exercise>
+</note><note id="fs-id1491889" class="howto"><label/><title>Convert scientific notation to decimal form</title><list id="eip-id1168469761724" list-type="enumerated" number-style="arabic" class="stepwise"><item>Determine the exponent, <m:math><m:mi>n</m:mi><m:mo>,</m:mo></m:math> on the factor <m:math><m:mrow><m:mn>10</m:mn><m:mo>.</m:mo></m:mrow></m:math></item>
+<item>Move the decimal <m:math><m:mi>n</m:mi></m:math> places, adding zeros if needed.
+<list id="eip-id1168466070183">
+<item>If the exponent is positive, move the decimal point <m:math><m:mi>n</m:mi></m:math> places to the right.</item>
+<item>If the exponent is negative, move the decimal point <m:math><m:mrow><m:mo>|</m:mo><m:mi>n</m:mi><m:mo>|</m:mo></m:mrow></m:math> places to the left.</item>
+</list>
+</item>
+<item>Check.</item>
+</list></note><example id="fs-id1491954">
+<exercise id="fs-id1491957"><problem id="fs-id1504139">
+<para id="fs-id1504141">Convert to decimal form: <m:math><m:mrow><m:mn>8.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1504161">
+
+
+<table id="eip-id1168469657168" class="unnumbered unstyled" summary="The top line shows 8.9 times 10 to the negative 2. The next line says, “Determine the exponent, n, on the factor 10. The exponent is negative 2.” The following line says, “Move the decimal point 2 places to the left.” Beside that is space 8.9, with an arrow from the decimal point to before the space. The next line says, “Add zeros as needed for placeholders,” and shows 0.089. Beneath that is 8.9 times 10 to the negative 2 equals 0.089."><label/>
+<tgroup cols="2"><tbody>
+
+<row>
+<entry/>
+<entry><m:math><m:mn>8.9</m:mn> <m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>−2</m:mn></m:msup></m:math></entry>
+</row>
+
+<row>
+<entry>Determine the exponent <m:math><m:mi>n</m:mi></m:math>, on the factor 10.</entry>
+<entry>The exponent is −2.</entry>
+</row>
+
+<row>
+<entry>Move the decimal point 2 places to the left.</entry>
+<entry><media id="eip-id1168466262626" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_10_05_013_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry>Add zeros as needed for placeholders.</entry>
+<entry>0.089</entry>
+</row>
+
+<row>
+<entry> </entry>
+<entry><m:math><m:mn>8.9</m:mn><m:mo>×</m:mo><m:msup><m:mn>10</m:mn><m:mn>−2</m:mn></m:msup><m:mo>=</m:mo><m:mn>0.089</m:mn></m:math></entry>
+</row>
+<row>
+<entry>The Check is left to you.</entry>
+<entry/></row>
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<example id="eip-387"><exercise id="eip-id7669860">
+<problem id="eip-id7612013">
+<para id="eip-id7738830">Convert to decimal form: <m:math><m:mrow><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="eip-id7739975">
+<para id="eip-id7738367">0.00012</para>
+</solution>
+</exercise>
+</example><note id="fs-id1365162" class="try"><label/><title>Try It</title><exercise id="fs-id1365166">
+<problem id="fs-id1365168">
+<para id="fs-id1365170">Convert to decimal form: <m:math><m:mrow><m:mn>7.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1365190">
+<para id="fs-id1365192">0.075</para>
+</solution>
+</exercise>
+</note></section><section id="eip-846"><title>Scientific Notation on a Scientific Calculator</title><para id="eip-81">It's important that you know how to enter numbers into a calculator that are given in scientific notation, without having to convert it to decimal notation first, as well as how to read an answer that the calculator gives in scientific notation.<newline/>
+</para><para id="eip-539">On a scientific calculator, there is a button specifically meant for scientific notation. This button is either an Exp or an EE button. When you press the button an E will show on the screen (or × 10^) and the E represents × 10^, where the ^ symbol means "raised to the". You would then follow that with the exponent.<newline/><newline/>
+Try with your calculator: Enter in 7.15 × 10<sup>3</sup> as 7.15 Exp (or EE) 3, hit enter or the = sign, and your calculator will show 7150, which is the decimal notation.<newline/><newline/> 
+Now enter in 7.15 × 10<sup>15</sup> as 7.15 Exp (or EE) 15, hit enter or the = sign, and your calculator should show 7.15 × 10<sup>15</sup> or 7.15E15. This is because this number has too many digits to show on the screen in decimal notation. 
+<newline/></para><example id="eip-305"><exercise id="eip-id1171771195964"><problem id="eip-id1171782481451"><para id="eip-124">
+  Multiply (1.5 × 10<sup>−7</sup>)(8.2 × 10<sup>3</sup>) using your calculator.
+</para></problem>
+<solution id="eip-id1171771307418"><para id="eip-id1171773735583">This would be entered into the calculator as (1.5 Exp (or EE) −7)(8.2 Exp (or EE) 3). The calculator should give 0.00123 as the answer.</para></solution></exercise>
+</example><note id="eip-924" class="try"><label/><title>Try It</title><exercise id="eip-id1166813822559"><problem id="eip-id1166807285458"><para id="eip-id1166806272035">Multiply (9.9 × 10<sup>5</sup>)(9.9 × 10<sup>20</sup>) using your calculator.</para></problem>
+<solution id="eip-id1166806274254"><para id="eip-id1166808719582">Your calculator may show you 9.801 E 26, which means 9.801 × 10<sup>26</sup>.</para></solution></exercise> </note><example id="eip-907"><exercise id="eip-id1166815877643"><problem id="eip-id1166807382857"><para id="eip-772">
+  Use the calculator to divide: <m:math>
+     <m:mfrac>
+    <m:mrow>
+     <m:mn>2.04</m:mn><m:mo>×</m:mo><m:msup>
+      <m:mrow>
+       <m:mn>10</m:mn></m:mrow>
+      <m:mn>5</m:mn>
+     </m:msup>
+     </m:mrow>
+    <m:mrow>
+     <m:mn>3.4</m:mn><m:mo>×</m:mo><m:msup>
+      <m:mrow>
+       <m:mn>10</m:mn></m:mrow>
+      <m:mrow>
+       <m:mo>−</m:mo><m:mn>6</m:mn></m:mrow>
+     </m:msup>
+     </m:mrow>
+   </m:mfrac>
+</m:math>
+
+</para></problem>
+<solution id="eip-id1166805614656"><para id="eip-id1166805479721">This is entered as 2.04 Exp 5 ÷ 3.4 Exp -6. The answer is 6 × 10<sup>10</sup>.</para></solution></exercise>
+</example></section><section id="fs-id1504274" class="key-concepts">
+<title>Summary</title><list id="eip-932"><item><emphasis>Convert from Decimal Notation to Scientific Notation:</emphasis> To convert a decimal to scientific notation:
+<list id="eip-id1170326348637" list-type="enumerated" number-style="arabic" class="stepwise"><item>Move the decimal point so that the first factor is greater than or equal to 1 but less than 10.</item>
+<item>Count the number of decimal places, <m:math><m:mi>n</m:mi></m:math>, that the decimal point was moved.</item>
+<item>Write the number as a product with a power of 10.<list id="eip-id1170326348647">
+<item>If the original number is greater than 1, the power of 10 will be <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>.</item>
+<item>If the original number is between 0 and 1, the power of 10 will be <m:math><m:msup><m:mn>10</m:mn><m:mi>n</m:mi></m:msup></m:math>.</item></list></item>
+<item>Check.</item></list>
+</item>
+<item><emphasis>Convert Scientific Notation to Decimal Form:</emphasis> To convert scientific notation to decimal form:
+<list id="eip-id1170323926258" list-type="enumerated" number-style="arabic" class="stepwise"><item>Determine the exponent, <m:math><m:mi>n</m:mi></m:math>, on the factor 10.</item>
+<item>Move the decimal <m:math><m:mi>n</m:mi></m:math> places, adding zeros if needed.
+<list id="eip-id1170323926264"><item>If the exponent is positive, move the decimal point <m:math><m:mi>n</m:mi></m:math>  places to the right.</item>
+<item>If the exponent is negative, move the decimal point <m:math><m:mo>|</m:mo><m:mi>n</m:mi><m:mo>|</m:mo></m:math>  places to the left.</item></list></item>
+<item>Check.</item></list></item></list></section>
+<section id="fs-id1171103554291" class="section-exercises">
+<title>Homework</title><para id="fs-id1506604"><emphasis effect="bold">Convert from Decimal Notation to Scientific Notation</emphasis> </para><para id="eip-700">In the following exercises, write each number in scientific notation.</para><exercise id="fs-id1506622">
+<problem id="fs-id1506624">
+<para id="fs-id1506626">280,000</para>
+</problem>
+<solution id="fs-id1506630">
+<para id="fs-id1506633">2.8 × 10<sup>5</sup></para>
+</solution>
+</exercise>
+<exercise id="eip-807"><problem id="eip-357">
+  <para id="eip-804">
+    45,000
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-415"><problem id="fs-id1506652">
+<para id="fs-id1506654">1,290,000</para>
+</problem>
+<solution id="fs-id1506658">
+<para id="fs-id1506660">1.29 × 10<sup>6</sup></para>
+</solution>
+
+</exercise><exercise id="fs-id1506640">
+<problem id="fs-id1506642">
+<para id="fs-id1506644">8,750,000</para>
+</problem>
+</exercise>
+<exercise id="eip-631"><problem id="fs-id1531473">
+<para id="fs-id1531475">0.041</para>
+</problem>
+<solution id="fs-id1531479">
+<para id="fs-id1531481">4.1 × 10<sup>−2</sup></para>
+</solution>
+</exercise><exercise id="fs-id1506668">
+<problem id="fs-id1531463">
+<para id="fs-id1531465">0.036</para>
+</problem>
+</exercise>
+<exercise id="eip-537"><problem id="fs-id1531501">
+<para id="fs-id1531503">0.0000103</para>
+</problem>
+<solution id="fs-id1531507">
+<para id="fs-id1531509">1.03 × 10<sup>−5</sup></para>
+</solution>
+
+</exercise><exercise id="fs-id1531489">
+<problem id="fs-id1531491">
+<para id="fs-id1531493">0.00000924</para>
+</problem>
+</exercise>
+<exercise id="eip-322"><problem id="fs-id1531528">
+<para id="fs-id1531530">The population of the world on July 4, 2010 was more than <m:math><m:mn>6,850,000,000</m:mn><m:mo>.</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1531535">
+<para id="fs-id1531537">6.85 × 10<sup>9</sup></para>
+</solution>
+
+</exercise><exercise id="fs-id1531517">
+<problem id="fs-id1531519">
+<para id="fs-id1531521">The population of the United States on July 4, 2010 was almost <m:math><m:mn>310,000,000</m:mn><m:mo>.</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-520"><problem id="fs-id1531556">
+<para id="fs-id1531558">The probability of winning the <m:math><m:mn>2010</m:mn></m:math> Megamillions lottery is about <m:math><m:mn>0.0000000057</m:mn><m:mo>.</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1531562">
+<para id="fs-id1531565">5.7 × 10<sup>−9</sup></para>
+</solution>
+</exercise><exercise id="fs-id1531544">
+<problem id="fs-id1531546">
+<para id="fs-id1531549">The average width of a human hair is <m:math><m:mn>0.0018</m:mn></m:math> centimeters.</para>
+</problem>
+</exercise>
+<para id="fs-id1487467"><emphasis effect="bold">Convert Scientific Notation to Decimal Form</emphasis> </para><para id="eip-480">In the following exercises, convert each number to decimal form.</para><exercise id="eip-674"><problem id="fs-id1487498">
+<para id="fs-id1487500"><m:math><m:mrow><m:mn>8.3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1487516">
+<para id="fs-id1487518">830</para>
+</solution></exercise><exercise id="fs-id1487475">
+<problem id="fs-id1487477">
+<para id="fs-id1487479"><m:math><m:mrow><m:mn>4.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-639"><problem id="fs-id1487547">
+<para id="fs-id1487549"><m:math><m:mrow><m:mn>1.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1476587">
+<para id="fs-id1476589">16,000,000,000</para>
+</solution>
+</exercise><exercise id="fs-id1487524">
+<problem id="fs-id1487526">
+<para id="fs-id1487528"><m:math><m:mrow><m:mn>5.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>8</m:mn></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-318"><problem id="fs-id1476619">
+<para id="fs-id1476621"><m:math><m:mrow><m:mn>2.8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1476638">
+<para id="fs-id1476640">0.028</para>
+</solution></exercise><exercise id="fs-id1476594">
+<problem id="fs-id1476597">
+<para id="fs-id1476599"><m:math><m:mrow><m:mn>3.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-803"><problem id="fs-id1476670">
+<para id="fs-id1476672"><m:math><m:mrow><m:mn>6.15</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1527139">
+<para id="fs-id1527141">0.0000000615</para>
+</solution>
+</exercise><exercise id="fs-id1476646">
+<problem id="fs-id1476648">
+<para id="fs-id1476650"><m:math><m:mrow><m:mn>1.93</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-779"><problem id="fs-id1527174">
+<para id="fs-id1527177">At the start of 2012, the US federal budget had a deficit of more than <m:math><m:mrow><m:mtext>$1.5</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>13</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1527199">
+<para id="fs-id1527201">$15,000,000,000,000</para>
+</solution>
+</exercise><exercise id="fs-id1527146">
+<problem id="fs-id1527148">
+<para id="fs-id1527150">In 2010, the number of Facebook users each day who changed their status to ‘engaged’ was <m:math><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-225"><problem id="fs-id1527234">
+<para id="fs-id1527236">The width of a proton is <m:math><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math> of the width of an atom.</para>
+</problem>
+<solution id="fs-id1506171">
+<para id="fs-id1506173">0.00001</para>
+</solution>
+</exercise><exercise id="fs-id1527206">
+<problem id="fs-id1527209">
+<para id="fs-id1527211">The concentration of carbon dioxide in the atmosphere is <m:math><m:mrow><m:mn>3.9</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1506179"><emphasis effect="bold">Multiply and Divide Using Scientific Notation and a Scientific Calculator</emphasis> </para><para id="eip-946">In the following exercises, multiply or divide, using a scientific calculator, and write your answer in decimal form.</para><exercise id="eip-354"><problem id="fs-id1506232">
+<para id="fs-id1506234"><m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1498689">
+<para id="fs-id1498691">0.003</para>
+</solution>
+
+</exercise><exercise id="fs-id1506186">
+<problem id="fs-id1506188">
+<para id="fs-id1506190"><m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−9</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="eip-495"><problem id="fs-id1498743">
+<para id="fs-id1498745"><m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>2.1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>3.5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+<solution id="fs-id1512431">
+<para id="fs-id1512433">0.00000735</para>
+</solution>
+
+</exercise><exercise id="fs-id1498696">
+<problem id="fs-id1498698">
+<para id="fs-id1498700"><m:math><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>5.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−6</m:mn></m:mrow></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="eip-627"><problem id="fs-id1512477">
+<para id="fs-id1512479"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>8</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>6</m:mn></m:msup></m:mrow><m:mrow><m:mn>4</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−1</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1512510">
+<para id="fs-id1512512">20,000,000</para></solution>
+</exercise><exercise id="fs-id1512439">
+<problem id="fs-id1512441">
+<para id="fs-id1512443"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="eip-262"><problem id="fs-id1526836">
+<para id="fs-id1526839"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−10</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1526871">
+<para id="fs-id1526873">50,000,000</para>
+</solution>
+</exercise><exercise id="fs-id1512518">
+<problem id="fs-id1512520">
+<para id="fs-id1512522"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−2</m:mn></m:mrow></m:msup></m:mrow><m:mrow><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−8</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+</section>
+</content>
+
+</document>

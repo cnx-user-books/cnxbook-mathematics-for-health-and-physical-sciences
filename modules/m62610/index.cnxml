@@ -1,0 +1,398 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML"><title>Review: Operations with Fractions</title><metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62610</md:content-id>
+  <md:title>Review: Operations with Fractions</md:title>
+  <md:abstract/>
+  <md:uuid>90fa2537-baf2-4538-86dd-ec5a187cad97</md:uuid>
+</metadata>
+
+<content><section id="fs-id20400520">      <title>Learning Objectives</title><para id="eip-243">By the end of this lesson, you will be able to:</para><list id="fs-id12242180" list-type="bulleted"><item>Multiply fractions</item>
+<item>Divide fractions</item>
+<item>Add and subtract fractions</item>		      </list></section><section id="fs-id19725602"><title>Multiplication of Fractions</title><para id="fs-id20383459" class="highlight"><title>Multiplication of Fractions<newline/></title>To multiply two fractions, multiply the numerators together and multiply the denominators together. Reduce to lowest terms if possible.</para><example id="fs-id20432090"><exercise id="eip-idm562969552"><problem id="eip-idm562969424"><para id="fs-id17618564">Multiply <m:math>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>·</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>6</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+<solution id="eip-idm206639584"><para id="eip-idm206639456"><media id="fs-id2330830" alt="d." display="block">
+<image mime-type="image/png" src="../../media/Figure 1 for 2.2.png" print-width="4in" width="480"/>
+</media><newline/>Notice that we since had to reduce, we nearly started over again with the original two fractions. If we factor first, then cancel, then multiply, we will save time and energy and still obtain the correct product.</para></solution>
+</exercise></example>
+<example id="fs-id19269717"><exercise id="eip-idm317935280"><problem id="eip-idm317935152"><para id="eip-idm317935024">Multiply <m:math>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>·</m:mo><m:mfrac>    <m:mn>8</m:mn>    <m:mn>9</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm317931696"><para id="fs-id12974182"><media id="eip-idm971853616" alt="d." display="block">
+<image mime-type="image/png" src="../../media/Figure 2 for 2.2.png" print-width="4in" width="480"/>
+</media></para></solution>
+</exercise></example><example id="fs-id11706067"><exercise id="eip-idm238992288">
+<problem id="eip-idm238992032"><para id="eip-idm238991904">Multiply <m:math>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>·</m:mo><m:mfrac>    <m:mn>8</m:mn>    <m:mn>9</m:mn>   </m:mfrac><m:mo>·</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mn>12</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm239139376"><para id="fs-id9945154"><media id="eip-idm1095069664" alt="." display="block">
+<image mime-type="image/png" src="../../media/Figure 3 for 2.2.png" print-width="5in" width="600"/>
+</media></para></solution>
+</exercise></example><note id="eip-748" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm167247632"><problem id="eip-idm167247504"><para id="eip-idm167247376">Multiply <m:math>   <m:mfrac>    <m:mn>9</m:mn>    <m:mn>14</m:mn>   </m:mfrac>   <m:mo>·</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mn>3</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm167244048"><para id="eip-idm167243920"><m:math><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac></m:math></para></solution>
+</exercise></note></section><section id="fs-id15293164">      <title>Division of Fractions</title>	  <para id="fs-id20326970"><title>Reciprocals<newline/></title>Two numbers whose product is 1 are <term>reciprocals</term> of each other. For example, since <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>4</m:mn>    <m:mn>5</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>5</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>=</m:mo><m:mn>1</m:mn><m:mo>,</m:mo><m:mfrac>    <m:mn>4</m:mn>    <m:mn>5</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math> and <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>4</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math> are reciprocals of each other. Some other pairs of reciprocals are listed below.<newline/><newline/><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>2</m:mn>        <m:mn>7</m:mn>       </m:mfrac>       <m:mo>,</m:mo><m:mfrac>        <m:mn>7</m:mn>        <m:mn>2</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>3</m:mn>        <m:mn>4</m:mn>       </m:mfrac>       <m:mo>,</m:mo><m:mfrac>        <m:mn>4</m:mn>        <m:mn>3</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>6</m:mn>        <m:mn>1</m:mn>       </m:mfrac>       <m:mo>,</m:mo><m:mfrac>        <m:mn>1</m:mn>        <m:mn>6</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow>   </m:semantics></m:math><newline/><newline/>Reciprocals are used in division of fractions.<newline/><newline/></para><para id="fs-id20428396" class="highlight"><title><newline/>Division of Fractions<newline/></title>To divide a first fraction by a second fraction, multiply the first fraction by the reciprocal of the second fraction. Reduce if possible.<newline/><newline/></para><para id="fs-id17817896">This method is sometimes called the “invert and multiply” method.</para></section><section id="fs-id20168037"><para id="fs-id11753240">Perform the following divisions.</para><example id="fs-id20169168"><exercise id="eip-idm438946848"><problem id="eip-idm438951696"><para id="eip-idm438951568">Divide: <m:math>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>÷ </m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mn>4</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm438865632"><para id="fs-id9973633"><media id="eip-idm1186050016" alt="." display="block">
+<image mime-type="image/png" src="../../media/Figure 4 for 2.2.png" print-width="5in" width="580"/>
+</media></para></solution>
+</exercise></example><example id="fs-id19640802"><exercise id="eip-idm237144848"><problem id="eip-idm237144720"><para id="eip-idm236704000">Divide: <m:math>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>6</m:mn>   </m:mfrac>   <m:mo>÷ </m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mn>12</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm237366096"><para id="fs-id17539471"><media id="eip-idm339340480" alt="." display="block">
+<image mime-type="image/png" src="../../media/Figure 5 for 2.2.png" print-width="5in" width="580"/>
+</media></para></solution>
+</exercise></example><note id="eip-579" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm512803328"><problem id="eip-idm512803200"><para id="eip-idm512803072">Divide: <m:math>   <m:mfrac>    <m:mn>9</m:mn>    <m:mn>46</m:mn>   </m:mfrac>   <m:mo>÷ </m:mo><m:mfrac>    <m:mn>21</m:mn>    <m:mn>23</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm519449344"><para id="eip-idm519449216"><m:math><m:mfrac><m:mn>3</m:mn><m:mn>14</m:mn></m:mfrac></m:math></para></solution>
+</exercise></note></section><section id="fs-id17060938">      <title>Addition and Subtraction of Fractions</title><para id="fs-id6712896" class="highlight"><title>Fractions with Like Denominators<newline/></title>To add (or subtract) two or more fractions that have the same denominators, add (or subtract) the numerators and place the resulting sum over the common denominator. Reduce if possible.<newline/><newline/></para><para id="fs-id17515404" class="highlight">CAUTION<newline/><newline/>Add or subtract only the numerators. Do <emphasis>not</emphasis> add or subtract the denominators!</para></section><section id="fs-id13545753"><para id="fs-id17665576">Find the following sums.</para><example id="fs-id12243930"><exercise id="eip-idm465163248"><problem id="eip-idm465163120"><para id="eip-idm465162992">Add: <m:math><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:math></para></problem>
+
+<solution id="eip-idm457527120">
+<para id="fs-id12243931"><m:math display="block"> <m:semantics>  <m:mtable columnalign="left">   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>3</m:mn>          <m:mn>7</m:mn>         </m:mfrac>         <m:mo>+</m:mo><m:mfrac>          <m:mn>2</m:mn>          <m:mn>7</m:mn>         </m:mfrac>         <m:mo>.</m:mo>        </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The denominators are the same</m:mtext><m:mo>.</m:mo><m:mtext> Add the numerators and place the sum over 7</m:mtext><m:mo>.</m:mo>        </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mfrac>      <m:mn>3</m:mn>      <m:mn>7</m:mn>     </m:mfrac>     <m:mo>+</m:mo><m:mfrac>      <m:mn>2</m:mn>      <m:mn>7</m:mn>     </m:mfrac>     <m:mo>=</m:mo><m:mfrac>      <m:mrow>       <m:mn>3</m:mn><m:mo>+</m:mo><m:mn>2</m:mn>      </m:mrow>      <m:mn>7</m:mn>     </m:mfrac>     <m:mo>=</m:mo><m:mfrac>      <m:mn>5</m:mn>      <m:mn>7</m:mn>     </m:mfrac>         </m:mtd>   </m:mtr>  </m:mtable>     </m:semantics></m:math></para></solution>
+</exercise></example><example id="fs-id19314829"><exercise id="eip-idm423032832"><problem id="eip-idm224558336"><para id="eip-idm224558208">Subtract: <m:math><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:math></para></problem>
+
+<solution id="eip-idm629150816">
+
+<para id="fs-id19314830"><m:math display="block"> <m:semantics>  <m:mtable columnalign="left">   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>7</m:mn>          <m:mn>9</m:mn>         </m:mfrac>         <m:mo>−</m:mo><m:mfrac>          <m:mn>4</m:mn>          <m:mn>9</m:mn>         </m:mfrac>         <m:mo>.</m:mo>        </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The denominators are the same</m:mtext><m:mo>.</m:mo></m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd> <m:mrow>    <m:mfrac>      <m:mn>7</m:mn>      <m:mn>9</m:mn>     </m:mfrac>     <m:mo>−</m:mo><m:mfrac>      <m:mn>4</m:mn>      <m:mn>9</m:mn>     </m:mfrac>     <m:mo>=</m:mo><m:mfrac>      <m:mrow>       <m:mn>7</m:mn><m:mo>−</m:mo><m:mn>4</m:mn>      </m:mrow>      <m:mn>9</m:mn>     </m:mfrac>     <m:mo>=</m:mo><m:mfrac>      <m:mn>3</m:mn>      <m:mn>9</m:mn>     </m:mfrac>     <m:mo>=</m:mo><m:mfrac>      <m:mn>1</m:mn>      <m:mn>3</m:mn>     </m:mfrac> </m:mrow>        <m:mtd columnalign="left"> <m:mtext>       Subtract 4 from 7 and place the difference over 9</m:mtext><m:mo>.</m:mo></m:mtd>        </m:mtd>   </m:mtr>  </m:mtable>     </m:semantics></m:math></para></solution>
+</exercise></example><note id="eip-747" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm420035312"><problem id="eip-idm420035184"><para id="eip-idm263682016">Subtract: <m:math>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>6</m:mn>   </m:mfrac>   <m:mo>- </m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>6</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm273689008"><para id="eip-idm273688880"><m:math><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise></note></section><section id="fs-id13578785"><para id="fs-id17942247">Fractions can only be added or subtracted conveniently if they have like denominators.<newline/><newline/></para><para id="fs-id10202323" class="highlight"><title>Fractions with Unlike Denominators<newline/></title>To add or subtract fractions having unlike denominators, convert each fraction to an equivalent fraction having as the denominator the least common multiple of the original denominators.<newline/><newline/></para><para id="fs-id19408300">The least common multiple of the original denominators is commonly referred to as the <term>least common denominator</term> (LCD).</para></section><section id="fs-id7547254"><para id="fs-id13618099">Find each sum or difference.</para><example id="fs-id13618102"><exercise id="eip-idm798390368"><problem id="eip-idm798386080"><para id="eip-idm798356064">Add: <m:math><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:math></para></problem>
+
+<solution id="eip-idm798300320">
+<para id="fs-id5968208"><m:math display="block"> <m:semantics>  <m:mtable columnalign="left">   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>1</m:mn>          <m:mn>6</m:mn>         </m:mfrac>         <m:mo>+</m:mo><m:mfrac>          <m:mn>3</m:mn>          <m:mn>4</m:mn>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The denominators are not alike</m:mtext><m:mo>.</m:mo><m:mtext> Find the LCD of 6 and 4</m:mtext><m:mo>.</m:mo>        </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">          <m:mtr>           <m:mtd>            <m:mn>6</m:mn><m:mo>=</m:mo><m:mn>2</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>           </m:mtd>          </m:mtr>          <m:mtr>           <m:mtd>            <m:mn>4</m:mn><m:mo>=</m:mo><m:msup>             <m:mn>2</m:mn>             <m:mn>2</m:mn>            </m:msup>                       </m:mtd>          </m:mtr>         </m:mtable>          </m:mrow>        </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The LCD is </m:mtext><m:msup>          <m:mn>2</m:mn>          <m:mn>2</m:mn>         </m:msup>         <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>4</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>12.</m:mn>        </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtext>Convert each  to equivalent fractions having the common denominator 12</m:mtext><m:mtext>.</m:mtext>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>1</m:mn>          <m:mn>6</m:mn>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>1</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>2</m:mn>          </m:mrow>          <m:mrow>           <m:mn>6</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>2</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mn>2</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>3</m:mn>          <m:mn>4</m:mn>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>3</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>          </m:mrow>          <m:mrow>           <m:mn>4</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mn>9</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtext>Now we can proceed with the addition</m:mtext><m:mo>.</m:mo>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>1</m:mn>          <m:mn>6</m:mn>         </m:mfrac>         <m:mo>+</m:mo><m:mfrac>          <m:mn>3</m:mn>          <m:mn>4</m:mn>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>2</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>+</m:mo><m:mfrac>          <m:mn>9</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mrow>           <m:mn>2</m:mn><m:mo>+</m:mo><m:mn>9</m:mn>          </m:mrow>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mrow>           <m:mn>11</m:mn>          </m:mrow>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>  </m:mtable>     </m:semantics></m:math></para></solution>
+</exercise></example><note id="eip-565" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm231553168"><problem id="eip-idm231175680"><para id="eip-idm231175552">Add: <m:math>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>6</m:mn>   </m:mfrac>   <m:mo>+ </m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>24</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm226035824"><para id="eip-idm278753568"><m:math><m:mfrac><m:mn>5</m:mn><m:mn>24</m:mn></m:mfrac></m:math></para></solution>
+</exercise></note><example id="fs-id9927664"><exercise id="eip-idm283360240"><problem id="eip-idm283360112"><para id="eip-idm283359984">Subtract: <m:math><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>12</m:mn></m:mfrac></m:math></para></problem>
+<solution id="eip-idm513284416">
+<para id="fs-id9927665"><m:math display="block"> <m:semantics>  <m:mtable columnalign="left">   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>5</m:mn>          <m:mn>9</m:mn>         </m:mfrac>         <m:mo>−</m:mo><m:mfrac>          <m:mn>5</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The denominators are not alike</m:mtext><m:mo>.</m:mo><m:mtext> Find the LCD of 9 and 12</m:mtext><m:mo>.</m:mo>        </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mrow><m:mo>{</m:mo> <m:mtable columnalign="left">          <m:mtr>           <m:mtd>            <m:mn>9</m:mn><m:mo>=</m:mo><m:msup>             <m:mn>3</m:mn>             <m:mn>2</m:mn>            </m:msup>                       </m:mtd>          </m:mtr>          <m:mtr>           <m:mtd>            <m:mn>12</m:mn><m:mo>=</m:mo><m:msup>             <m:mn>2</m:mn>             <m:mn>2</m:mn>            </m:msup>            <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>           </m:mtd>          </m:mtr>         </m:mtable>          </m:mrow>        </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mtext>The LCD is </m:mtext><m:msup>          <m:mn>2</m:mn>          <m:mn>2</m:mn>         </m:msup>         <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:msup>          <m:mn>3</m:mn>          <m:mn>2</m:mn>         </m:msup>         <m:mo>=</m:mo><m:mn>4</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>9</m:mn><m:mo>=</m:mo><m:mn>36.</m:mn>        </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtext>Convert each to equivalent fractions having the common denominator 36</m:mtext><m:mtext>.</m:mtext>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>5</m:mn>          <m:mn>9</m:mn>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>5</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>4</m:mn>          </m:mrow>          <m:mrow>           <m:mn>9</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>4</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>20</m:mn>          </m:mrow>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>5</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>5</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>          </m:mrow>          <m:mrow>           <m:mn>12</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>3</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>=</m:mo><m:mfrac>          <m:mrow>           <m:mn>15</m:mn>          </m:mrow>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtext>Now we can proceed with the subtraction</m:mtext><m:mo>.</m:mo>    </m:mtd>   </m:mtr>   <m:mtr>    <m:mtd>     <m:mtable columnalign="left">      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>5</m:mn>          <m:mn>9</m:mn>         </m:mfrac>         <m:mo>−</m:mo><m:mfrac>          <m:mn>5</m:mn>          <m:mrow>           <m:mn>12</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mrow>           <m:mn>20</m:mn>          </m:mrow>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>         <m:mo>−</m:mo><m:mfrac>          <m:mrow>           <m:mn>15</m:mn>          </m:mrow>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mrow>           <m:mn>20</m:mn><m:mo>−</m:mo><m:mn>15</m:mn>          </m:mrow>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>      <m:mtr columnalign="left">       <m:mtd columnalign="left">        <m:mrow/>       </m:mtd>       <m:mtd columnalign="left">        <m:mo>=</m:mo>       </m:mtd>       <m:mtd columnalign="left">        <m:mrow>         <m:mfrac>          <m:mn>5</m:mn>          <m:mrow>           <m:mn>36</m:mn>          </m:mrow>         </m:mfrac>                 </m:mrow>       </m:mtd>      </m:mtr>           </m:mtable>    </m:mtd>   </m:mtr>  </m:mtable>     </m:semantics></m:math></para>
+</solution>
+</exercise></example><note id="eip-366" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm665670016"><problem id="eip-idm665287072"><para id="eip-idm606004704">Subtract: <m:math>   <m:mfrac>    <m:mn>13</m:mn>    <m:mn>28</m:mn>   </m:mfrac>   <m:mo>- </m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>21</m:mn>   </m:mfrac>  </m:math>.</para></problem>
+
+<solution id="eip-idm559114736"><para id="eip-idm557988880"><m:math><m:mfrac><m:mn>5</m:mn><m:mn>12</m:mn></m:mfrac></m:math></para></solution>
+</exercise></note></section><section id="fs-id12754549" class="section-exercises"><title>Homework</title><para id="fs-id19265689">For the following problems, perform each indicated operation.</para><exercise id="fs-id5707455"><problem id="fs-id5707456"><para id="fs-id19265691"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>3</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>4</m:mn>    <m:mn>3</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172641741793"><para id="zip-id1172637292808"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>4</m:mn>
+    <m:mn>9</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id10728219"><problem id="fs-id19743751"><para id="fs-id19743752"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>3</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>2</m:mn>    <m:mn>3</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id11757993"><problem id="fs-id11757994"><para id="fs-id11757995"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>2</m:mn>    <m:mn>5</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>5</m:mn>    <m:mn>6</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172637782590"><para id="zip-id1172637506520"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>3</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id12271011"><problem id="fs-id12271012"><para id="fs-id5860447"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>6</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>14</m:mn>    </m:mrow>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id14252765"><problem id="fs-id14252766"><para id="fs-id14252767"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>9</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>20</m:mn>    </m:mrow>    <m:mrow>     <m:mn>27</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172635389630"><para id="zip-id1172642686209"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mrow>
+     <m:mn>12</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id9945186"><problem id="fs-id9945187"><para id="fs-id9945188"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>35</m:mn>    </m:mrow>    <m:mrow>     <m:mn>36</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>48</m:mn>    </m:mrow>    <m:mrow>     <m:mn>55</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id13546345"><problem id="fs-id13546346"><para id="fs-id13546347"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>21</m:mn>    </m:mrow>    <m:mrow>     <m:mn>25</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>    <m:mrow>     <m:mn>14</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172635598925"><para id="zip-id2164569"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>9</m:mn>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id11929301"><problem id="fs-id11929302"><para id="fs-id11929303"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>76</m:mn>    </m:mrow>    <m:mrow>     <m:mn>99</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>66</m:mn>    </m:mrow>    <m:mrow>     <m:mn>38</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id14443179"><problem id="fs-id5933057"><para id="fs-id5933058"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>7</m:mn>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>14</m:mn>    </m:mrow>    <m:mrow>     <m:mn>18</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>6</m:mn>    <m:mn>2</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172642683486"><para id="zip-id2976164">1</para></solution></exercise><exercise id="fs-id6706537"><problem id="fs-id6706538"><para id="fs-id6706539"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>14</m:mn>    </m:mrow>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>21</m:mn>    </m:mrow>    <m:mrow>     <m:mn>28</m:mn>    </m:mrow>   </m:mfrac>   <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mrow>     <m:mn>45</m:mn>    </m:mrow>    <m:mn>7</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5737898"><problem id="fs-id5737899"><para id="fs-id5737900"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>9</m:mn>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mn>6</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172639636950"><para id="zip-id3928559"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>2</m:mn>
+    <m:mn>3</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5057019"><problem id="fs-id5057020"><para id="fs-id6915973"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>9</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id17095240"><problem id="fs-id17095241"><para id="fs-id17095242"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>4</m:mn>    <m:mn>9</m:mn>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mn>6</m:mn>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172629818373"><para id="zip-id1172634836751"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>9</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+ or <m:math><m:mn>1</m:mn><m:mfrac>
+
+     <m:mn>1</m:mn>
+ 
+    <m:mn>9</m:mn>
+   </m:mfrac>
+
+</m:math></para></solution></exercise><exercise id="fs-id17521017"><problem id="fs-id17521018"><para id="fs-id17521019"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>25</m:mn>    </m:mrow>    <m:mrow>     <m:mn>49</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mn>4</m:mn>    <m:mn>9</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id12386182"><problem id="fs-id12386184"><para id="fs-id5522862"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mrow>     <m:mn>27</m:mn>    </m:mrow>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172634879296"><para id="zip-id4105165"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>10</m:mn>
+    </m:mrow>
+    <m:mn>9</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+ or <m:math><m:mn>1</m:mn><m:mfrac>
+
+     <m:mn>1</m:mn>
+ 
+    <m:mn>9</m:mn>
+   </m:mfrac>
+
+</m:math></para></solution></exercise><exercise id="fs-id5769845"><problem id="fs-id5769846"><para id="fs-id5769847"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>24</m:mn>    </m:mrow>    <m:mrow>     <m:mn>75</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mn>8</m:mn>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id16343946"><problem id="fs-id16343947"><para id="fs-id16343948"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>57</m:mn>    </m:mrow>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mn>7</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172642626738"><para id="zip-id1172630453310"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>57</m:mn>
+    </m:mrow>
+    <m:mn>7</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+ or <m:math><m:mn>8</m:mn><m:mfrac>
+
+     <m:mn>1</m:mn>
+ 
+    <m:mn>7</m:mn>
+   </m:mfrac>
+
+</m:math></para></solution></exercise><exercise id="fs-id6348270"><problem id="fs-id6348271"><para id="fs-id6348272"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>7</m:mn>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>÷</m:mo><m:mfrac>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>    <m:mn>7</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id11312133"><problem id="fs-id11312134"><para id="fs-id5128112"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172634174201"><para id="zip-id1172635614632"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5095645"><problem id="fs-id5095646"><para id="fs-id5095647"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>4</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5922787"><problem id="fs-id5922788"><para id="fs-id5669978"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mrow>     <m:mn>12</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>7</m:mn>    <m:mrow>     <m:mn>12</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172632886280"><para id="zip-id1172637206544">1</para></solution></exercise><exercise id="fs-id5942380"><problem id="fs-id5942382"><para id="fs-id5942383"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id17097075"><problem id="fs-id17097076"><para id="fs-id17097077"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>    <m:mrow>     <m:mn>23</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mrow>     <m:mn>23</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172632126771"><para id="zip-id1172630957184"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>13</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>23</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5934963"><problem id="fs-id5934964"><para id="fs-id5934965"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5891860"><problem id="fs-id5891861"><para id="fs-id5891862"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>    <m:mrow>     <m:mn>20</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>20</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mrow>     <m:mn>20</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172633990983"><para id="zip-id1172635118837"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>19</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>20</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5743904"><problem id="fs-id5743905"><para id="fs-id5743906"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id10191773"><problem id="fs-id10191774"><para id="fs-id17694246"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>9</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id2077072"><para id="zip-id1172631472801"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>15</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>16</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5152456"><problem id="fs-id5152457"><para id="fs-id5152458"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>2</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>6</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id12302713"><problem id="fs-id12302714"><para id="fs-id12302715"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>2</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172633552054"><para id="zip-id2701952"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id5663822"><problem id="fs-id5663823"><para id="fs-id5663824"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>3</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5504556"><problem id="fs-id5504558"><para id="fs-id5504559"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>8</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>2</m:mn>    <m:mn>3</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172634514638"><para id="zip-id1172637865348"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>31</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>24</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+ or <m:math><m:mn>1</m:mn><m:mfrac>
+
+     <m:mn>7</m:mn>
+ 
+    <m:mn>24</m:mn>
+   </m:mfrac>
+
+</m:math></para></solution></exercise><exercise id="fs-id12290495"><problem id="fs-id12290496"><para id="fs-id12290497"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>6</m:mn>    <m:mn>7</m:mn>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>4</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5945377"><problem id="fs-id5945378"><para id="fs-id5945380"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>14</m:mn>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para></problem><solution id="zip-id1172636026793"><para id="zip-id2302499"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>6</m:mn>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id14356150"><problem id="fs-id14356151"><para id="fs-id14356152"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mrow>     <m:mn>12</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id6903549"><problem id="fs-id6903550"><para id="fs-id6903551"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mrow>     <m:mn>35</m:mn>    </m:mrow>    <m:mrow>     <m:mn>36</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>7</m:mn>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para></problem><solution id="zip-id1172638155772"><para id="zip-id1172637218443"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>49</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>180</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id15736342"><problem id="fs-id15736343"><para id="fs-id15736344"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>9</m:mn>    <m:mrow>     <m:mn>28</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>4</m:mn>    <m:mrow>     <m:mn>45</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id19720958"><problem id="fs-id19720960"><para id="fs-id19720961"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>8</m:mn>    <m:mrow>     <m:mn>15</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>3</m:mn>    <m:mrow>     <m:mn>10</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172634626644"><para id="zip-id1172643610131"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mn>7</m:mn>
+    <m:mrow>
+     <m:mn>30</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id4035547"><problem id="fs-id4035548"><para id="fs-id4035549"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>16</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>3</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>3</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id5841575"><problem id="fs-id5841576"><para id="fs-id5841577"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>8</m:mn>    <m:mn>3</m:mn>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>1</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>7</m:mn>    <m:mrow>     <m:mn>36</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem><solution id="zip-id1172639517293"><para id="zip-id1172637422266"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>47</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mn>18</m:mn>
+    </m:mrow>
+   </m:mfrac>
+   
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+ or <m:math><m:mn>2</m:mn><m:mfrac>
+
+     <m:mn>11</m:mn>
+ 
+    <m:mn>18</m:mn>
+   </m:mfrac>
+
+</m:math></para></solution></exercise><exercise id="fs-id5149689"><problem id="fs-id5149690"><para id="fs-id5149691"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>4</m:mn>   </m:mfrac>   <m:mo>−</m:mo><m:mfrac>    <m:mn>3</m:mn>    <m:mrow>     <m:mn>22</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>+</m:mo><m:mfrac>    <m:mn>5</m:mn>    <m:mrow>     <m:mn>24</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow>   </m:semantics></m:math></para>
+</problem></exercise></section>  </content></document>

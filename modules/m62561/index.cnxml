@@ -1,0 +1,510 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML"><title>A Review of Percents</title><metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62561</md:content-id>
+  <md:title>A Review of Percents</md:title>
+  <md:abstract/>
+  <md:uuid>005367cc-36ab-40ab-8515-a9dcdeb6aac9</md:uuid>
+</metadata>
+
+<content><section id="fs-id17347197">      <title>Learning Objectives</title><para id="eip-896">By the end of this lesson, you will be able to:</para><list id="fs-id21972860" list-type="bulleted"><item>Understand the meaning of percent</item>        
+<item> Convert a fraction to a percent</item> 
+<item> Convert a percent to a fraction</item>       
+<item> Convert a decimal to a percent</item>		 
+<item> Convert a percent to a decimal</item>      </list></section><section id="fs-id20653236">      <title>The Meaning of Percent</title><para id="fs-id16860383">The word <emphasis>percent</emphasis> comes from the Latin word “per centum,” “per” meaning “for each,” and “centum” meaning “hundred.” </para><para id="fs-id21213113" class="highlight"><title>Percent (%)</title><term>Percent</term> means "per hundred", or “for each hundred”, or “for every hundred.” The symbol % is used to represent the word percent. </para><para id="fs-id18769384">Thus, <m:math> <m:semantics>  <m:mrow>   <m:mtable columnalign="right">    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow>       <m:mn>1</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow>       <m:mtext>or</m:mtext>      </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow>       <m:mn>1</m:mn><m:mi>%</m:mi><m:mo>=</m:mo><m:mn>0.01.</m:mn>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math> </para></section><section id="fs-id18836485">      <title>Converting A Fraction To A Percent</title><para id="fs-id22055224">We can see how a fraction can be converted to a percent by analyzing the method that <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>5</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math> is converted to a percent. In order to convert <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>3</m:mn>    <m:mn>5</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math> to a percent, we need to introduce <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>100</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math> (since percent means for each hundred). </para><example id="fs-id21205495"><para id="fs-id22129641"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="right">    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow>       <m:mfrac>        <m:mn>3</m:mn>        <m:mn>5</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>3</m:mn>        <m:mn>5</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Multiply the fraction by 1</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>3</m:mn>        <m:mn>5</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>      <m:mtext>Since  </m:mtext><m:mfrac>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>       <m:mo>=</m:mo><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>       <m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>300</m:mn>        </m:mrow>        <m:mn>5</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Divide </m:mtext><m:mn>300</m:mn><m:mtext> by 5</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>60</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Multiply the fractions</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="right">     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="right">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>60</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="right">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Replace </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>       <m:mtext> </m:mtext><m:mtext>with the </m:mtext><m:mi>%</m:mi><m:mtext> symbol</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math></para></example><para id="fs-id22041044" class="highlight"> <title>Fraction to Percent</title>To convert a fraction to a percent, multiply the fraction by 1 in the form <m:math> <m:semantics>  <m:mrow>   <m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math>, then replace <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math> with the % symbol. </para></section><section id="fs-id18162309"><para id="fs-id21094794">In the next three examples, we will convert each fraction to a percent.</para>	   <example id="fs-id22121100"> <para id="fs-id22416201"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>1</m:mn>        <m:mn>4</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>1</m:mn>        <m:mn>4</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>        <m:mn>4</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>25</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>25</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math>	   </para></example>	   <example id="fs-id3849929"> <para id="fs-id21847593"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>8</m:mn>        <m:mn>5</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>8</m:mn>        <m:mn>5</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>800</m:mn>        </m:mrow>        <m:mn>5</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>160</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math>	   </para></example>   <example id="fs-id21371244"><para id="fs-id20459220"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>4</m:mn>        <m:mn>9</m:mn>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mn>4</m:mn>        <m:mn>9</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>400</m:mn>        </m:mrow>        <m:mn>9</m:mn>       </m:mfrac>       <m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mrow><m:mo>(</m:mo>        <m:mrow>         <m:mn>44.4...</m:mn>        </m:mrow>       <m:mo>)</m:mo></m:mrow><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mrow><m:mo>(</m:mo>        <m:mrow>         <m:mn>44.</m:mn><m:mover accent="true">          <m:mn>4</m:mn>          <m:mo stretchy="true">¯</m:mo>         </m:mover>                 </m:mrow>       <m:mo>)</m:mo></m:mrow><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>44.</m:mn><m:mover accent="true">        <m:mn>4</m:mn>        <m:mo stretchy="true">¯</m:mo>       </m:mover>       <m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math>	      </para></example><note id="eip-488" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1702848624"><problem id="eip-idm1467945392"><para id="eip-idm1423582352">Convert to a percent: <m:math><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:math>.</para></problem>
+
+<solution id="eip-idm1413901856"><para id="eip-idm1275846672">37.5%</para></solution>
+</exercise></note></section><section id="eip-950"><title>Converting a Percent to a Fraction</title><note id="fs-id1166483686521" class="howto"><title>Convert a percent to a fraction.</title><list id="eip-id1168469672602" list-type="enumerated" number-style="arabic" class="stepwise"><item> Write the percent as a ratio with the denominator <m:math><m:mrow><m:mn>100</m:mn></m:mrow><m:mo>.</m:mo></m:math></item>
+<item> Simplify the fraction if possible.</item>
+</list></note><example id="fs-id1369508">
+<exercise id="fs-id1740688"><problem id="fs-id1166491426870">
+<para id="fs-id1166497327081">Convert each percent to a fraction: 
+<list id="eip-id1168466312590" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mtext>36%</m:mtext><m:mspace width="0.2em"/><m:mspace width="0.2em"/></m:math></item>
+
+<item><span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mtext>125%</m:mtext></m:math></item>
+</list></para></problem>
+<solution id="fs-id1166490858433">
+<title>Solution</title>
+
+<table id="eip-id1168468456602" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+<entry><span class="token">ⓐ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math><m:mn>36%</m:mn></m:math></entry>
+</row>
+
+<row>
+<entry>Write as a ratio with denominator 100.</entry>
+<entry><m:math><m:mfrac><m:mn>36</m:mn><m:mn>100</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Simplify.</entry>
+<entry><m:math><m:mfrac><m:mn>9</m:mn><m:mn>25</m:mn></m:mfrac></m:math></entry>
+</row>
+
+</tbody>
+
+
+
+</tgroup>
+</table><table id="eip-id1168468458501" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+<entry><span class="token">ⓑ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math><m:mn>125%</m:mn></m:math></entry>
+</row>
+
+<row>
+<entry>Write as a ratio with denominator 100.</entry>
+<entry><m:math><m:mfrac><m:mn>125</m:mn><m:mn>100</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Simplify.</entry>
+<entry><m:math><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:math></entry>
+</row>
+
+</tbody>
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="eip-idm592940720" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm241438720">
+<problem id="eip-idm621769008">
+<para id="eip-idm287431424">Convert each percent to a fraction: 
+<list id="eip-idm447059680" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mtext>48%</m:mtext><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mtext>110%</m:mtext></m:math></item>
+</list></para></problem>
+<solution id="eip-idm669765344">
+<para id="eip-idm339248272"><list id="eip-idm339248144" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>12</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:math></item>
+</list></para></solution>
+</exercise>
+</note>
+<note id="eip-idm291038624" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm267641936">
+<problem id="eip-idm292682400">
+<para id="eip-idm517141776">Convert each percent to a fraction: 
+<list id="eip-idm280339440" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mtext>64%</m:mtext><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mtext>150%</m:mtext></m:math></item>
+</list></para></problem>
+<solution id="eip-idm540357360">
+<para id="eip-idm481768544"><list id="eip-idm519016640" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>16</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>2</m:mn></m:mfrac></m:math></item>
+</list></para></solution>
+</exercise>
+</note>
+<para id="fs-id1398289">The previous example shows that a <term class="no-emphasis">percent</term> can be greater than <m:math><m:mn>1</m:mn><m:mo>.</m:mo></m:math> We saw that <m:math><m:mrow><m:mtext>125%</m:mtext></m:mrow></m:math> means <m:math><m:mrow><m:mfrac><m:mrow><m:mn>125</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> or <m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow><m:mo>.</m:mo></m:math> These are improper fractions, and their values are greater than one.</para>
+<example id="fs-id1477425">
+<exercise id="fs-id1166479044579"><problem id="fs-id1166490821424">
+<para id="fs-id1166492764092">Convert each percent to a fraction: 
+<list id="eip-id1168468714463" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mtext>24.5%</m:mtext><m:mspace width="0.2em"/><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>33</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo></m:math></item>
+</list></para></problem>
+<solution id="fs-id1455775">
+<title>Solution</title>
+
+
+<table id="eip-id1168468250004" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+<entry><span class="token">ⓐ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math><m:mn>24.5%</m:mn></m:math></entry>
+</row>
+
+<row>
+<entry>Write as a ratio with denominator 100.</entry>
+<entry><m:math><m:mfrac><m:mn>24.5</m:mn><m:mn>100</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Clear the decimal by multiplying numerator and denominator by 10.</entry>
+<entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>24.5</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>10</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow><m:mn>100</m:mn><m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>10</m:mn></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+
+<row>
+<entry>Multiply.</entry>
+<entry><m:math><m:mfrac><m:mn>245</m:mn><m:mn>1000</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Rewrite showing common factors.</entry>
+<entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>49</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>200</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+</row>
+
+<row>
+<entry>Simplify.</entry>
+<entry><m:math><m:mfrac><m:mn>49</m:mn><m:mn>200</m:mn></m:mfrac></m:math></entry>
+</row>
+
+</tbody>
+
+
+</tgroup>
+</table><table id="eip-id1168466285175" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+<entry><span class="token">ⓑ</span></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math><m:mn>33</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo></m:math></entry>
+</row>
+
+<row>
+<entry>Write as a ratio with denominator 100.</entry>
+<entry><m:math><m:mfrac><m:mrow><m:mn>33</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow><m:mn>100</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row> 
+<entry>Write the numerator as an improper fraction.</entry>
+<entry><m:math><m:mfrac><m:mrow><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>100</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mspace width="0.2em"/><m:mspace width="0.2em"/></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Rewrite as fraction division, replacing 100 with <m:math><m:mfrac><m:mn>100</m:mn><m:mn>1</m:mn></m:mfrac></m:math>.</entry>
+<entry><m:math><m:mfrac><m:mn>100</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>100</m:mn><m:mn>1</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Multiply by the reciprocal.</entry>
+<entry><m:math><m:mfrac><m:mn>100</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>⋅</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>100</m:mn></m:mfrac></m:math></entry>
+</row>
+
+<row>
+<entry>Simplify.</entry>
+<entry><m:math><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math></entry>
+</row>
+
+</tbody>
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="eip-idm500722144" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm537313680">
+<problem id="eip-idm265266336">
+<para id="eip-idm676924688">Convert each percent to a fraction: 
+<list id="eip-idm290761632" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mtext>64.4%</m:mtext><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>66</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo></m:math></item>
+</list></para></problem>
+<solution id="eip-idm1148692800">
+<para id="eip-idm303282912"><list id="eip-idm330253168" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>161</m:mn></m:mrow><m:mrow><m:mn>250</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:math></item>
+</list></para></solution>
+</exercise>
+</note>
+<note id="eip-idm476698320" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1181463184">
+<problem id="eip-idm328842128">
+<para id="eip-idm1278050048">Convert each percent to a fraction: 
+<list id="eip-idm331273872" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mtext>42.5%</m:mtext><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mn>8</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>%</m:mo></m:math></item>
+</list></para></problem>
+<solution id="eip-idm345659888">
+<para id="eip-idm375521312"><list id="eip-idm1205902112" list-type="enumerated" number-style="arabic" class="circled"><item>
+<span class="token">ⓐ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>113</m:mn></m:mrow><m:mrow><m:mn>250</m:mn></m:mrow></m:mfrac><m:mspace width="0.2em"/></m:math></item>
+<item>
+<span class="token">ⓑ</span><m:math><m:mspace width="0.2em"/><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>80</m:mn></m:mrow></m:mfrac></m:math></item>
+</list></para></solution>
+</exercise>
+</note></section><section id="eip-579"><title>Converting a Decimal to a Percent</title><para id="fs-id22552468">We can see how a decimal is converted to a percent by analyzing the method that <m:math> <m:semantics>  <m:mrow>   <m:mn>0.75</m:mn>  </m:mrow> </m:semantics></m:math> is converted to a percent. We need to introduce <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>.</m:mo>  </m:mrow> </m:semantics></m:math><newline/><newline/><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.75</m:mn>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.75</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Multiply the decimal by 1</m:mtext><m:mtext>.</m:mtext>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>75</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>75</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Replace </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>       <m:mtext> with the % symbol</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math></para><para id="fs-id16896469" class="highlight"> <title>Decimal to Percent</title>To convert a fraction to a percent, multiply the decimal by 1 in the form <m:math> <m:semantics>  <m:mrow>   <m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math>, then replace <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math> with the % symbol. This amounts to moving the decimal point 2 places to the right. </para><para id="eip-272">In the next three examples, we will convert each decimal to a percent.</para><example id="eip-900"><para id="fs-id21980612"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.62</m:mn>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.62</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>62</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>62</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the right 2 places. 	   </para></example><example id="eip-354"><para id="fs-id22010284"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>8.4</m:mn>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>8.4</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>840</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>840</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the right 2 places. </para></example><example id="eip-722"><para id="fs-id21435117"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.47623</m:mn>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.47623</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mn>100</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.47623</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>47.623</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the right 2 places. </para></example><note id="eip-268" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm638466608"><problem id="eip-idm638466480"><para id="eip-idm749302768">Convert to a percent: <m:math><m:mn>0.0362</m:mn></m:math>.</para></problem>
+
+<solution id="eip-idm329210592"><para id="eip-idm672578992">3.62%</para></solution>
+</exercise></note></section><section id="fs-id14160530">      <title>Converting A Percent To A Decimal</title><para id="fs-id22227846">We can see how a percent is converted to a decimal by analyzing the method that 12% is converted to a decimal. We need to introduce  <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>.</m:mo>  </m:mrow> </m:semantics></m:math><newline/><newline/><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>12</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>12</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Replace</m:mtext><m:mtext> </m:mtext><m:mi>%</m:mi><m:mtext> </m:mtext><m:mtext>with</m:mtext><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>       <m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>12</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Multiply the fractions</m:mtext><m:mo>.</m:mo>      </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow> <m:mn>0.12</m:mn></m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mtext>Divide 12 by 1</m:mtext><m:mn>00.</m:mn>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow>  </m:semantics></m:math></para><para id="fs-id21823371" class="highlight"> <title>Percent to Decimal</title>To convert a percent to a decimal, replace the % symbol with <m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mrow>     <m:mn>100</m:mn>    </m:mrow>   </m:mfrac>   <m:mo>,</m:mo>  </m:mrow> </m:semantics></m:math> then divide the number by 100. This amounts to moving the decimal point 2 places to the left. </para></section><section id="fs-id22110065"><para id="fs-id22535220">In the next three examples, we will convert each percent to a decimal.</para>	   <example id="fs-id21847546"> <para id="fs-id3135167"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>48</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>48</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>48</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.48</m:mn>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the left 2 places. 	   </para></example><example id="fs-id4026019"><para id="fs-id5642086"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>659</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>659</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>659</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>6.59</m:mn>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the left 2 places. </para></example><example id="fs-id21973076"><para id="fs-id20446005"><m:math display="block"> <m:semantics>  <m:mrow>   <m:mtable columnalign="left">    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.4113</m:mn><m:mi>%</m:mi>      </m:mrow>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.4113</m:mn><m:mtext> </m:mtext><m:mo>·</m:mo><m:mtext> </m:mtext><m:mfrac>        <m:mn>1</m:mn>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mfrac>        <m:mrow>         <m:mn>0.4113</m:mn>        </m:mrow>        <m:mrow>         <m:mn>100</m:mn>        </m:mrow>       </m:mfrac>             </m:mrow>     </m:mtd>    </m:mtr>    <m:mtr columnalign="left">     <m:mtd columnalign="left">      <m:mrow/>     </m:mtd>     <m:mtd columnalign="left">      <m:mo>=</m:mo>     </m:mtd>     <m:mtd columnalign="left">      <m:mrow>       <m:mn>0.004113</m:mn>      </m:mrow>     </m:mtd>    </m:mtr>       </m:mtable>  </m:mrow> </m:semantics></m:math><newline/><newline/>Notice that the decimal point in the original number has been moved to the left 2 places. </para></example><note id="eip-408" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm393580896"><problem id="eip-idm598079968"><para id="eip-idm388351888">Convert to a decimal: <m:math><m:mn>4.7</m:mn><m:mo>%</m:mo></m:math>.</para></problem>
+
+<solution id="eip-idm414500224"><para id="eip-idm440225168">0.047</para></solution>
+</exercise></note></section><section id="fs-id3149289" class="section-exercises"><title>Homework</title><para id="fs-id21778901">For the following problems, convert each fraction to a percent.</para><exercise id="fs-id22461627"><problem id="fs-id22461628"><para id="fs-id22461629"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>2</m:mn>    <m:mn>5</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8158622"><para id="zip-id8158623"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>40</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id19550134"><problem id="fs-id19550135"><para id="fs-id21857999"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>7</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22516160"><problem id="fs-id22516161"><para id="fs-id22516162"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>1</m:mn>    <m:mn>8</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8158784"><para id="zip-id8158786"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>12.5</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id21773573"><problem id="fs-id21773574"><para id="fs-id21773575"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>5</m:mn>    <m:mn>16</m:mn>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22643992"><problem id="fs-id22643993"><para id="fs-id19963820"><m:math> <m:semantics>  <m:mrow>   <m:mn>15</m:mn><m:mo>÷</m:mo><m:mn>22</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8380268"><para id="zip-id8380269"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>68.18</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id20730346"><problem id="fs-id20730347"><para id="fs-id18976931"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>2</m:mn>    <m:mrow>     <m:mn>11</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id21772575"><problem id="fs-id21482037"><para id="fs-id21482038"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>2</m:mn>    <m:mrow>     <m:mn>9</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8379871"><para id="zip-id8379872"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>22.22</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id16821640"><problem id="fs-id20475305"><para id="fs-id20475306"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>16</m:mn>    <m:mrow>     <m:mn>45</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id21484652"><problem id="fs-id22801591"><para id="fs-id22801592"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>27</m:mn>    <m:mrow>     <m:mn>55</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8157753"><para id="zip-id8157754"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>49.09</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22960888"><problem id="fs-id22080380"><para id="fs-id22080381"><m:math> <m:semantics>  <m:mrow>   <m:mfrac>    <m:mn>7</m:mn>    <m:mrow>     <m:mn>27</m:mn>    </m:mrow>   </m:mfrac>     </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22033701"><problem id="fs-id20730773"><para id="fs-id20730774">15</para>
+</problem><solution id="zip-id8397500"><para id="zip-id8397501"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1500</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id19732847"><problem id="fs-id19732848"><para id="fs-id19732849">8</para>
+</problem></exercise>
+<para id="eip-942">In the following exercises, convert each percent to a fraction and simplify all fractions.</para><exercise id="fs-id1318851">
+<problem id="fs-id1697869">
+<para id="fs-id1538194"><m:math><m:mrow><m:mtext>4%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1267041">
+<para id="fs-id1166493771284"><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166490740720">
+<problem id="fs-id1557606">
+<para id="fs-id1696924"><m:math><m:mrow><m:mtext>8%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1555744">
+<problem id="fs-id1769468">
+<para id="fs-id1166498443840"><m:math><m:mrow><m:mtext>17%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1856744">
+<para id="fs-id1359256"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>17</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166476800535">
+<problem id="fs-id1360169">
+<para id="fs-id1166497147321"><m:math><m:mrow><m:mtext>19%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166482443084">
+<problem id="fs-id1411822">
+<para id="fs-id1166490838368"><m:math><m:mrow><m:mtext>52%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166490832146">
+<para id="fs-id1166482689382"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>13</m:mn></m:mrow><m:mrow><m:mn>25</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166490911027">
+<problem id="fs-id1483082">
+<para id="fs-id1287219"><m:math><m:mrow><m:mtext>78%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1479717">
+<problem id="fs-id1166493761284">
+<para id="fs-id1454601"><m:math><m:mrow><m:mtext>125%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1731508">
+<para id="fs-id1341805"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1709834">
+<problem id="fs-id1166492017893">
+<para id="fs-id1869852"><m:math><m:mrow><m:mtext>135%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497343577">
+<problem id="fs-id1166497147407">
+<para id="fs-id1166491984912"><m:math><m:mrow><m:mtext>37.5%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166492882823">
+<para id="fs-id1752305"><m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166498433501">
+<problem id="fs-id1166497311009">
+<para id="fs-id1166490921583"><m:math><m:mrow><m:mtext>42.5%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1340020">
+<problem id="fs-id1484181">
+<para id="fs-id1166489102786"><m:math><m:mrow><m:mtext>18.4%</m:mtext></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166497206320">
+<para id="fs-id1166497375839"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>23</m:mn></m:mrow><m:mrow><m:mn>125</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166491410446">
+<problem id="fs-id1956058">
+<para id="fs-id1546155"><m:math><m:mrow><m:mtext>46.4%</m:mtext></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490854567">
+<problem id="fs-id1832663">
+<para id="fs-id1166492351772"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1547362">
+<para id="fs-id1166497309366"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>19</m:mn></m:mrow><m:mrow><m:mn>200</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166491051778">
+<problem id="fs-id1166491051780">
+<para id="fs-id1166498436487"><m:math><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166482442415">
+<problem id="fs-id1166493706965">
+<para id="fs-id1166493706967"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166483686072">
+<para id="fs-id1858273"><m:math><m:mrow><m:mfrac><m:mn>4</m:mn><m:mrow><m:mn>75</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1762854">
+<problem id="fs-id1762856">
+<para id="fs-id1807654"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>%</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+
+<para id="fs-id20705415">For the following problems, convert each decimal to a percent. </para><exercise id="fs-id21578520"><problem id="fs-id20705417"><para id="fs-id22873087"><m:math> <m:semantics>  <m:mrow>   <m:mn>0.36</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8402828"><para id="zip-id8402829"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>36</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id20444255"><problem id="fs-id20444256"><para id="fs-id5844010"><m:math> <m:semantics>  <m:mrow>   <m:mn>0.42</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id21871374"><problem id="fs-id21871375"><para id="fs-id21871376"><m:math> <m:semantics>  <m:mrow>   <m:mn>0.446</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8403248"><para id="zip-id8403249"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>44.6</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22168646"><problem id="fs-id22168647"><para id="fs-id22168648"><m:math> <m:semantics>  <m:mrow>   <m:mn>0.1298</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id23192422"><problem id="fs-id22418690"><para id="fs-id22418691"><m:math> <m:semantics>  <m:mrow>   <m:mn>4.25</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8403424"><para id="zip-id8403425"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>425</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id20667056"><problem id="fs-id20667057"><para id="fs-id22080170"><m:math> <m:semantics>  <m:mrow>   <m:mn>5.875</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22271866"><problem id="fs-id22271867"><para id="fs-id22271868"><m:math> <m:semantics>  <m:mrow>   <m:mn>86.98</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id7983270"><para id="zip-id7983271"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>8698</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id21451453"><problem id="fs-id21451454"><para id="fs-id21451456"><m:math> <m:semantics>  <m:mrow>   <m:mn>21.26</m:mn>  </m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id23068089"><problem id="fs-id19400369"><para id="fs-id19400370">14</para>
+</problem><solution id="zip-id8157244"><para id="zip-id7982348"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>1400</m:mn><m:mi>%</m:mi>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22176671"><problem id="fs-id22176672"><para id="fs-id22176673">12</para>
+</problem></exercise><para id="fs-id20471405">For the following problems, convert each percent to a decimal. </para><exercise id="fs-id22461217"><problem id="fs-id22461218"><para id="fs-id22461219"><m:math> <m:semantics>  <m:mrow><m:mn>35</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8406614"><para id="zip-id8406615"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.35</m:mn>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id21988391"><problem id="fs-id21988392"><para id="fs-id21988393"><m:math> <m:semantics>  <m:mrow><m:mn>76</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22764256"><problem id="fs-id22764257"><para id="fs-id21763322"><m:math> <m:semantics> <m:mrow> <m:mn>18.6</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8406674"><para id="zip-id8406675"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.186</m:mn>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22435872"><problem id="fs-id22435873"><para id="fs-id22435874"><m:math> <m:semantics>  <m:mrow><m:mn>67.2</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22054895"><problem id="fs-id22054896"><para id="fs-id22703181"><m:math> <m:semantics>  <m:mrow><m:mn>9.0145</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8405159"><para id="zip-id8405160"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.090145</m:mn>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22085590"><problem id="fs-id22085591"><para id="fs-id22825621"><m:math> <m:semantics> <m:mrow> <m:mn>3.00156</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem></exercise><exercise id="fs-id22565622"><problem id="fs-id22565624"><para id="fs-id21891060"><m:math> <m:semantics> <m:mrow> <m:mn>0.00005</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem><solution id="zip-id8405220"><para id="zip-id8405221"><m:math>
+ <m:semantics>
+  <m:mrow>
+   <m:mn>0.0000005</m:mn>
+  </m:mrow>
+  
+ </m:semantics>
+</m:math>
+</para></solution></exercise><exercise id="fs-id22633530"><problem id="fs-id22633531"><para id="fs-id21850267"><m:math> <m:semantics> <m:mrow> <m:mn>0.00034</m:mn><m:mi>%</m:mi></m:mrow> </m:semantics></m:math></para>
+</problem></exercise></section></content></document>

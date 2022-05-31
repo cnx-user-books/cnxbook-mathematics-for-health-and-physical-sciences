@@ -1,0 +1,349 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Quantity-Value Tables</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62676</md:content-id>
+  <md:title>Quantity-Value Tables</md:title>
+  <md:abstract/>
+  <md:uuid>3dfc2f99-3e37-4944-83be-6216218b4f4f</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-662"><title>Learning Objectives</title><para id="eip-967">
+By the end of this lesson, you will be able to:
+</para><list id="eip-id1167182515900"><item>Use a quantity-value table to solve percent problems involving mixtures, as well as other types of percent problems.</item>
+
+<item>Use the 9-4-4 ratio to convert between food calories and grams of fat, protein, and carbs.</item></list></section><para id="delete_me"><title>Using a quantity-value table to organize information. </title>We can use a table to organize data and to help find missing data. The quantity column can be for grams, ounces, milliliters etc. The value column is for the percents for each item. The table below is an example of a <term>quantity-value table</term>.<newline/><newline/>
+
+<media id="eip-id1167182846642" alt="blank QV table"><image src="../../media/blank QV table.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+
+
+Notice that the table lists the items in the mixture and that their percents will add up to 100%. 
+  </para><example id="eip-844"><exercise id="eip-id1164133222360"><problem id="eip-570"><para id="eip-771">
+  If 3 oz of boric acid solution are added to 897 oz of water we have a mixture or solution. What is the strength or concentration of this solution?
+  </para>
+</problem>
+<solution id="eip-id1164135157900"><para id="eip-id1164132906885">First, we fill in the given information into a quantity-value table:<newline/><newline/><media id="eip-id1164132959208" alt="QV table"><image src="../../media/QV table 2.PNG" mime-type="image/png" width="480"/></media><newline/><newline/>
+We can find the missing percents of the acid by first finding the amount of the total solution.<newline/><newline/> 
+
+		T = 3 oz. + 897 oz. = 900 oz.<newline/><newline/>
+Now, we can use the total of 900 oz. to find the percent of boric acid, P. Here, we're answering the question "3 is what percent of 900?" <newline/><newline/>
+
+Thus, using translation, we can write and solve a percent equation to find the percent as follows:<newline/><equation id="eip-id1164133317174"><m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mn>3</m:mn><m:mo>=</m:mo><m:mi>P</m:mi><m:mo>⋅</m:mo><m:mn>900</m:mn>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mn>3</m:mn>
+      <m:mrow>
+       <m:mn>900</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mi>P</m:mi><m:mo>⋅</m:mo><m:mn>900</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>900</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>P</m:mi><m:mo>≈</m:mo><m:mn>0.0033</m:mn>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>P</m:mi><m:mo>≈</m:mo><m:mn>0.33</m:mn><m:mi>%</m:mi>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation>
+<newline/>
+This solution is a 0.33% boric acid solution, which means the rest (99.67% is water).</para></solution></exercise>
+</example><example id="eip-389"><exercise id="eip-id1168832792180"><problem id="eip-id1168832303830"><para id="eip-882">Glucose is a mixture of carbon, hydrogen, and oxygen.  Here are given numbers in a table. Fill in all the blank spaces.<newline/><newline/>
+<media id="eip-id1170785439647" alt="QV table 1"><image src="../../media/QV table 1.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+</para></problem>
+<solution id="eip-id1168833292305"><para id="eip-id1168833288108">Since we know the percents must add to 100%, we can find the percent of carbon by subtracting 6.7% and 53.3% from 100%:
+100% - 6.7%- 53.3% = 40%.<newline/><newline/>
+Using the quantity of oxygen and the percent of oxygen, we can determine the quantity of the total mixture:<newline/><equation id="eip-id1171772507025"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>53.3</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>48</m:mn></m:mrow>
+      <m:mi>T</m:mi>
+     </m:mfrac>
+     </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>53.3</m:mn><m:mi>T</m:mi></m:mrow>
+      <m:mrow>
+       <m:mn>53.3</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>4800</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>53.3</m:mn></m:mrow>
+     </m:mfrac>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+<m:mtext> </m:mtext><m:mi>T</m:mi><m:mo>≈</m:mo><m:mn>90</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation>
+Using this total, we can now find the quantities of the carbon and hydrogen:<newline/><equation id="eip-id1171758462074"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>40</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mi>C</m:mi>
+      <m:mrow>
+       <m:mn>90</m:mn></m:mrow>
+     </m:mfrac>
+     </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>100</m:mn><m:mi>C</m:mi></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>3600</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>  
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+  </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+<m:mtext> </m:mtext><m:mi>C</m:mi><m:mo>≈</m:mo><m:mn>36</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation>
+<equation id="eip-id1171760737068"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>6.7</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mi>H</m:mi>
+      <m:mrow>
+       <m:mn>90</m:mn></m:mrow>
+     </m:mfrac>
+     </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>100</m:mn><m:mi>H</m:mi></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>603</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>100</m:mn></m:mrow>
+     </m:mfrac>  
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+  </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+<m:mtext> </m:mtext><m:mi>H</m:mi><m:mo>≈</m:mo><m:mn>6</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation>
+
+Inserting these values, we now have a completed quantity-value table:<newline/><newline/>
+<media id="eip-id1168833257383" alt="QV table 1 filled in"><image src="../../media/QV table 1 filled in.PNG" mime-type="image/png" width="580"/></media><newline/><newline/></para></solution></exercise><example id="eip-758"><para id="eip-768">
+ The quantity-value table can also be used for other percent applications.
+</para><exercise id="eip-id1168830393366"><problem id="eip-id1168830393367"><para id="eip-id1168830393402">
+A certain mineral comprises 0.9% of an adult’s body weight. If a person contains 1.44 lb. of the mineral, how much does this person weigh?<newline/></para></problem>
+<solution id="eip-id1168830393299"><para id="eip-id1168830393300">We can start by organizing our information in a quality-value table:<newline/><newline/>
+<media id="eip-id1168830393545" alt="QV table 3"><image src="../../media/QV table 3.PNG" mime-type="image/png" width="480"/></media><newline/><newline/>
+Next, we set up and solve a percent equation to find the total body weight.<newline/>
+<equation id="eip-id1168830391080"><m:math>
+  <m:mtable>
+   <m:mtr>
+    <m:mtd>
+     <m:mn>0.009</m:mn><m:mo>⋅</m:mo><m:mi>T</m:mi><m:mo>=</m:mo><m:mn>1.44</m:mn>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>0.009</m:mn><m:mo>⋅</m:mo><m:mi>T</m:mi></m:mrow>
+      <m:mrow>
+       <m:mn>0.009</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>1.44</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>0.009</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>T</m:mi><m:mo>=</m:mo><m:mn>160</m:mn><m:mtext> lb</m:mtext><m:mtext>.</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  
+</m:math>
+</equation><newline/>
+So, the person weighs 160 pounds.</para></solution></exercise>
+</example></example><section id="eip-751"><title>Mixture Problems With Food Items</title><para id="eip-480">Foods are an example of a mixture. Foods are a mixture of fats, proteins, and carbohydrates. These are measured in both grams (for chemical weight) and calories (for energy) as seen on food labels.<newline/><newline/>
+</para><para id="eip-548">See the ratios of calories to gram
+at the end of this food label. 
+<newline/>
+<media id="eip-id1171794515337" alt="food label"><image src="../../media/food label.png" mime-type="image/png" width="280"/></media><newline/><newline/>
+Changing between grams and calories can be done with the standard conversion facts; the “9-4-4” numbers.<newline/><list id="eip-id3130742"> 
+
+<item>One gram of fat = 9 cal.</item>		<item>One gram of protein = 4 cal.</item>		<item>One gram of carbs = 4 cal.</item></list>
+</para><para id="eip-715">The following table is a quantity-value table for food items, where the quantities and values (percents) for fat, protein, and carbs, are organized for both calories and grams, in what we call a double quality-value table.<figure id="eip-id1169542469936"><media id="eip-id1169543031096" alt="food QV table"><image src="../../media/food QV table.PNG" mime-type="image/png" width="580"/></media></figure></para><example id="eip-766"><exercise id="eip-id7742820"><problem id="eip-id1164136012463"><para id="eip-383">
+ If a food has 13 grams of fat, 5 grams of protein, and 31 grams of carbs: let’s find the percentages and calories using a double quality-value table.<newline/> 
+</para></problem>
+<solution id="eip-id1164135729327"><para id="eip-id1164135729328">We fill in the given numbers and find all the missing numbers. To find the calories, use the 9-4-4 equivalence numbers. In order to find the calories of each item, we simply multiply the fat grams by 9, the protein grams by 4, and the carbs grams by 4. The total calories are a sum of the calories from fat, protein, and carbs. <newline/><newline/>
+
+<media id="eip-id2974835" alt="food QV table"><image src="../../media/food QV table 1.PNG" mime-type="image/png" width="580"/></media>
+<newline/><newline/>Now, we can determine the percents of each item for grams and calories.<newline/><newline/> 
+
+First, we’ll focus on percents for grams. Let F = percent of fat, P = percent of protein, and C = percent of carbs.<newline/><newline/>
+<media id="eip-id2501893" alt="gram percents"><image src="../../media/gram percents.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+So, fat is 26.5%, protein is 10.2%, and carbs is 63.3% of the total weight.<newline/><newline/>
+Second, let’s find the percents for calories. Let F = percent of fat, P = percent of protein, and C = percent of carbs.<newline/><newline/>
+<media id="eip-id1169542453039" alt="calorie percents"><image src="../../media/calorie percents.PNG" mime-type="image/png" width="580"/></media><newline/><newline/>
+So, fat is 44.8%, protein is 7.7%, and carbs is 47.5% of the total amount of calories.<newline/><newline/>
+Here is our completed table:<newline/>
+<media id="eip-id1169541271187" alt="food QV table"><image src="../../media/food QV table 2.PNG" mime-type="image/png" width="580"/></media><newline/>
+
+</para></solution></exercise>
+</example></section><section id="eip-673" class="section-exercises"><title>Homework</title><para id="eip-497">
+For the following exercises, fill in the given information, using a quantity-value table and find the missing information.
+</para><exercise id="eip-329"><problem id="eip-514">
+  <para id="eip-137">
+  21 out of 28 samples were analyzed. What percent were analyzed? 
+      What percent still needs to be analyzed?
+
+  </para>
+</problem>
+
+<solution id="eip-660">
+  <para id="eip-326">75% have been analyzed and there is 25% more that still needs to be analyzed.
+<newline/><newline/>
+<media id="eip-id1164135710359" alt="QV table"><image src="../../media/QV table 4.PNG" mime-type="image/png" print-width="2in" width="480"/></media></para></solution>
+</exercise><exercise id="eip-142"><problem id="eip-56">
+  <para id="eip-261">
+  If 13 oz. of boric acid solution is added to 1,012 oz. of water we have a mixture or solution. Find the percent of boric acid in this solution.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-250"><problem id="eip-802">
+  <para id="eip-430">
+ A certain mineral comprises 0.9% of an adult’s body weight. If a person contains 1.67 lb. of the mineral, how much does this person weigh?
+
+  </para>
+</problem>
+
+<solution id="eip-1000">
+  <para id="eip-291"><media id="eip-id1166110691678" alt="QV table"><image src="../../media/QV table 5.PNG" mime-type="image/png" print-width="2in" width="380"/></media>
+  </para></solution>
+</exercise><exercise id="eip-356"><problem id="eip-134">
+  <para id="eip-996">
+   If 12 mL of sulfuric acid are added to 153 mL of water we have a mixture or solution. What is the strength or concentration of this solution?
+
+  </para>
+</problem>
+
+</exercise><exercise id="eip-520"><problem id="eip-263">
+  <para id="eip-308">Use the food label below to fill in a quantity-value chart for both grams and calories.<newline/><newline/>
+<media id="eip-id1169541332420" alt="food label"><image src="../../media/food label 2.png" mime-type="image/png" width="280"/></media> 
+  </para></problem>
+
+<solution id="eip-370">
+  <para id="eip-433"><media id="eip-id1169541468693" alt="food QV table"><image src="../../media/4.4.5.PNG" mime-type="image/png" print-width="2in" width="580"/></media>
+  </para></solution>
+</exercise><exercise id="eip-464"><problem id="eip-171">
+  <para id="eip-538">
+    Use the food label below to fill in a quantity-value chart for both grams and calories.<newline/><newline/>
+<media id="eip-id1167708641216" alt="food label"><image src="../../media/food label 3.png" mime-type="image/png" width="280"/></media> 
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

@@ -1,0 +1,740 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Volume of Solids and Density</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62605</md:content-id>
+  <md:title>Volume of Solids and Density</md:title>
+  <md:abstract/>
+  <md:uuid>3a1a9d9b-6a79-45ad-a38e-87e28e03404a</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-353"><title>Learning Objectives</title><para id="eip-847">
+By the end of this section, you will be able to:</para>
+<list id="eip-id1367546"><item>Find volume rectangular solids</item>
+
+<item>Find volume of cylinders</item>
+
+<item>Solve density problems using the density formula, a proportion, or dimensional analysis</item></list></section><section id="fs-id1855075"><title>Find Volume of Rectangular Solids</title><para id="fs-id1798630">A cheerleading coach is having the squad paint wooden crates with the school colors to stand on at the games. The amount of space inside the crate is the volume, a cubic measure.</para><figure id="CNX_BMath_Figure_09_06_001"><media id="fs-id1171516922100" alt="This is an image of a wooden crate.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_001.jpg" width="175"/>
+</media>
+
+<caption>This wooden crate is in the shape of a rectangular solid.</caption></figure><para id="fs-id1475627">Each crate is in the shape of a <term>rectangular solid</term>. Its dimensions are the length, width, and height. The rectangular solid shown in <link target-id="CNX_BMath_Figure_09_06_002"/> has length <m:math><m:mn>4</m:mn></m:math> units, width <m:math><m:mn>2</m:mn></m:math> units, and height <m:math><m:mn>3</m:mn></m:math> units. Can you tell how many cubic units there are altogether? Let’s look layer by layer.</para>
+<figure id="CNX_BMath_Figure_09_06_002">
+<media id="fs-id1787764" alt="A rectangular solid is shown. Each layer is composed of 8 cubes, measuring 2 by 4. The top layer is pink. The middle layer is orange. The bottom layer is green. Beside this is an image of the top layer that says “The top layer has 8 cubic units.” The orange layer is shown and says “The middle layer has 8 cubic units.” The green layer is shown and says, “The bottom layer has 8 cubic units.”">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_002.jpg"/>
+</media>
+<caption>Breaking a rectangular solid into layers makes it easier to visualize the number of cubic units it contains. This <m:math><m:mn>4</m:mn></m:math> by <m:math><m:mn>2</m:mn></m:math> by <m:math><m:mn>3</m:mn></m:math> rectangular solid has <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> cubic units.</caption>
+</figure>
+<para id="fs-id1171487599067">Altogether there are <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> cubic units. Notice that <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> is the <m:math><m:mrow><m:mtext>length</m:mtext><m:mo>×</m:mo><m:mtext>width</m:mtext><m:mo>×</m:mo><m:mtext>height</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></para><media id="fs-id1171498001442" alt="The top line says V equals L times W times H. Beneath the V is 24, beneath the equal sign is another equal sign, beneath the L is a 4, beneath the W is a 2, beneath the H is a 3." display="block">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_002_img.jpg"/>
+</media>
+<para id="fs-id1171505120230">The volume, <m:math><m:mi>V</m:mi><m:mo>,</m:mo></m:math> of any rectangular solid is the product of the length, width, and height.</para>
+<equation id="fs-id1171104409171" class="unnumbered"><label/><m:math><m:mrow><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>L</m:mi><m:mi>W</m:mi><m:mi>H</m:mi></m:mrow></m:math></equation>
+
+<note id="fs-id1658379"><label/><title>Volume of a Rectangular Solid</title><para id="fs-id1510186">For a rectangular solid with length <m:math><m:mi>L</m:mi><m:mo>,</m:mo></m:math> width <m:math><m:mi>W</m:mi><m:mo>,</m:mo></m:math> and height <m:math><m:mi>H</m:mi><m:mo>:</m:mo></m:math></para>
+<media id="fs-id1686239" alt="A rectangular solid is shown. The sides are labeled L, W, and H. Beside it is Volume: V equals LWH equals BH." display="block">
+<image mime-type="image/png" src="../../media/Volume of a box.png"/>
+</media>
+</note><example id="fs-id1924768">
+<exercise id="fs-id1762917"><problem id="fs-id1711674">
+<para id="fs-id1178399">For a rectangular solid with length <m:math><m:mrow><m:mn>14</m:mn></m:mrow></m:math> cm, height <m:math><m:mrow><m:mn>17</m:mn></m:mrow></m:math> cm, and width <m:math><m:mn>9</m:mn></m:math> cm, find the volume.</para></problem>
+<solution id="fs-id1704717">
+
+<table id="eip-id1168468454551" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>Step 1. <emphasis effect="bold">Read</emphasis> the problem. Draw the figure and<newline/> label it with the given information.</entry>
+   <entry><media id="eip-id1168468780014" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_038_img-01.png"/></media></entry>    
+ </row>
+ <row>
+ <entry>Step 2. <emphasis effect="bold">Identify</emphasis> what you are looking for.</entry>
+  <entry>the volume of the rectangular solid</entry>
+ </row> 
+ <row>
+ <entry>Step 3. <emphasis effect="bold">Name.</emphasis> Choose a variable to represent it.</entry>
+ <entry>Let <m:math><m:mi>V</m:mi></m:math>= volume</entry>
+ </row>
+ <row>
+ <entry>Step 4. <emphasis effect="bold">Translate.</emphasis><newline/>Write the appropriate formula.<newline/>Substitute.</entry>
+ <entry><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>L</m:mi><m:mi>W</m:mi><m:mi>H</m:mi></m:math><newline/><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>14</m:mi><m:mo>⋅</m:mo><m:mn>9</m:mn><m:mo>⋅</m:mo><m:mn>17</m:mn></m:math><newline/><newline/></entry>
+ </row>
+ <row>
+ <entry>Step 5. <emphasis effect="bold">Solve</emphasis> the equation.</entry>
+ <entry><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mn>2,142</m:mn></m:math></entry>
+ </row>
+ <row>
+ <entry>Step 6. <emphasis effect="bold">Check</emphasis><newline/>We leave it to you to check your calculations.</entry>
+ <entry/>
+ </row>
+<row>
+<entry>Step 7. <emphasis effect="bold">Answer</emphasis> the question.</entry>
+<entry>The volume is <m:math><m:mtext>2,142</m:mtext></m:math> cubic centimeters.</entry>
+</row>
+  
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<example id="fs-id1171505120378">
+<exercise id="fs-id1171505335026"><problem id="fs-id1171498355737">
+<para id="fs-id1799761">A rectangular crate has a length of <m:math><m:mrow><m:mn>30</m:mn></m:mrow></m:math> inches, width of <m:math><m:mrow><m:mn>25</m:mn></m:mrow></m:math> inches, and height of <m:math><m:mrow><m:mn>20</m:mn></m:mrow></m:math> inches. Find its volume.</para></problem>
+<solution id="fs-id1592712">
+
+<table id="eip-id1168467238054" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+   <entry>Step 1. <emphasis effect="bold">Read</emphasis> the problem. Draw the figure and <newline/>label it with the given information.</entry>
+   <entry><media id="eip-id1168468779962" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_039_img-01.png"/></media></entry>    
+ </row>
+ <row>
+ <entry>Step 2. <emphasis effect="bold">Identify</emphasis> what you are looking for.</entry>
+  <entry>the volume of the crate</entry>
+ </row> 
+ <row>
+ <entry>Step 3. <emphasis effect="bold">Name.</emphasis> Choose a variable to represent it.</entry>
+ <entry>let <m:math><m:mi>V</m:mi></m:math>= volume</entry>
+ </row>
+ <row>
+ <entry>Step 4. <emphasis effect="bold">Translate.</emphasis><newline/>Write the appropriate formula.<newline/>Substitute.</entry>
+ <entry><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>L</m:mi><m:mi>W</m:mi><m:mi>H</m:mi></m:math><newline/><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mn>30</m:mn><m:mo>⋅</m:mo><m:mn>25</m:mn><m:mo>⋅</m:mo><m:mn>20</m:mn></m:math><newline/><newline/></entry>
+ </row>
+ <row>
+ <entry>Step 5. <emphasis effect="bold">Solve</emphasis> the equation.</entry>
+ <entry><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mn>15,000</m:mn></m:math></entry>
+ </row>
+ <row>
+ <entry>Step 6. <emphasis effect="bold">Check:</emphasis> Double check your math.</entry>
+ <entry/>
+ </row>
+ <row>
+ <entry>Step 7. <emphasis effect="bold">Answer</emphasis> the question.</entry>
+ <entry>The volume is 15,000 cubic inches.</entry>
+ </row>
+  
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+</section><section id="fs-id1720575"><title>Find the Volume of a Cylinder</title><para id="fs-id1804291">If you have ever seen a can of soda, you know what a cylinder looks like. A <term>cylinder</term><emphasis effect="bold"/> is a solid figure with two parallel circles of the same size at the top and bottom. The top and bottom of a cylinder are called the bases. The height <m:math><m:mi>h</m:mi></m:math> of a cylinder is the distance between the two bases. For all the cylinders we will work with here, the sides and the height, <m:math><m:mi>h</m:mi></m:math> , will be perpendicular to the bases.</para><figure id="CNX_BMath_Figure_09_06_020">
+<media id="fs-id1777988" alt="An image of a cylinder is shown. There is a red arrow pointing to the radius of the top labeling it r, radius. There is a red arrow pointing to the height of the cylinder labeling it h, height.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_020_img.jpg"/>
+</media>
+<caption>A cylinder has two circular bases of equal size. The height is the distance between the bases.</caption>
+</figure>
+
+
+
+
+
+<note id="fs-id1768322"><label/><title>Volume of a Cylinder</title>
+<para id="fs-id1650370">For a cylinder with radius <m:math><m:mi>r</m:mi></m:math> and height <m:math><m:mi>h</m:mi><m:mo>:</m:mo></m:math></para>
+<media id="fs-id1869917" alt="A cylinder is shown. The height is labeled h and the radius of the top is labeled r. Beside it is Volume: V equals pi times r squared times h." display="block">
+<image mime-type="image/png" src="../../media/Volume of a cylinder.png"/>
+</media>
+</note><example id="fs-id1171487566867">
+<exercise id="fs-id1783274"><problem id="fs-id1474985">
+<para id="fs-id1553388">A cylinder has height <m:math><m:mn>5</m:mn></m:math> centimeters and radius <m:math><m:mn>3</m:mn></m:math> centimeters. Find the volume.</para></problem>
+<solution id="fs-id1171488254612">
+
+
+
+<table id="eip-id1168469800646" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+   <entry>Step 1. <emphasis effect="bold">Read</emphasis> the problem. Draw the figure and label<newline/> it with the given information.</entry>
+   <entry><media id="eip-id1168468466750" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_046_img-01.png"/></media></entry>    
+ </row>
+ <row>
+ <entry>Step 2. <emphasis effect="bold">Identify</emphasis> what you are looking for.</entry>
+  <entry>the volume of the cylinder</entry>
+ </row> 
+ <row>
+ <entry>Step 3. <emphasis effect="bold">Name.</emphasis> Choose a variable to represent it.</entry>
+ <entry>let <emphasis effect="italics">V</emphasis> = volume</entry>
+ </row>
+ <row>
+ <entry>Step 4. <emphasis effect="bold">Translate.</emphasis><newline/>Write the appropriate formula.<newline/>Substitute. (Use 3.14 for <m:math><m:mi>π</m:mi></m:math>)</entry>
+ <entry><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>h</m:mi></m:math><newline/><newline/><m:math><m:mi>V</m:mi><m:mo>≈</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3.14</m:mn><m:mo stretchy="false">)</m:mo><m:msup><m:mn>3</m:mn><m:mn>2</m:mn></m:msup><m:mo>⋅</m:mo><m:mn>5</m:mn></m:math><newline/><newline/></entry>
+ </row>
+ <row>
+ <entry>Step 5. <emphasis effect="bold">Solve.</emphasis></entry>
+ <entry><m:math><m:mi>V</m:mi><m:mo>≈</m:mo><m:mn>141.3</m:mn></m:math></entry>
+ </row>
+ <row>
+ <entry>Step 6. <emphasis effect="bold">Check:</emphasis> We leave it to you to check your calculations.</entry>
+ <entry/>
+ </row>
+ <row>
+ <entry>Step 7. <emphasis effect="bold">Answer</emphasis> the question.</entry>
+ <entry>The volume is approximately 141.3 cm<sup>3</sup>.</entry>
+ </row>
+  
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<example id="fs-id1763364">
+<exercise id="fs-id1171511528547"><problem id="fs-id2143886">
+<para id="fs-id1171506152146">Find the volume of a can of soda. The radius of the base is <m:math><m:mn>4</m:mn></m:math> centimeters and the height is <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> centimeters. Assume the can is shaped exactly like a cylinder.</para></problem>
+<solution id="fs-id2103175">
+
+
+<table id="eip-id1168468670924" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+   <entry>Step 1. <emphasis effect="bold">Read</emphasis> the problem. Draw the figure and <newline/>label it with the given information.</entry>
+   <entry><media id="eip-id1168468414563" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_09_06_047_img-01.png"/></media></entry>    
+ </row>
+ <row>
+ <entry>Step 2. <emphasis effect="bold">Identify</emphasis> what you are looking for.</entry>
+  <entry>the volume of the cylinder</entry>
+ </row> 
+ <row>
+ <entry>Step 3. <emphasis effect="bold">Name.</emphasis> Choose a variable to represent it.</entry>
+ <entry>let <emphasis effect="italics">V</emphasis> = volume</entry>
+ </row>
+ <row>
+ <entry>Step 4. <emphasis effect="bold">Translate.</emphasis><newline/>Write the appropriate formula.<newline/>Substitute. (Use 3.14 for <m:math><m:mi>π</m:mi></m:math>)</entry>
+ <entry><newline/><m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>h</m:mi></m:math><newline/><newline/><m:math><m:mi>V</m:mi><m:mo>≈</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3.14</m:mn><m:mo stretchy="false">)</m:mo><m:msup><m:mn>4</m:mn><m:mn>2</m:mn></m:msup><m:mo>⋅</m:mo><m:mn>13</m:mn></m:math><newline/><newline/></entry>
+ </row>
+ <row>
+ <entry>Step 5. <emphasis effect="bold">Solve.</emphasis></entry>
+ <entry><m:math><m:mi>V</m:mi><m:mo>≈</m:mo><m:mn>653.12</m:mn></m:math></entry>
+ </row>
+ <row>
+ <entry>Step 6. <emphasis effect="bold">Check:</emphasis> We leave it to you to check.</entry>
+ <entry/>
+ </row>
+ <row>
+ <entry>Step 7. <emphasis effect="bold">Answer</emphasis> the question.</entry>
+ <entry>The volume is approximately 653.12 cm<sup>3</sup>.</entry>
+ </row>
+  
+</tbody>
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+</section><section id="eip-144"><title>Density</title><para id="eip-9">What is <term>density</term>?  
+
+Density is a characteristic property of a substance, for liquids and solids. It is a relationship between the mass of the substance and its volume.<newline/><newline/>
+
+Density equals the mass of the substance divided by its volume; 
+<equation id="eip-id2865209"><m:math>
+   <m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mtext>mass</m:mtext></m:mrow>
+    <m:mrow>
+     <m:mtext>volume</m:mtext></m:mrow>
+   </m:mfrac>
+</m:math></equation><newline/><newline/>
+Different substances have different densities. Objects with the same volume but different weight have different densities.  The only density you need to remember is for water, as measured in metrics.
+
+For every 1 cc or mL of water, it will weigh 1 gram.  If we have 1000 mL of water it will weigh 1000 g so 1 L of water weighs 1 kg. <newline/><newline/>
+Remember that cc means a box or container that measures one cubic centimeter. This container will hold a milliliter of liquid. If the liquid is water, it will weigh 1 gram. But other liquids have different densities so 1 cc of a liquid that is not water won’t necessarily weigh 1 gram.<newline/><newline/> 
+
+Since water is used so often you should memorize its density, which is 1 gram/1 cc.<newline/><newline/> 
+
+
+</para><para id="eip-865">In this section, you will use what you've learned about finding the volume of a rectangular or cylindrical solid to solve density problems.</para><para id="eip-272">Recall that mass divided by volume gives us the density of a substance or object.<newline/><newline/><equation id="eip-id1166804414878"><m:math><m:mtext>density</m:mtext><m:mo>=</m:mo><m:mfrac><m:mtext>mass</m:mtext><m:mtext>volume</m:mtext></m:mfrac></m:math></equation>
+
+<newline/><newline/>
+
+Knowing two of these three measurements can help us find the third measurement by using the density formula, a proportion, or dimensional analysis.</para><para id="eip-205">If we know the mass and volume of an object, we can use the density formula directly and simply divide the mass by the volume to find its density.</para><example id="eip-710"><exercise id="eip-idm216035664"><problem id="eip-idm543449296"><para id="eip-idm547197872">A block of an unknown material has a volume of 25 cc and a mass of 42 grams. What is the density of this unknown material?</para></problem>
+<solution id="eip-idm553693920"><para id="eip-idm762440640">Plug in 25 for the volume and 42 for the mass into the density formula and divide.</para><equation id="eip-idm434198640"><m:math><m:mtext>density = </m:mtext><m:mfrac><m:mtext>mass</m:mtext><m:mtext>volume</m:mtext></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>42</m:mn><m:mn>25</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>1.68</m:mn><m:mtext>  g/cc</m:mtext></m:math></equation></solution></exercise>
+
+</example><para id="eip-150"><title>Solving Density Problems Using Proportions</title>Since density is a rate, we can use proportions to solve the following type of problems:<list id="eip-id1170277543179">
+
+<item>What is the mass (given the density and volume)?</item>
+<item>What is the volume (given the density and mass)?</item></list>
+
+Using the formula for density, we set up a proportion by entering the density on the left side, written as a ratio, and writing the ratio of mass/volume on the right side. Which ever quantity we are trying to find, we will represent with a variable.<newline/><newline/>
+</para><example id="eip-438"><exercise id="eip-id1168904100153"><problem id="eip-id5506533"><para id="eip-608">Given a density of 3.2 g/cc and a known mass of 8.0 g, find the volume. 
+</para></problem>
+<solution id="eip-id1168934409283"><para id="eip-id1168900742971">Let <m:math><m:mi>v</m:mi></m:math> represent the volume. Then, plugging in the given volume and mass, we obtain the following proportion.
+<equation id="eip-id1168931016019"><m:math>
+   <m:mfrac>
+    <m:mn>3.2</m:mn>
+    <m:mn>1</m:mn>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>8.0</m:mn></m:mrow>
+    <m:mrow>
+     <m:mi>v</m:mi></m:mrow>
+   </m:mfrac>
+</m:math></equation>
+Cross multiplying and solving for <m:math><m:mi>v</m:mi></m:math>, we get:<equation id="eip-id1168909090628"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>3.2</m:mn><m:mi>v</m:mi></m:mrow>
+      <m:mrow>
+       <m:mn>3.2</m:mn></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mrow>
+       <m:mn>8.0</m:mn></m:mrow>
+      <m:mrow>
+       <m:mn>3.2</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>v</m:mi><m:mo>=</m:mo><m:mn>2.5</m:mn><m:mtext> cc</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation></para></solution></exercise>
+
+
+</example><example id="eip-961"><exercise id="eip-id1166116847948"><problem id="eip-id1166106816460"><para id="eip-64">
+ What is the mass of a block measuring a volume of 2.8 cc and density of 2.54 g/cc? 
+</para></problem>
+
+<solution id="eip-id1166105685705"><para id="eip-id2424931">Let <m:math><m:mi>m</m:mi></m:math> represent the mass. Then, setting up a proportion and solving, we have 
+<equation id="eip-id1166106997438"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>2.54</m:mn></m:mrow>
+      <m:mn>1</m:mn>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mi>m</m:mi>
+      <m:mrow>
+       <m:mn>2.8</m:mn></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>2.54</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>2.8</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mn>7.112</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math>
+</equation></para></solution></exercise>
+</example><example id="eip-942"><exercise id="eip-id1166805127261"><problem id="eip-id1166820779559"><para id="eip-499">Given a piece of wood and its density, find its mass.<newline/><newline/> 
+<media id="eip-id1182058" alt="block of wood" display="block"><image src="../../media/piece of wood.png" mime-type="image/png" width="280"/></media><newline/><newline/>
+If the density of oak wood is 0.85 g/cc, what is the mass of a piece of wood that is 20 cm by 30 cm by 2 cm?  Give the answer in both kilograms and in pounds. 
+
+</para></problem>
+<solution id="eip-id1170218829915"><para id="eip-id1170219986978">Step 1: Find the volume. This is a rectangular solid, so the volume can be found by multiplying the three given dimensions together.<newline/><newline/>
+
+Volume = (20 cm)(30 cm)(2 cm) = 1200 cm<sup>3</sup> (cc)<newline/><newline/>
+
+Step 2: Find the mass by using its volume and density. We will use a proportion for this example. The left side will be the density, written as a ratio, and the right side will be the mass/volume. Let <m:math><m:mi>m</m:mi></m:math> = mass.<newline/><newline/>
+
+<equation id="eip-id1170223993189"><m:math>
+   <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>0.85</m:mn><m:mtext> g</m:mtext></m:mrow>
+      <m:mrow>
+       <m:mn>1</m:mn><m:mtext> cc</m:mtext></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mi>m</m:mi>
+      <m:mrow>
+       <m:mn>1200</m:mn><m:mtext> cc</m:mtext></m:mrow>
+     </m:mfrac>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>0.85</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>1200</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1020</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+</m:math></equation><newline/><newline/>
+Now, we need to convert the mass into kg, which we can do by moving the decimal three places to the left. Thus, the mass is 1.02 kg.<newline/><newline/>
+Step 3: Lastly, we can use dimensional analysis to convert 1.02 kg into pounds:
+<newline/><equation id="eip-id1170221050942"><m:math>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>1.02</m:mn><m:mtext> </m:mtext><m:menclose notation="updiagonalstrike">
+      <m:mrow>
+       <m:mtext>kg</m:mtext></m:mrow>
+     </m:menclose>
+     </m:mrow>
+    <m:mn>1</m:mn>
+   </m:mfrac>
+   <m:mo>⋅</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>2.2</m:mn><m:mtext> lb</m:mtext><m:mtext>.</m:mtext></m:mrow>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mtext> </m:mtext><m:menclose notation="updiagonalstrike">
+      <m:mrow>
+       <m:mtext>kg</m:mtext></m:mrow>
+     </m:menclose>
+     </m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>2.244</m:mn><m:mtext> lb</m:mtext><m:mtext>.</m:mtext>  
+</m:math>
+</equation></para></solution>
+
+
+
+</exercise><example id="eip-297"><exercise id="eip-id1170794200125"><problem id="eip-id1170793996818"><para id="eip-335">
+ A cylinder has a radius of 5 mm and a height of 12 mm. If the density of the material the cylinder is made of is 1.64 g/cc, what is the weight of the cylinder? Find the weight in both grams and pounds. 
+</para></problem>
+<solution id="eip-id5789252"><para id="eip-id5789253">Step 1: Find the volume. This is a cylinder, so we need to use formula <m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mi>h</m:mi></m:math>. However, to use the density formula, we need the volume to be in cc (cm<sup>3</sup>). So, first we need to convert the radius and height to cm by moving each decimal one place to the left. This gives us a radius of 0.5 cm and a height of 1.2 cm. We will use 3.14 for <m:math><m:mi>π</m:mi></m:math>  <newline/><newline/>
+
+
+V = (3.14)(0.5 cm)<sup>2</sup>(1.2 cm) = 0.942 cc.<newline/><newline/>
+Step 2: Use the volume and density to find the mass. We'll use a proportion. We start by writing the left side as the density, written as a ratio, and the right side as mass/volume. Let <m:math><m:mi>m</m:mi></m:math> = mass.<newline/><newline/>
+<equation id="eip-id1170384965436"><m:math>
+  <m:mtable columnalign="left">
+   <m:mtr>
+    <m:mtd>
+     <m:mfrac>
+      <m:mrow>
+       <m:mn>1.64</m:mn><m:mtext> g</m:mtext></m:mrow>
+      <m:mrow>
+       <m:mn>1</m:mn><m:mtext> cc</m:mtext></m:mrow>
+     </m:mfrac>
+     <m:mo>=</m:mo><m:mfrac>
+      <m:mi>m</m:mi>
+      <m:mrow>
+       <m:mn>0.942</m:mn><m:mtext> cc</m:mtext></m:mrow>
+     </m:mfrac>
+     
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>1.64</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mn>0.942</m:mn></m:mrow>
+     <m:mo>)</m:mo></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr>
+    <m:mtd>
+     <m:mi>m</m:mi><m:mo>=</m:mo><m:mn>1.54</m:mn><m:mtext> g</m:mtext>
+    </m:mtd>
+   </m:mtr>
+  </m:mtable>
+  </m:math>
+
+</equation><newline/><newline/>
+Step 3: Convert 1.54 grams into pounds. For this conversion, we use a dimensional analysis:<equation id="eip-id1170385008485"><m:math>
+   <m:mfrac>
+    <m:mrow>
+     <m:mn>1.54</m:mn><m:mtext> </m:mtext><m:menclose notation="updiagonalstrike">
+      <m:mtext>g</m:mtext>
+     </m:menclose>
+     </m:mrow>
+    <m:mn>1</m:mn>
+   </m:mfrac>
+   <m:mo>⋅</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mtext> </m:mtext><m:menclose notation="downdiagonalstrike">
+      <m:mrow>
+       <m:mtext>kg</m:mtext></m:mrow>
+     </m:menclose>
+     </m:mrow>
+    <m:mrow>
+     <m:mn>1000</m:mn><m:mtext> </m:mtext><m:menclose notation="updiagonalstrike">
+      <m:mtext>g</m:mtext>
+     </m:menclose>
+     </m:mrow>
+   </m:mfrac>
+   <m:mo>⋅</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>2.2</m:mn><m:mtext> lb</m:mtext></m:mrow>
+    <m:mrow>
+     <m:mn>1</m:mn><m:mtext> </m:mtext><m:menclose notation="downdiagonalstrike">
+      <m:mrow>
+       <m:mtext>kg</m:mtext></m:mrow>
+     </m:menclose>
+     </m:mrow>
+   </m:mfrac>
+<m:mo>≈</m:mo><m:mn>0.0034</m:mn><m:mtext> lb</m:mtext><m:mtext>.</m:mtext> 
+</m:math>
+</equation>
+
+</para></solution></exercise>
+</example></example><para id="eip-208"><title>Solving Density Problems Using Dimensional Analysis</title>We can also solve the following type of density problems using dimensional analysis:
+<list id="eip-idm1279519440"><item>Find the mass of an object, given its density and volume.</item>
+<item>Find the volume of an object, given its density and mass.</item></list>
+One benefit of using dimensional analysis to solve density problems is that sometimes we want to find the mass in units other than grams or the volume in units other than mL or cc. Since density is usually given in g/mL or g/cc, using dimensional analysis allows us to not only find the mass or volume, but also convert into different units, all in the same process. It's also useful when the volume or mass that is given is not in mL or g respectively.<newline/><newline/></para><example id="eip-893"><exercise id="eip-id1166108727136"><problem id="eip-id1166091454705"><para id="eip-138">
+What is the mass of a block measuring a volume of 2.8 cc and density of 2.54 g/cc?
+</para></problem>
+<solution id="eip-id1170220075452"><para id="eip-id1170243486003">To use dimensional analysis for this type of problem, you would start with the given volume, written as a ratio, and then use the density as a unit ratio, writing it in such a way that the correct units will cross cancel.<newline/><newline/>
+<media id="eip-id1170216742933" alt="density rate" display="block"><image src="../../media/density rate 1.PNG" mime-type="image/png" width="240"/></media></para></solution>
+
+</exercise>
+
+</example><example id="eip-202"><exercise id="eip-id1170220364608"><problem id="eip-id1170217702140"><para id="eip-111">
+Given a density of 3.2 g/cc and a known mass of 8.0 g, find the volume. 
+</para></problem>
+<solution id="eip-id1170223905743"><para id="eip-id7491802">To use dimensional analysis for this type of problem, you would start with the given mass, written as a ratio, and then use the density as a unit ratio, writing it in such a way that the correct units will cross cancel.<newline/><newline/><media id="eip-id1170222089242" alt="density rate" display="block"><image src="../../media/density rate 2.PNG" mime-type="image/png" width="240"/></media></para></solution></exercise>
+</example><example id="eip-402"><exercise id="eip-id1003416"><problem id="eip-id990027"><para id="eip-647">Given a density of gold as 19.3 g/cc, find the mass of 200 cc of gold in <emphasis>kilograms</emphasis>.<newline/>
+</para></problem>
+
+
+
+<solution id="eip-id1166105421680"><media id="eip-id6614475" alt="density rate" display="block"><image src="../../media/density rate 3.PNG" mime-type="image/png" width="300"/></media></solution></exercise></example><example id="eip-199"><exercise id="eip-id1171768791464"><problem id="eip-id1171774715055"><para id="eip-859">If the density of gasoline is 0.675 g/cc find the mass of a gallon of gasoline. 
+</para></problem>
+<solution id="eip-id1171763866532"><para id="eip-id1171760164071">Since we are given the weight of the gasoline, which is in gallons, rather than its mass in grams, we start by converting the gallons into grams, and then we can use the density rate to finish the conversion.<newline/><newline/>
+<media id="eip-id1171771332920" alt="density rate"><image src="../../media/density rate 4.PNG" mime-type="image/png" width="480"/></media>
+</para></solution></exercise>
+</example><note id="eip-96"><title>Weight versus Mass</title>The terms "weight" and "mass" are often used interchangeably. However, they actually do not measure the same thing. Watch <link url="https://www.youtube.com/watch?v=zXQuzEJ3n0A">this video</link> to learn more about weight versus mass.</note></section><section id="fs-id1776573" class="section-exercises"><title>Homework</title><para id="fs-id1614121"><emphasis effect="bold">Find Volume of Rectangular Solids</emphasis> </para><para id="eip-322">In the following exercises, find the volume of the rectangular solid with the given dimensions.</para><exercise id="eip-914"><problem id="fs-id1658281">
+<para id="fs-id1406524">length <m:math><m:mn>8</m:mn></m:math> feet, width <m:math><m:mn>9</m:mn></m:math> feet, and height <m:math><m:mrow><m:mn>11</m:mn></m:mrow></m:math>
+feet.</para></problem>
+<solution id="fs-id1171506137807">
+<para id="eip-id1166109741904"> 792 cu. ft</para></solution>
+</exercise><exercise id="eip-13"><problem id="fs-id1563070">
+<para id="fs-id1171505480381">length <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> feet, width <m:math><m:mrow><m:mn>12</m:mn></m:mrow></m:math> feet, and height <m:math><m:mn>8</m:mn></m:math> feet.</para></problem></exercise><exercise id="fs-id1171506645897">
+<problem id="fs-id1171506645899">
+<para id="fs-id1171506204682">length <m:math><m:mn>2</m:mn></m:math> meters, width <m:math><m:mrow><m:mn>1.5</m:mn></m:mrow></m:math> meters, height <m:math><m:mn>3</m:mn></m:math> meters</para>
+</problem>
+<solution id="fs-id1954673">
+<para id="fs-id1954675">9 m<sup>3</sup></para></solution>
+</exercise>
+<exercise id="fs-id1819379">
+<problem id="fs-id1819381">
+<para id="fs-id1171506662803">length <m:math><m:mn>5</m:mn></m:math> feet, width <m:math><m:mn>8</m:mn></m:math> feet, height <m:math><m:mrow><m:mn>2.5</m:mn></m:mrow></m:math> feet</para>
+</problem>
+</exercise>
+<exercise id="fs-id1888211">
+<problem id="fs-id1171488123457">
+<para id="fs-id1171488123460">length <m:math><m:mrow><m:mn>3.5</m:mn></m:mrow></m:math> yards, width <m:math><m:mrow><m:mn>2.1</m:mn></m:mrow></m:math> yards, height <m:math><m:mrow><m:mn>2.4</m:mn></m:mrow></m:math> yards</para>
+</problem>
+<solution id="fs-id1171506990217">
+<para id="fs-id1171506990219">17.64 cu. yd.</para></solution>
+</exercise>
+<exercise id="fs-id1171488253631">
+<problem id="fs-id1171488253633">
+<para id="fs-id1171506675372">length <m:math><m:mrow><m:mn>8.8</m:mn></m:mrow></m:math> centimeters, width <m:math><m:mrow><m:mn>6.5</m:mn></m:mrow></m:math> centimeters, height <m:math><m:mrow><m:mn>4.2</m:mn></m:mrow></m:math> centimeters</para>
+</problem>
+</exercise>
+<exercise id="fs-id1797308">
+<problem id="fs-id1768152">
+<para id="fs-id1768154"><emphasis effect="bold">Moving van</emphasis> A rectangular moving van has length <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> feet, width <m:math><m:mn>8</m:mn></m:math> feet, and height <m:math><m:mn>8</m:mn></m:math> feet. </para></problem>
+<solution id="fs-id1934756">
+<para id="fs-id1566052">1,024 cu. ft</para></solution>
+</exercise>
+<exercise id="fs-id1171498011336"><problem id="fs-id1589261">
+<para id="fs-id1589263"><emphasis effect="bold">Gift box</emphasis> A rectangular gift box has length <m:math><m:mrow><m:mn>26</m:mn></m:mrow></m:math> inches, width <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> inches, and height
+<m:math><m:mn>4</m:mn></m:math> inches.</para></problem></exercise><exercise id="fs-id1171497077335"><problem id="fs-id1171497077337">
+<para id="fs-id1171488172347"><emphasis effect="bold">Carton</emphasis> A rectangular carton has length
+<m:math><m:mrow><m:mn>21.3</m:mn></m:mrow></m:math> cm, width <m:math><m:mrow><m:mn>24.2</m:mn></m:mrow></m:math> cm, and height <m:math><m:mrow><m:mn>6.5</m:mn></m:mrow></m:math> cm.</para></problem>
+<solution id="fs-id1171506678898">
+<para id="fs-id1171488155758">3,350.49 cu. cm</para></solution>
+</exercise><exercise id="fs-id1547888"><problem id="fs-id1547890">
+<para id="fs-id1589326"><emphasis effect="bold">Shipping container</emphasis> A rectangular shipping container has length <m:math><m:mrow><m:mn>22.8</m:mn></m:mrow></m:math> feet, width <m:math><m:mrow><m:mn>8.5</m:mn></m:mrow></m:math> feet, and height <m:math><m:mrow><m:mn>8.2</m:mn></m:mrow></m:math> feet. </para></problem>
+</exercise><para id="fs-id1999562"><emphasis effect="bold">Find the Volume of a Cylinder</emphasis> </para><para id="eip-233">In the following exercises, find the volume of the cylinder with the given radius and height. Use 3.14 for <m:math><m:mi>π</m:mi></m:math>. Round answers to the nearest hundredth.</para><exercise id="eip-850"><problem id="fs-id1704558">
+<para id="fs-id1762587">Find the volume of the cylinder with given radius 2 ft and height 8 ft. </para></problem>
+<solution id="fs-id1330308">
+<para id="fs-id1791413">100.48 ft<sup>3</sup></para></solution></exercise><exercise id="eip-339"><problem id="fs-id1171505228788">
+<para id="fs-id1171505228790">Find the volume of a can of paint with radius 8 centimeters and height 19 centimeters. Assume the can is shaped exactly like a cylinder.</para>
+</problem>
+</exercise><exercise id="eip-661"><problem id="fs-id1562839">
+<para id="fs-id1587965">Find the volume of the cylinder with radius 4 cm and height 7cm. </para></problem>
+<solution id="fs-id1581886">
+<para id="fs-id1747538">351.68 cu. cm</para></solution>
+
+</exercise><exercise id="eip-294"><problem id="fs-id1555240">
+<para id="fs-id1612789">Find the volume of a cylindrical drum with radius 2.7 feet and height 4 feet. Assume the drum is shaped exactly like a cylinder.</para>
+</problem>
+</exercise><exercise id="fs-id1585890"><problem id="fs-id1585892">
+<para id="fs-id1585894">radius <m:math><m:mn>3</m:mn></m:math> feet, height <m:math><m:mn>9</m:mn></m:math> feet</para>
+</problem>
+<solution id="fs-id1563193">
+<para id="fs-id1720974">254.34 cu. ft</para></solution>
+</exercise><exercise id="fs-id1720980">
+<problem id="fs-id2166075">
+<para id="fs-id2166077">radius <m:math><m:mn>5</m:mn></m:math> centimeters, height <m:math><m:mrow><m:mn>15</m:mn></m:mrow></m:math> centimeters</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171506187330">
+<problem id="fs-id1171505956684">
+<para id="fs-id1171505956686">radius <m:math><m:mrow><m:mn>1.5</m:mn></m:mrow></m:math> meters, height <m:math><m:mrow><m:mn>4.2</m:mn></m:mrow></m:math> meters</para>
+</problem>
+<solution id="fs-id1586031">
+<para id="fs-id1100975">29.67 cu. m</para></solution>
+</exercise>
+<exercise id="fs-id1448615">
+<problem id="fs-id1448618">
+<para id="fs-id1448620">radius <m:math><m:mrow><m:mn>1.3</m:mn></m:mrow></m:math> yards, height <m:math><m:mrow><m:mn>2.8</m:mn></m:mrow></m:math> yards</para>
+</problem>
+</exercise>
+<exercise id="fs-id1171506675302"><problem id="fs-id1171497077226">
+<para id="fs-id1171497077228"><emphasis effect="bold">Coffee can</emphasis> A can of coffee has a radius of <m:math><m:mn>5</m:mn></m:math> cm and a height of <m:math><m:mrow><m:mn>13</m:mn></m:mrow></m:math> cm. Find its volume.</para></problem>
+<solution id="fs-id1773470">
+<para id="fs-id1773472">1,020.5 cu. cm</para></solution>
+</exercise><exercise id="fs-id1171508053709">
+<problem id="fs-id1171508053711">
+<para id="fs-id1171508053713"><emphasis effect="bold">Snack pack</emphasis> A snack pack of cookies is shaped like a cylinder with radius <m:math><m:mn>4</m:mn></m:math> cm and height <m:math><m:mn>3</m:mn></m:math> cm. Find its volume.</para></problem>
+</exercise>
+<exercise id="fs-id1759547"><problem id="fs-id1759549">
+<para id="fs-id1794588"><emphasis effect="bold">Barber shop pole</emphasis> A cylindrical barber shop pole has a diameter of <m:math><m:mn>6</m:mn></m:math> inches and height of <m:math><m:mrow><m:mn>24</m:mn></m:mrow></m:math> inches. Find its volume.</para></problem>
+<solution id="fs-id1517708">
+<para id="fs-id1612815">678.24 in<sup>3</sup></para></solution>
+</exercise><exercise id="fs-id1535340"><problem id="fs-id1535342">
+<para id="fs-id1535344"><emphasis effect="bold">Architecture</emphasis> A cylindrical column has a diameter of <m:math><m:mn>8</m:mn></m:math> feet and a height of <m:math><m:mrow><m:mn>28</m:mn></m:mrow></m:math> feet. Find its volume.</para></problem>
+</exercise><para id="eip-539"><emphasis>Density Problems</emphasis></para><exercise id="eip-229"><problem id="eip-403">
+  <para id="eip-285">A cylinder has a radius of 75 mm and a height of 135 mm. If the density of the material the cylinder is made of is 0.84 g/cc, what is the mass of the cylinder? Find the mass in grams, <emphasis>using a proportion</emphasis> and then convert to pounds. 
+
+  </para></problem>
+
+<solution id="eip-78">
+  <para id="eip-552">2003 g and 4.4 lb.</para></solution>
+</exercise><exercise id="eip-175"><problem id="eip-658">
+  <para id="eip-127">A rectangular block is made of material with a density of 2.8 g/cc. If the dimensions of the block are 35 cm, 52 cm, and 4.2 cm, what is its mass in kilograms? What is its weight in pounds? <emphasis>Use dimensional analysis</emphasis> to find both answers.
+  </para></problem>
+
+
+</exercise>
+<para id="eip-830">For the next four exercises, <emphasis>use a proportion</emphasis> to solve the problem.</para><exercise id="eip-928"><problem id="eip-832">
+  <para id="eip-264">
+Given a volume of 32 cc of mercury and given the density of mercury to be 13.6 g/cc, find the weight. 
+  </para>
+</problem>
+
+<solution id="eip-281" print-placement="end">
+  <para id="eip-902">
+   435.2 g
+  </para>
+</solution>
+</exercise><exercise id="eip-350"><problem id="eip-732">
+  <para id="eip-455">
+Given the density is 3.72 g/cc and the volume is 15 cc, find the mass.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-471"><problem id="eip-704">
+  <para id="eip-960">
+Given a density of  0.75 g/cc and a known mass of 1.2 g, find the volume. 
+  </para>
+</problem>
+
+<solution id="eip-626" print-placement="end">
+  <para id="eip-143">
+1.6 cc
+  </para>
+</solution>
+</exercise><exercise id="eip-idm864169968"><problem id="eip-idm870509600">
+  <para id="eip-176">
+ If the density of glass is 2.2 g/cc at room temperature find the volume of a piece of glass weighing 1500 g.
+  </para>
+</problem>
+</exercise><para id="eip-971">For the following exercises, <emphasis>use dimensional analysis</emphasis> to find the answer.</para><exercise id="eip-250"><problem id="eip-571">
+  <para id="eip-541">
+What is the volume of 15 kg of water?  Use both mL and liters. (Remember that water has a density of 1 g/cc or 1 g/mL.)
+  </para>
+</problem>
+
+<solution id="eip-123" print-placement="end">
+  <para id="eip-58">
+ 15,000 mL = 15 L
+  </para>
+</solution>
+</exercise><exercise id="eip-692"><problem id="eip-620">
+  <para id="eip-287">
+Find the volume of a 45 g object with a density of 2.75 g/cc.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-343"><problem id="eip-985">
+  <para id="eip-221">
+ What is the mass of an object measuring a volume of 56 cc and having a density of 1.12 g/cc?
+  </para>
+</problem>
+
+<solution id="eip-672" print-placement="end">
+  <para id="eip-210">
+ 62.72 g
+  </para>
+</solution>
+</exercise><exercise id="eip-38"><problem id="eip-634">
+  <para id="eip-705">
+What is the volume of an object weighing 125 grams and having a density of 4.8 g/cc?
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

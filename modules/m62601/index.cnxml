@@ -1,0 +1,1348 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Converting Between Metric Measurements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62601</md:content-id>
+  <md:title>Converting Between Metric Measurements</md:title>
+  <md:abstract/>
+  <md:uuid>358e2f80-1e53-42f9-af1c-f6c03d7ca440</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1170293418115">
+      <title>Learning Objectives</title><para id="eip-794">By the end of this lesson, you will:</para><list id="id1170267330465" list-type="bulleted"><item>be more familiar with some of the advantages of the base ten number system,</item>
+<item>have reviewed the prefixes of the metric measures,</item> 
+<item>be able to convert from one metric unit of measure to another metric unit of measure, by moving the decimal.</item></list></section>
+    <section id="id1170278685819">
+      <title>The Advantages of the Base Ten Number System </title>
+      <para id="id1170291586452">The metric system of measurement takes advantage of our base ten number sys­tem. The advantage of the metric system over the United States system is that in the metric system it is possible to convert from one unit of measure to another simply by multiplying or dividing the given number by a power of 10. This means we can make a conversion simply by moving the decimal point to the right or the left.</para>
+    </section>
+    <section id="id1170276619183"><title>Prefixes</title><para id="id1170286331747">Common units of measure in the metric system are the meter (for length), the liter (for volume), and the gram (for mass). To each of the units can be attached a prefix. The <term>metric prefixes</term> along with their meaning are listed below.</para>
+      <list id="id1170284435282" mark-suffix=" —" list-type="labeled-item"><title>Metric Prefixes</title><item><label>kilo</label>thousand </item>
+        <item><label>deci</label>tenth</item>
+        <item><label>hecto</label>hundred </item>
+        <item><label>centi</label>hundredth</item>
+        <item><label>deka</label>ten </item>
+        <item><label>milli</label>thousandth</item>
+      </list>
+      <para id="id1170285187582">For example, if length is being measured,<newline count="2"/>
+      1 kilometer is equivalent to 1000 meters.<newline/>
+1 centimeter is equivalent to one hundredth of a meter. <newline/>
+1 millimeter is equivalent to one thousandth of a meter.</para>
+    </section>
+    <section id="id1170275737357">
+      <title>Conversion from One Unit to Another Unit</title>
+      <para id="id1170283805793">Let's note three characteristics of the metric system that occur in the metric table of measurements.</para>
+      <list id="id1170290648848" list-type="enumerated" number-style="arabic">
+        <item>In each category, the prefixes are the same.</item>
+        <item>We can move from a <emphasis effect="italics">larger to a smaller</emphasis> unit of measure by moving the decimal point to the <emphasis effect="italics">right</emphasis>.</item>
+        <item>We can move from a <emphasis effect="italics">smaller to a larger unit</emphasis> of measure by moving the decimal point to the <emphasis effect="italics">left</emphasis>.</item>
+      </list>
+      <para id="id1170282336613">The following table provides a summary of the relationship between the basic unit of measure (meter, gram, liter) and each prefix, and how many places the decimal point is moved and in what direction.</para>
+      <para id="id1170290863200"><emphasis effect="italics">kilo hecto deka unit deci centi milli</emphasis></para>
+      <table id="id1170284087263" summary="A summary of the relationship between the basic unit of measure and each prefix, and how many placed the decimal point is moved and in what direction.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Basic Unit to Prefix </entry>
+              <entry/>
+              <entry>Move the Decimal Point</entry>
+            </row>
+            <row>
+              <entry>unit to deka</entry>
+              <entry>1 to 10</entry>
+              <entry>1 place to the left</entry>
+            </row>
+            <row>
+              <entry>unit to hector</entry>
+              <entry>1 to 100</entry>
+              <entry>2 places to the left</entry>
+            </row>
+            <row>
+              <entry>unit to kilo</entry>
+              <entry>1 to 1,000</entry>
+              <entry>3 places to the left</entry>
+            </row>
+            <row>
+              <entry>unit to deci</entry>
+              <entry>1 to 0.1</entry>
+              <entry>1 place to the right</entry>
+            </row>
+            <row>
+              <entry>unit to centi</entry>
+              <entry>1 to 0.01</entry>
+              <entry>2 places to the right</entry>
+            </row>
+            <row>
+              <entry>unit to milli</entry>
+              <entry>1 to 0.001</entry>
+              <entry>3 places to the right</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table>
+    </section>
+    <section id="id1170297526323"><title>Conversion Table</title><para id="id1170288227599">Listed below, in the unit conversion table, are some of the common metric units of measure.</para>
+      <table id="id1170287091073" summary="Metric units of conversion in a conversion table."><tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c3">Unit Conversion Table</entry>
+            </row>
+            <row>
+              <entry morerows="6">Length</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1  </m:mn>
+                                  <m:mtext> kilometer </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>km</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>1,000 meters </m:mtext>
+                                  </m:mrow>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mi>m</m:mi>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" kilometer " \( "km" \) ="1,000 meters " \( m \) } {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1,</m:mn>
+                                  <m:mrow>
+                                    <m:mtext>000</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1,"000" times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mtext>  hectometer </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>hm</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>100 meters </m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" hectometer " \( "hm" \) ="100 meters "} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>100</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"100" times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mtext>  dekameter </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>dam</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>10 meters</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" dekameter " \( "dam" \) ="10 meters"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>10</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext>m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"10" times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>1 meter (m)</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1 times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mtext>  decimeter </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>dm</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>10</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  meter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" decimeter " \( "dm" \) = {  {1}  over  {"10"} } " meter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." 1 times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mtext>  centimeter </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>cm</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>100</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  meter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" centimeter " \( "cm" \) = {  {1}  over  {"100"} } " meter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>01</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "01" times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mtext>  millimeter </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>mm</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>1,000</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  meter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1" millimeter " \( "mm" \) = {  {1}  over  {"1,000"} } " meter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>001</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> m</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "001" times 1" m"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+         
+            <row>
+              <entry morerows="6">Mass</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   kilogram </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>kg</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>1,000 grams </m:mtext>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mi>g</m:mi>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 kilogram " \( "kg" \) ="1,000 grams " \( g \) } {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1,</m:mn>
+                                  <m:mrow>
+                                    <m:mtext>000</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1,"000" times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   hectogram </m:mtext>
+                                  <m:mo stretchy="false"> (</m:mo>
+                                  <m:mtext>hg</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>100 grams</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 hectogram " \( "hg" \) ="100 grams"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>100</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"100" times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   dekagram </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>dag</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>10 grams</m:mtext>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 dekagram " \( "dag" \) ="10 grams"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>10</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"10" times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>1   gram   (g)</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1 times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   decigram </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>dg</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>10</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  gram</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 decigram " \( "dg" \) = {  {1}  over  {"10"} } " gram"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." 1 times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   centigram </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>cg</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>100</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  gram</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 centigram " \( "cg" \) = {  {1}  over  {"100"} } " gram"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>01</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "01" times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   milligram </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>mg</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>1,000</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  gram</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 milligram " \( "mg" \) = {  {1}  over  {"1,000"} } " gram"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>001</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> g</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "001" times 1" g"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+              
+            <row>
+              <entry morerows="6">Volume</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   kiloliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>kL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mn>1,</m:mn>
+                                  </m:mrow>
+                                  <m:mtext>000</m:mtext>
+                                  <m:mtext>  liters </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mi>L</m:mi>
+                                  <m:mo stretchy="false">)</m:mo>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 kiloliter " \( "kL" \) =1,"000"" liters " \( L \) } {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1,</m:mn>
+                                  <m:mrow>
+                                    <m:mtext>000</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1,"000" times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   hectoliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>hL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>100</m:mtext>
+                                  </m:mrow>
+                                  <m:mtext>  liters</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 hectoliter " \( "hL" \) ="100"" liters"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>100</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"100" times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   dekaliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>daL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mtext>10</m:mtext>
+                                  </m:mrow>
+                                  <m:mtext>  liters</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 dekaliter " \( "daL" \) ="10"" liters"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mtext>10</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"10" times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>1 liter (L)</entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{1 times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   deciliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>dL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>10</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  liter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 deciliter " \( "dL" \) = {  {1}  over  {"10"} } " liter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." 1 times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   centiliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>cL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mtext>100</m:mtext>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  liter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 centiliter " \( "cL" \) = {  {1}  over  {"100"} } " liter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>01</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "01" times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+                  <row>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>1   milliliter </m:mtext>
+                                  <m:mo stretchy="false">  (</m:mo>
+                                  <m:mtext>mL</m:mtext>
+                                  <m:mrow>
+                                    <m:mo stretchy="false">)</m:mo>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:mfrac>
+                                      <m:mn>1</m:mn>
+                                      <m:mrow>
+                                        <m:mn>1,</m:mn>
+                                        <m:mtext>000</m:mtext>
+                                      </m:mrow>
+                                    </m:mfrac>
+                                  </m:mrow>
+                                  <m:mtext>  liter</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{"1 milliliter " \( "mL" \) = {  {1}  over  {1,"000"} } " liter"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                    <entry>
+                      <m:math>
+                        <m:semantics>
+                          <m:mrow>
+                            <m:mstyle fontsize="12pt">
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mtext>.</m:mtext>
+                                  <m:mrow>
+                                    <m:mtext>001</m:mtext>
+                                    <m:mo stretchy="false">×</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                  <m:mtext> L</m:mtext>
+                                </m:mrow>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                          <m:annotation encoding="StarMath 5.0"> size 12{ "." "001" times 1" L"} {}</m:annotation>
+                        </m:semantics>
+                      </m:math>
+                    </entry>
+                  </row>
+               
+            
+          </tbody>
+        </tgroup>
+      </table><para id="id1170296967052"><title>Converting Metric Units</title>To convert from one metric unit to another metric unit:</para>
+      <list id="id1170269425442" list-type="enumerated" number-style="arabic"><item>Determine the location of the original number on the metric scale (pictured in each of the following examples).</item>
+        <item>Move the decimal point of the original number in the same direction and same number of places as is necessary to move to the metric unit you wish to convert to.</item>
+      </list><para id="id1170301241097">We can also convert from one metric unit to another using dimensional analysis. </para><section id="id1170272718303"><example id="eip-id1171925474403"><para id="id1170293985761"> Convert 3 kilograms to grams.</para>
+
+<list id="eip-id1170361736430" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>
+        3 kg can be written as 3.0 kg. Then,<newline/>
+        <para id="id1170269431374"><media id="id1170269431374_media" alt="A line with hash marks dividing the line into seven segments. The segments are labeled, from left to right, kg, hg, dag, g, dg, cg, and mg. Below kg, hg, dagga, and g are arrows pointing from each segment to the neighboring segment on the right. These arrows are labeled 1, 2, and 3, indicating the number of places to the right.">
+            <image mime-type="image/png" src="../../media/graphics1-59ea.png" id="id1170269431374__onlineimage" width="340" print-width="2.75in"/>
+          </media>
+        </para>
+        <para id="id1170300916230"><media id="id1170300916230_media" alt="3.0 kg is equal to 3000g. An arrow is drawn under the three zeros in 3000, counting three decimal places to the right.">
+            <image mime-type="image/png" src="../../media/graphics2-a622.png" id="id1170300916230__onlineimage" width="135" print-width="1.25in"/>
+          </media>
+        </para>
+        <para id="id1170267232685">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3kg</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>3,000 g</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3kg"="3,000 g"} {}</m:annotation></m:semantics></m:math>.</para></item>
+<item>
+ We can also use dimensional analysis to make this conversion.        <para id="id1170289881453">Since we are converting to grams, and 
+1000 g = 1 kg, we choose the unit ratio 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mtext>1,000   g</m:mtext><m:mtext>1   kg</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"1,000 g"}  over  {"1 kg"} } } {}</m:annotation></m:semantics></m:math> since grams is in the numerator.</para><para id="id1170270055775"><media id="eip-id1170241904249" alt="3 kg to g"><image src="../../media/3 kg to g.gif" mime-type="image/gif" width="180"/></media></para></item>
+</list></example>
+<example id="eip-id1171907492057"><para id="id1170269404506">Convert 67.2 hectoliters to milliliters. </para>
+        <para id="id1170291507529"><media id="id1170291507529_media" alt="A line with hash marks dividing the line into seven segments. The segments are labeled, from left to right, kL, hL, dal, L, dL, cL, and mL. Below hL, dal, L, dL, cL, and mL are arrows pointing from each segment to the neighboring segment on the right. These arrows are labeled 1 through 5 indicating the number of places to the right.">
+            <image mime-type="image/png" src="../../media/graphics3-7da9.png" id="id1170291507529__onlineimage" width="350" print-width="2.5in"/>
+          </media>
+        </para>
+        <para id="id1170270068893"><media id="id1170270068893_media" alt="62.7 hL is equal to 6720000 mL. An arrow is drawn under the rightmost five digits in 6720000, counting five decimal places to the right.">
+            <image mime-type="image/png" src="../../media/graphics4-2417.png" id="id1170270068893__onlineimage" width="175" print-width="1.5in"/>
+          </media>
+        </para>
+        <para id="id1170268131001">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>67</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>2 hL</m:mtext><m:mo stretchy="false">=</m:mo><m:mtext>6,720,000 mL</m:mtext></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"67" "." "2 hL"="6,720,000 mL"} {}</m:annotation></m:semantics></m:math>.</para>
+      
+</example>
+<example id="eip-id1171908310418"><para id="id2986888"> Convert 100.07 centimeters to meters.</para>
+        <para id="id1170296035509"><media id="id1170296035509_media" alt="A line with hash marks dividing the line into seven segments. The segments are labeled, from left to right, km, hm, dam, m, dm, cm, mm. Below cm, dm, and m are arrows pointing from each segment to the neighboring segment on the left. These arrows are labeled 1 and 2, indicating the number of places to the left.">
+            <image mime-type="image/png" src="../../media/graphics5-2237.png" id="id1170296035509__onlineimage" width="350" print-width="3in"/>
+          </media>
+        </para>
+        <para id="id1170294642975"><media id="id1170294642975_media" alt="100.07 cm equals 1.0007 m. Arrows under the two leftmost zeros are labeled 1 and 2, pointing to the left, indicating the number of decimal places moved.">
+            <image mime-type="image/png" src="../../media/graphics6-ba81.png" id="id1170294642975__onlineimage" width="175" print-width="1.25in"/>
+          </media>
+        </para>
+        <para id="id1170291426415">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mtext>.</m:mtext><m:mrow><m:mtext>07 cm </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 1</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>0007 m</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100" "." "07 cm "=" 1" "." "0007 m"} {}</m:annotation></m:semantics></m:math>.</para>
+       
+</example>
+<example id="eip-id1171901117882"><para id="id1170288951577"> Convert 0.16 milligrams to grams.</para>
+        <para id="id1170274293845"><media id="id1170274293845_media" alt="A line with hash marks dividing the line into seven segments. The segments are labeled, from left to right, kg, hg, dg, g, dg, cg, and mg. Below g, dg, cg, and mg are arrows pointing from each segment to the neighboring segment on the left. These arrows are labeled 1, 2, and 3, indicating the number of places to the left.">
+            <image mime-type="image/png" src="../../media/graphics7.png" id="id1170274293845__onlineimage" width="340" print-width="2.5in"/>
+          </media>
+        </para>
+        <para id="id1170293478346"><media id="id1170293478346_media" alt="0.16mg equals 0.00016g. Underneath the rightmost three zeros are arrows pointing to the left, labeled 1, 2, and 3, indicating the movement of the decimal point.">
+            <image mime-type="image/png" src="../../media/graphics8.png" id="id1170293478346__onlineimage" width="180" print-width="1.5in"/>
+          </media>
+        </para>
+        <para id="id1170290856917">Thus, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>16  </m:mtext><m:mrow><m:mtext> mg </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 0</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mtext>00016 g</m:mtext><m:mtext>.</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "16"" mg "=" 0" "." "00016 g" "." } {}</m:annotation></m:semantics></m:math></para>
+      </example>
+<note id="eip-953" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm560255408">
+<problem id="oo-id2602050">
+            <para id="id1170293484846">Convert 411 kilograms to grams.</para>
+          </problem>
+<solution id="eip-id1170957946423">
+<para id="eip-id1170957316962">411,000 g
+</para>
+</solution>
+</exercise>
+        </note>
+        
+        <note id="eip-902" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm329582064">
+<problem id="oo-id1170286301854">
+            <para id="id1170293495918">Convert 5.626 liters to centiliters.  </para>
+          </problem>
+<solution id="eip-id1170969443476">
+<para id="eip-id1170959079240">562.6 cL
+</para>
+</solution>
+</exercise></note>
+        <note id="eip-75" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm779113536">
+<problem id="oo-id1170279367255">
+            <para id="id1170291400288"> Convert 80 milliliters to kiloliters.  </para>
+          </problem>
+<solution id="eip-id1170957919211">
+<para id="eip-id1170971212155">0.00008 kL
+</para>
+</solution>
+</exercise></note>
+        <note id="eip-675" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1346745024">
+<problem id="oo-id1170286714500">
+            <para id="id1170291527738">Convert 150 milligrams to centigrams. </para>
+          </problem>
+<solution id="eip-id1170960593014">
+<para id="eip-id1170959127315">15 cg</para>
+</solution>
+</exercise></note>
+      </section></section>
+    <section id="id1170289639557" class="section-exercises"><title>Homework</title><para id="id1170271824544">Make each conversion.  </para>
+      
+      <exercise id="eip-292"><problem id="eip-944">
+  <para id="eip-27">87 m to cm   
+  </para>
+</problem>
+
+<solution id="eip-531">
+  <para id="eip-274">
+8,700 cm  </para>
+</solution>
+</exercise><exercise id="id1170278911232">
+        <problem id="oo-id1170293929416">
+          <para id="id1170269438400">905 L to mL</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170271829696">
+        <problem id="oo-id1170286720693">
+          <para id="id1170291509670">16,005 mg to g   </para>
+        </problem>
+<solution id="eip-id5656467">
+<para id="eip-id1164915578459">16.005 g
+</para>
+</solution>
+      </exercise>
+      <exercise id="id1170270037102">
+        <problem id="oo-id1170268785542">
+          <para id="id1170271820040">48.66 L to dL</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170274421461">
+        <problem id="oo-id1170285170238">
+          <para id="id1170272470957">11.161 kL to L   </para>
+        </problem>
+<solution id="eip-id1164912328320">
+<para id="eip-id1164914821726">11,161 L</para>
+</solution>
+      </exercise>
+      <exercise id="id1170298497687">
+        <problem id="oo-id1170288243199">
+          <para id="id2735042">521.85 cm to mm</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170293852106">
+        <problem id="oo-id1170292175777">
+          <para id="id1170291491338">1.26 dag to dg</para>
+        </problem>
+<solution id="eip-id1164911753179">
+<para id="eip-id1164911620924">126 dg</para>
+</solution>
+      </exercise>
+      <exercise id="id1170291522558">
+        <problem id="oo-id1170290059060">
+          <para id="id1170274847808">99.04 dam to cm</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170271880809">
+        <problem id="oo-id1170286314494">
+          <para id="id1170269709827">0.51 kL to daL   </para>
+        </problem>
+<solution id="eip-id1164914458027">
+<para id="eip-id1164911812740">51 daL</para></solution>
+      </exercise>
+      <exercise id="id1170291654841">
+        <problem id="oo-id1903429">
+          <para id="id1170289998008">0.17 kL to daL</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170289959519">
+        <problem id="oo-id1170275532122">
+          <para id="id1170269423750">0.05 m to dm   </para>
+        </problem>
+<solution id="eip-id1164919760870">
+<para id="eip-id1164911836580">0.5 dm</para>
+</solution>
+      </exercise>
+      <exercise id="id1170297973806">
+        <problem id="oo-id1170284267374">
+          <para id="id1170291590956">0.001 km to mm</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170291606734">
+        <problem id="oo-id5660913">
+          <para id="id1170291485844">8.106 hg to cg   </para>
+        </problem>
+<solution id="eip-id1164915138018">
+<para id="eip-id1164920019583">
+81,060 cg</para>
+</solution>
+      </exercise>
+      <exercise id="id1170272551530">
+        <problem id="oo-id2888000">
+          <para id="id1170273115106">17.0186 kL to mL</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170278073123">
+        <problem id="oo-id1170297094920">
+          <para id="id1170269444904">3 cm to m</para>
+        </problem>
+<solution id="eip-id1164916920197">
+<para id="eip-id1164914399562">0.03 m</para>
+</solution>
+      </exercise>
+      <exercise id="id1170296175954">
+        <problem id="oo-id1170280171950">
+          <para id="id1170291540030">9 mm to m</para>
+        </problem>
+      </exercise>
+      <exercise id="id1170270027259">
+        <problem id="oo-id1170291830767">
+          <para id="id1170291600440"> 4 g to mg </para>
+        </problem>
+<solution id="eip-id1164912368240">
+<para id="eip-id1164948514941">4,000 mg</para>
+</solution>
+      </exercise>
+      <exercise id="id1170291557352">
+        <problem id="oo-id1170283597104">
+          <para id="id1170291568659">2 L to kL</para>
+        </problem>
+      </exercise>
+      </section>
+  </content>
+</document>

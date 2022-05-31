@@ -1,0 +1,146 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Metric System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62526</md:content-id>
+  <md:title>Metric System</md:title>
+  <md:abstract>In this module, students will learn about the metric system, including the most commonly used prefixes.</md:abstract>
+  <md:uuid>d44e6064-f754-4eb7-a5e7-4b02b3152b96</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">The metric system of measurement uses a starting base for each category (linear, mass/weight, and liquid capacity/volume). The base with a prefix represents either a multiple of a subdivision of the base unit.
+  </para><para id="eip-149"><emphasis>Subdivisions</emphasis> are parts or fractions of the base unit and the most common subdivisions are represented using the following prefixes:<newline/>
+<list id="eip-id1166997797276"><item>One tenth of the base unit is represented by <emphasis>"deci"</emphasis>. It takes 10 deci to make a whole.</item>
+<item>One hundredth of a base unit is represented by <emphasis>"centi"</emphasis>. It takes 100 centi to make a whole.</item>
+<item>One thousandth of a base unit is represented by <emphasis>"milli"</emphasis>. It takes 1000 milli to make a whole.</item></list></para><para id="eip-943"><emphasis>Multiples</emphasis> means more than one of the base unit. The most common multiples are represented using the following prefixes:<newline/>
+<list id="eip-id1170233586193">
+
+<item>Ten of the base unit is represented by <emphasis>"deka"</emphasis>. One deka is 10 times a whole.</item>
+<item>One hundred of the base unit is represented by <emphasis>"hecto"</emphasis>. One hecto is 100 times a whole.</item>
+<item>One thousand of the base unit is represented by <emphasis>"kilo"</emphasis>. One kilo is 1000 times a whole.</item></list>
+</para><section id="eip-564"><title>Linear Measurements</title><para id="eip-266">The linear category is for length, width, height, depth, distance, perimeter, etc.<newline/><newline/>
+The base unit in the linear category is the <emphasis>meter</emphasis> (abbreviated as m). This is about the size of a yardstick or height of a door knob from the floor.<newline/><newline/>
+The subdivision of centimeter is about the width of your little finger.<newline/>
+The subdivision of millimeter is about the thickness of a pencil lead.<newline/>
+
+</para><para id="eip-961"><title>MEMORIZE</title>You need to memorize these conversion facts and know the correct abbreviations:<newline/>
+<list id="eip-id1166834198306">
+<item>1 meter (m) = 100 centimeters (cm)</item>
+<item>1 meter (m) = 1000 millimeters (mm)</item>
+<item>1 centimeter (cm) = 10 millimeters (mm)</item></list>
+</para></section><section id="eip-271"><title>Measurements of Weight or Mass</title><para id="eip-593">Mass is the amount of matter in an object and weight is the pull of gravity on it; often both use the same labels.<newline/><newline/> 
+
+The base unit for this category is the <emphasis>gram</emphasis> (abbreviated as g), which is about the weight of a paper clip. The multiple of kilogram is about 2 pounds.
+
+</para><para id="eip-12"><title>MEMORIZE</title>You need to memorize the following conversion facts and know the correct abbreviations:<newline/><list id="eip-id1166117807891">
+<item>1 kilogram (kg) = 1000 grams (g)</item>
+<item>1 gram (g) = 1000 milligrams (mg)</item></list>
+</para></section><section id="eip-455"><title>Measurements of Liquid Capacity or Volume</title><para id="eip-204">The base unit for this category is the <emphasis>liter</emphasis> (abbreviated as L), which is about a quart.
+</para><para id="eip-790"><title>MEMORIZE</title>You need to memorize the following conversion facts and know the correct abbreviations:<newline/><list id="eip-id1171772002282">
+<item>1 liter (L) = 1000 milliliter (mL)</item>
+<item>1 liter (L) = 10 deciliters (dL)</item>
+<item>1 deciliter (dL) = 100 milliliters (mL)</item></list><newline/><newline/>
+Note that you may see a lower case l used to represent liters. However, in many fonts, it is difficult to distinguish it from the number 1 or the capital letter I, so using a capital L for liters is preferred.
+</para></section><note id="eip-727">While any prefix can be used with any base,
+<list id="eip-id1169273401949"><item>the most common prefixes for the meter are: km, cm, and mm;</item>
+<item>the most common prefixes for the weight or mass category are kg and mg;</item>
+<item>the most common prefixes for the liquid capacity or volume are dL (deciliter) and mL (milliliter).<newline/></item></list></note><section id="eip-419" class="section-exercises"><title>Homework</title><para id="eip-720">
+After memorizing the conversion facts above, complete these problem by filling in the blank.
+</para><exercise id="eip-643"><problem id="eip-274">
+  <para id="eip-937">
+    1 m = __________ mm
+  </para>
+</problem>
+
+<solution id="eip-843">
+  <para id="eip-768">
+    1 m = 1000 mm
+  </para>
+</solution>
+</exercise><exercise id="eip-929"><problem id="eip-289">
+  <para id="eip-742">
+    1 kg = __________ g
+  </para>
+</problem>
+
+</exercise><exercise id="eip-184"><problem id="eip-15">
+  <para id="eip-207">
+    1 dL = ________ mL
+  </para>
+</problem>
+
+<solution id="eip-522">
+  <para id="eip-545">
+   1 dL = 100 mL
+  </para>
+</solution>
+</exercise><exercise id="eip-725"><problem id="eip-900">
+  <para id="eip-161">
+   1 m = __________ cm
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-679"><problem id="eip-34">
+  <para id="eip-410">
+    1 g = __________ mg
+  </para>
+</problem>
+
+<solution id="eip-179">
+  <para id="eip-157">
+    1 g = 1000 mg
+  </para>
+</solution>
+</exercise><exercise id="eip-775"><problem id="eip-277">
+  <para id="eip-48">
+    1 L = _________ dL
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-411"><problem id="eip-625">
+  <para id="eip-379">
+    1 cm = _________ mm
+  </para>
+</problem>
+
+<solution id="eip-851">
+  <para id="eip-41">
+     1 cm = 10 mm
+  </para>
+</solution>
+</exercise><exercise id="eip-936"><problem id="eip-63">
+  <para id="eip-443">
+    1 L = ___________ mL
+  </para>
+</problem>
+
+
+</exercise><para id="eip-349">In the following exercises, match each base unit to its category:</para><exercise id="eip-64"><problem id="eip-505">
+  <para id="eip-37">
+    The base unit for the linear category is _________.
+<list id="eip-id3391312" list-type="enumerated" number-style="lower-alpha"><item>gram</item>
+<item>meter</item>
+<item>liter</item></list></para>
+</problem>
+
+<solution id="eip-846">
+  <para id="eip-983">
+   b
+  </para>
+</solution>
+</exercise><exercise id="eip-699"><problem id="eip-id1171773402202">
+  <para id="eip-id1171778176616">
+    The base unit for the liquid capacity or volume category is _________.
+<list id="eip-id1171772629032" list-type="enumerated" number-style="lower-alpha"><item>gram</item>
+<item>meter</item>
+<item>liter</item></list>
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

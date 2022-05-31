@@ -1,0 +1,176 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Logarithms</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62700</md:content-id>
+  <md:title>Logarithms</md:title>
+  <md:abstract/>
+  <md:uuid>c881c98c-6d85-4898-b741-e4e3a699e75d</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-365"><title>Learning Objectives</title><para id="eip-830">
+By the end of this lesson, you will be able to:
+</para><list id="eip-id1170761059348">
+<item>Understand the meaning of a logarithm (log for short).</item>
+<item>Determine the log of a power of ten, without a calculator.</item>
+<item>Use a scientific calculator to find the log of other numbers.</item>
+<item>Use a scientific calculator to find the log of a number in scientific notation.</item>
+</list></section><para id="delete_me"><term>Logarithms</term> are exponents. When we write a number in the power of ten form, we can see the <term>log</term> as it is the exponent on the ten.   (For this course, we will only consider logs on the base of ten.)<newline/><newline/>
+  
+For example, log(1000) = 3, since 1000 = 10<sup>3</sup><newline/><newline/>
+Note: log(1000) is read "log of 1000".<newline/><newline/></para><example id="eip-951"><exercise id="eip-id2131185"><problem id="eip-id1170237882691"><para id="eip-427">
+ Find the log of each power of 10, without a calculator.
+<list id="eip-id1170251258014" list-type="enumerated" number-style="lower-alpha"><item>0.001</item>
+<item>100,000</item>
+<item>10</item></list></para></problem>
+
+<solution id="eip-id1170227331079"><list id="eip-id2143435" list-type="enumerated" number-style="lower-alpha"><item>log(0.001) = -3, since 0.001 = 10<sup>-3</sup></item>
+<item>log(100,000) = 5, since 100,000 = 10<sup>5</sup></item>
+<item>log(10) = 1, since 10 = 10<sup>1</sup></item></list></solution></exercise>
+
+</example><para id="eip-54">What is the log of 212? We can’t do this one without a calculator since it's not a power of 10 with an integer exponent. However, since 212 is between 100 and 1000, We can estimate that its log will be between the log of 100 and the log of 1000, which means it’s between 2 and 3.<newline/><newline/> 
+We can use a key on the calculator, LOG, to find it. 
+Enter in LOG 212 to see that is equals about 2.326. Notice how this is in fact between 2 and 3.<newline/><newline/>
+Why is the log of 212 equal to about 2.326? Because 10 to the exponent of 2.326 is about 212. Check this using the y<sup>x</sup> or ^ key. See that 10<sup>2.326</sup> = 211.836, which is close to 212. (It is off a little due to the rounding.)<newline/><newline/>
+Because all positive numbers can be written as a power of ten, we can find the log of all positive numbers. Logs are used in other studies to make calculations easier, but for this course we will use logs for pH applications.<newline/><newline/>
+</para><example id="eip-687"><exercise id="eip-id9014352"><problem id="eip-id8794992"><para id="eip-603">
+ Use the log button on your scientific calculator to find the following logs:
+</para><list id="eip-id2080659" list-type="enumerated" number-style="lower-alpha"><item>log(550)</item>
+<item>log(0.94)</item>
+<item>log(-50)</item></list></problem>
+
+<solution id="eip-id5478000"><list id="eip-id2638477" list-type="enumerated" number-style="lower-alpha"><item>about 2.74</item>
+<item>about -0.0269</item>
+<item>This will give you an error. We can only find the log of positive numbers since you can't raise 10 to any exponent and get a negative number as a result.</item></list></solution></exercise>
+</example><example id="eip-747"><exercise id="eip-id1172303545384"><problem id="eip-id1172303545385"><para id="eip-939">
+Find the log of the following numbers. Remember to use your EE or Exp button to enter numbers that are in scientific notation.<list id="eip-id1172302600882" list-type="enumerated" number-style="lower-alpha"><item>3.25 × 10<sup>-4</sup></item>
+<item>2.1 × 10<sup>4</sup></item>
+<item>6.25 × 10<sup>-2</sup></item></list></para></problem>
+
+<solution id="eip-id1172306991325"><list id="eip-id1172310033946" list-type="enumerated" number-style="lower-alpha"><item>about -3.488</item>
+<item>about 4.32</item>
+<item>about -1.20</item></list></solution></exercise>
+</example><section id="eip-850" class="section-exercises"><title>Homework</title><para id="eip-79">
+For the following exercises, determine the log <emphasis>without a calculator</emphasis>.
+</para><exercise id="eip-958"><problem id="eip-998">
+  <para id="eip-210">
+ log(10<sup>-7</sup>)
+  </para>
+</problem>
+
+<solution id="eip-788">
+  <para id="eip-7">
+-7
+  </para>
+</solution>
+</exercise><exercise id="eip-440"><problem id="eip-341">
+  <para id="eip-570">
+log(10<sup>13</sup>)
+  </para>
+</problem>
+
+</exercise><exercise id="eip-937"><problem id="eip-360">
+  <para id="eip-684">
+   log(1,000,000,000)
+  </para>
+</problem>
+
+<solution id="eip-115">
+  <para id="eip-888">
+   9
+  </para>
+</solution>
+</exercise><exercise id="eip-361"><problem id="eip-899">
+  <para id="eip-862">
+  log(100,000)
+  </para>
+</problem>
+
+</exercise><exercise id="eip-175"><problem id="eip-444">
+  <para id="eip-279">
+log(0.0000001)
+  </para>
+</problem>
+
+<solution id="eip-209">
+  <para id="eip-17">-7
+  </para></solution>
+</exercise><exercise id="eip-820"><problem id="eip-244">
+  <para id="eip-398">
+ log(0.00001)
+  </para>
+</problem>
+
+</exercise><para id="eip-717">For the following exercises, use a scientific calculator to find the log. Round each answer to 3 decimal places.</para><exercise id="eip-334"><problem id="eip-204">
+  <para id="eip-618">
+    log(935)
+  </para>
+</problem>
+
+<solution id="eip-309">
+  <para id="eip-118">
+    2.971
+  </para>
+</solution>
+</exercise><exercise id="eip-509"><problem id="eip-956">
+  <para id="eip-769">
+ log(2762)
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-424"><problem id="eip-589">
+  <para id="eip-155">
+  log(0.00325)
+  </para>
+</problem>
+
+<solution id="eip-947">
+  <para id="eip-336">
+   -2.488
+  </para>
+</solution>
+</exercise><exercise id="eip-195"><problem id="eip-164">
+  <para id="eip-880">
+  log(0.00467)
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-955"><problem id="eip-771">
+  <para id="eip-561">
+  log(9.06 × 10<sup>17</sup>)
+  </para>
+</problem>
+
+<solution id="eip-340">
+  <para id="eip-697">
+  17.957
+  </para>
+</solution>
+</exercise><exercise id="eip-640"><problem id="eip-683">
+  <para id="eip-6">
+   log(1.18 × 10<sup>13</sup>)
+  </para>
+</problem>
+
+</exercise><exercise id="eip-537"><problem id="eip-166">
+  <para id="eip-753">
+   log(8.002 × 10<sup>-15</sup>)
+  </para>
+</problem>
+
+<solution id="eip-252">
+  <para id="eip-957">
+   -14.097
+  </para>
+</solution>
+</exercise><exercise id="eip-530"><problem id="eip-809">
+  <para id="eip-583">
+   log(3.204 × 10<sup>-23</sup>)
+  </para>
+</problem>
+</exercise></section></content>
+
+</document>

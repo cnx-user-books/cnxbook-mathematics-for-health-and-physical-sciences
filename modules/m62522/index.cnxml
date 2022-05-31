@@ -1,0 +1,171 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Multiplying and Dividing by Powers of Ten</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62522</md:content-id>
+  <md:title>Multiplying and Dividing by Powers of Ten</md:title>
+  <md:abstract>In this module, students will learn how to multiply and divide by powers of ten mentally by shifting the decimal.</md:abstract>
+  <md:uuid>375a5d8a-7e2a-4e6f-b856-21cafc4ecba5</md:uuid>
+</metadata>
+
+<content>
+  <para id="eip-743"><title><emphasis>Powers of Ten</emphasis></title><term>Powers of ten</term> are numbers that result from raising 10 to an integer exponent. These numbers are easy to identify. They have a single digit of 1 and all other digits are zeros.<newline/><newline/>
+Examples of powers of ten include: 1000, 100, 10, 0.1, 0.01, and 0.001.<newline/><newline/>
+In many situations, you'll want to be able to multiply and divide by 1000, 100, 10, 0.1, 0.01, 0.001 etc. <emphasis>without a calculator</emphasis>, which can be done by looking at the number and deciding which direction to move the decimal point and how many places.  <newline/></para><para id="delete_me"><title><emphasis>Which direction do we move the decimal point?</emphasis></title>We expect to get either a larger or smaller result based on the operation and the base ten being used.<newline/><newline/>
+You will need to keep in mind that:<newline/><newline/>
+Moving the decimal <emphasis>left</emphasis> results in a <emphasis>smaller</emphasis> number.<newline/><newline/>
+Moving the decimal <emphasis>right</emphasis> results in a <emphasis>larger</emphasis> number.<newline/>
+
+ 
+  </para><para id="eip-640"><title>How many places do we move the decimal?</title>How many places we move the decimal will depend on which power of ten we are multiplying or dividing by.<newline/><newline/>
+The key is to count the number of places the 1 digit is away from the ones place, in the power of ten you are multiplying or dividing by.<newline/></para><section id="eip-731"><title>Multiplication</title><para id="eip-213">When multiplying a number by a whole number greater than 1 (like 1000, 100, 10 etc.) the result is a larger number, which means the decimal on the other number needs to be moved to the right.<newline/><newline/> 
+For example, if we are multiplying by 1000, then since the 1 in 1000 is three places away from the ones place, we move the decimal 3 places and since we need to get a larger number as a result, we move the decimal to the right.<newline/>
+
+</para><example id="eip-844"><exercise id="eip-36"><problem id="eip-946">
+  <para id="eip-214">
+    Multiply: 46,500(1000)
+  </para>
+</problem>
+
+<solution id="eip-266">
+  <para id="eip-270">Since we are multiplying by 1000, we move the decimal on the number 46,500 three places to the right. This will leave three blank spaces, which will need to filled in with zeros as place holders.<newline/><newline/>
+Thus, 46,500(1000) = 46,500,000.
+  </para></solution>
+</exercise></example><example id="eip-956"><exercise id="eip-242"><problem id="eip-278">
+  <para id="eip-792">
+    Multiply 382.74 × 10
+  </para>
+</problem>
+
+<solution id="eip-309">
+  <para id="eip-498">Since the 1 in 10 is one place away from the ones place, the decimal must be moved one place. The number 10 is a whole number, so the result must be larger, which means the decimal must move to the right.<newline/><newline/>
+Moving the decimal on 382.74 one place to the right gives us 3827.4.
+  </para></solution>
+</exercise></example><note id="eip-942" class="try"><label/><title>Try It</title><exercise id="eip-id6135053"><problem id="eip-id6338643"><para id="eip-id6296822">Multiply: 375(10,000)</para></problem>
+<solution id="eip-id6338010"><para id="eip-id6337136">3,750,000</para></solution></exercise></note><para id="eip-866">Multiplying by a fraction or decimal number less than one (like 0.1, 0.01, 0.001 etc.), creates a smaller number, which means the decimal in the other number needs to be moved to the left.<newline/><newline/> 
+For example, if we are multiplying by 0.0001, then since the 1 in  0.0001 is four places away from the ones place, we move the decimal 4 places and since we need to get a smaller number as a result, we move the decimal to the left.<newline/></para><example id="eip-147"><exercise id="eip-734"><problem id="eip-564">
+  <para id="eip-369">
+    Multiply: 98,650 × 0.01 
+  </para>
+</problem>
+
+<solution id="eip-406">
+  <para id="eip-728">
+    Since 0.01 is a fraction or decimal (in other words, a number less than 1) the result will be smaller than 98,650, which means the decimal will move to the left. The digit of 1 in the number 0.01 is two places from the ones place, so the decimal needs to be moved two places to the left.<newline/><newline/>
+Moving the decimal on 98,650 two places to the left gives us 986.5.
+  </para>
+</solution>
+</exercise></example><note id="eip-645" class="try"><label/><title>Try It</title><exercise id="eip-id1733638"><problem id="eip-id6150644"><para id="eip-id2287114"> Multiply 52.34(0.001).<newline/></para></problem><solution id="eip-id1993585"><para id="eip-id6253570">0.05234</para></solution></exercise></note></section><section id="eip-988"><title>Division</title><para id="eip-405">Division is the opposite of multiplication. So, as you would expect, we get the opposite results.<newline/><newline/>
+When dividing by a whole number greater than 1 (like 1000, 100, 10, etc.), the result is smaller than the number being divided.<newline/><newline/>
+When dividing by a fraction or decimal less than 1 (like 0.1, 0.01, 0.001, etc.), the result will be larger than the number being divided.<newline/>
+</para><example id="eip-437"><exercise id="eip-id8766763"><problem id="eip-id8799338"><para id="eip-159">
+Divide: 46,500 ÷ 1000
+</para></problem>
+<solution id="eip-id8756389"> <para id="eip-id8766671">Since we are dividing by a whole number greater than 1, namely 1000, the result will be smaller than 46,500. So, the decimal needs to be moved to the left. The 1 in the number 1000 is three places away from the ones place, so the decimal should be moved three places to the left.<newline/><newline/>
+Moving the decimal in the number 46,500 three places to the left gives us 46.5.<newline/></para></solution>
+</exercise>
+</example><note id="eip-49" class="try"><label/><title>Try It</title><exercise id="eip-idm208192240"><problem id="eip-idm1532997280"><para id="eip-idm185022992">Divide: 8,756.374 ÷ 10,000<newline/></para></problem>
+<solution id="eip-idm612168800"><para id="eip-idm438607072">0.8756374<newline/></para></solution></exercise></note><example id="eip-754"><exercise id="eip-id1171770851709"><problem id="eip-id1171772237586"><para id="eip-255">
+Divide: 98,650 ÷ 0.01 <newline/>
+</para></problem>
+<solution id="eip-id1171772701372"><para id="eip-id1171772361425">Since 0.01 is a decimal number less than one, the result of this division will be larger than 98,650. Thus, the decimal needs to move to the right. The 1 in the number 0.01 is two places away from the ones place, so the decimal moves two places to the right.<newline/><newline/>
+The result of moving the decimal in the number 98,650 to the right two places is 9,865,000.</para></solution>
+</exercise></example><note id="eip-506" class="try"><label/><title>Try It</title><exercise id="eip-id1165885599501"><problem id="eip-id1165871570831"><para id="eip-id1165871570832">Divide: 465.18 ÷ 0.0001<newline/></para></problem>
+<solution id="eip-id1165881348268"><para id="eip-id1165889710706">4,651,800<newline/></para></solution></exercise></note></section><section id="eip-250" class="section-exercises"><title>Homework</title><para id="eip-403">Complete the following problems without a calculator.
+</para><exercise id="eip-37"><problem id="eip-407">
+  <para id="eip-124">
+    Divide: 8,457.3 ÷ 100
+  </para>
+</problem>
+
+<solution id="eip-155">
+  <para id="eip-975">
+    84.573
+  </para>
+</solution>
+</exercise><exercise id="eip-556"><problem id="eip-632">
+  <para id="eip-897">
+    Multiply: 60,048 × 0.001
+  </para>
+</problem>
+
+</exercise><exercise id="eip-86"><problem id="eip-305">
+  <para id="eip-277">
+    Multiply: 10,000(9.3)
+  </para>
+</problem>
+
+<solution id="eip-610">
+  <para id="eip-282">
+    93,000
+  </para>
+</solution>
+</exercise><exercise id="eip-655"><problem id="eip-895">
+  <para id="eip-219">
+    Divide: 5 ÷ 100
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-379"><problem id="eip-615">
+  <para id="eip-627"> Divide: 
+    <m:math>
+   <m:mfrac><m:mrow>
+         <m:mn>435</m:mn><m:mo>,</m:mo><m:mn>091.3</m:mn></m:mrow><m:mrow>
+     <m:mn>100</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow>
+   </m:mfrac>
+</m:math>
+ 
+
+  </para>
+</problem>
+
+<solution id="eip-301">
+  <para id="eip-687">
+    4.350913
+  </para>
+</solution>
+</exercise><exercise id="eip-540"><problem id="eip-660">
+  <para id="eip-753">
+    Multiply: 0.00425 × 0.001
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-356"><problem id="eip-119">
+  <para id="eip-899">
+    Multiply: 758(1,000,000)
+  </para>
+</problem>
+
+<solution id="eip-226">
+  <para id="eip-931">
+    758,000,000
+  </para>
+</solution>
+</exercise><exercise id="eip-833"><problem id="eip-87">
+  <para id="eip-346">
+    Divide: 92.475 ÷ 0.0001
+  </para>
+</problem>
+
+</exercise><exercise id="eip-861"><problem id="eip-116">
+  <para id="eip-486">
+    Divide: 0.54 ÷ 0.0001
+  </para>
+</problem>
+
+<solution id="eip-110">
+  <para id="eip-865">
+    5,400
+  </para>
+</solution>
+</exercise><exercise id="eip-40"><problem id="eip-223">
+  <para id="eip-318">
+   Multiply: 72.4 × 10,000
+  </para>
+</problem>
+
+</exercise></section></content>
+
+</document>

@@ -1,0 +1,496 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Rounding Decimals</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62524</md:content-id>
+  <md:title>Rounding Decimals</md:title>
+  <md:abstract>This module discusses how to round decimals.</md:abstract>
+  <md:uuid>8a30844b-39d4-40eb-8cc3-b7c011c8a11f</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.org/content/m34356/latest/" strength="2">Open Textbook Adoptions</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="fs-id2483817"><title>Learning Objectives</title><para id="eip-id1171771197779">By the end of this lesson, you should be able to:</para><list id="eip-id1171776242309"> 
+
+<item>Round a decimal number to a specified place value </item>
+<item>Round a decimal number to a specified number of decimal places</item></list></section><section id="id7449332"><title>Rounding Decimal Numbers</title><para id="id7449338">We first considered the concept of rounding numbers in <link document="m34780"/> where our concern with rounding was related to whole numbers only. With a few minor changes, we can apply the same rules of rounding to decimals.</para>
+      <para id="id7449344">To round a decimal to a particular position:
+ <list id="id7449348" list-type="enumerated" number-style="arabic"><item>Mark the position of the round-off digit (with an arrow or check).</item>
+        <item>Note whether the digit to the immediate right of the marked digit is <list id="id7449362" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")"><item><emphasis effect="italics">less than 5</emphasis>. If so, leave the round-off digit unchanged. </item><item><emphasis effect="italics">5 or greater</emphasis>. If so, add 1 to the round-off digit.</item></list></item>
+      <item>If the round-off digit is <list id="id7449385" list-type="enumerated" number-style="lower-alpha" mark-prefix="(" mark-suffix=")"><item>to the right of the decimal point, eliminate all the digits to its right. </item>
+        <item>to the left of the decimal point, replace all the digits between it and the decimal point with zeros and eliminate the decimal point and all the decimal digits.</item>
+      </list></item></list>
+</para>
+     
+      
+      
+      <section id="id7449398"><title>Examples</title><para id="id7449405">Round each decimal to the specified place value. (The numbers in parentheses indicate which step is being used.)</para><example id="eip-id1167626229714"><para id="id7449410">Round 32.116 to the nearest hundredth.</para>
+<list id="eip-id1164733476527" mark-prefix="(" mark-suffix=")" list-type="labeled-item"><item><label>1</label>
+        <para id="id7449414"><media id="id7449418_media" alt="1 is in the hundredths position of 32.116"><image mime-type="image/png" src="../../media/graphics1-8276.png" id="id7449418__onlineimage" width="200" print-width="2in"/></media></para>
+</item>
+<item><label>2b</label>
+       The digit immediately to the right is 6, and 
+6 &gt; 5, so we add 1 to the round-off digit: 
+        <para id="id7449492">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>1 </m:mtext>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mtext> 1 </m:mtext>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext> 2</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"1 "+" 1 "=" 2"} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+</item>
+<item><label>3a</label>
+        The round-off digit is to the right of the decimal point, so we eliminate all digits to its right. 
+        <para id="id7449553">32.12</para>
+</item>
+</list><para id="id7449557">The number 32.116 rounded to the nearest hundredth is 32.12.</para>
+</example>
+        <example id="eip-id1167645944485"><para id="id7449566">Round 633.14216 to the nearest hundred.</para>
+<list id="eip-id1167630878179" mark-prefix="(" mark-suffix=")" list-type="labeled-item"><item><label>1</label>
+        <para id="id7449570"><media id="id7449574_media" alt="6 is in the hundreds position of 633.14216"><image mime-type="image/png" src="../../media/graphics2-80ba.png" id="id7449574__onlineimage" width="150" print-width="1.25in"/></media></para>
+</item>
+<item><label>2a</label>
+         The digit immediately to the right is 3, and 
+3 &lt; 5 so we leave the round-off digit unchanged.
+</item>
+<item><label>3b</label>
+        The round-off digit is to the left of 0, so we replace all the digits between it and the decimal point with zeros and eliminate the decimal point and all the decimal digits.
+        <para id="id7449651">600</para>
+</item></list><para id="id7449655">The number 633.14216 rounded to the nearest hundred is 600.</para></example>
+
+      <example id="eip-id1164964215934">  <para id="id7449659">1,729.63 rounded to the nearest ten is 1,730.</para></example>
+<example id="eip-id1164963803561">
+        <para id="id7449664">1.0144 rounded to the nearest tenth is 1.0.</para></example>
+<example id="eip-id1164968831616">
+        <para id="id7449668">60.98 rounded to the nearest one is 61.</para></example>
+
+        <para id="id7449672">Sometimes we hear a phrase such as "round to three decimal places." This phrase means that the round-off digit is the third decimal digit (the digit in the thousandths position).</para>
+
+<example id="eip-id1164964220429">
+        <para id="id7449678">67.129 rounded to the second decimal place is 67.13.</para></example>
+<example id="eip-id1164964328616">
+        <para id="id7449682">67.129558 rounded to 3 decimal places is 67.130.</para></example>
+      </section>
+      <section id="id7449687"><title>Practice</title><para id="id7449693">Round each decimal to the specified place value or number of decimal places. </para>
+        <note id="eip-667" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm476617616">
+<problem id="oo-id7562026">
+            <para id="id7449700">4.816 to the nearest hundredth.   </para>
+          </problem>
+<solution id="eip-id1171899193056"><para id="eip-id1171896431684">4.82</para></solution>
+</exercise></note>
+        <note id="eip-370" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm226012656">
+<problem id="oo-id7562035">
+            <para id="id7449709">0.35928 to the nearest ten thousandths.  </para>
+          </problem>
+<solution id="eip-id1171910114152"><para id="eip-id1171913323750">0.3593</para></solution>
+</exercise></note>
+        <note id="eip-369" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm386554192">
+<problem id="oo-id7562043">
+            <para id="id7449716">82.1 to the nearest one.    </para>
+          </problem>
+<solution id="eip-id1171896186390"><para id="eip-id1171899947756">82</para></solution>
+</exercise></note>
+        <note id="eip-112" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm379490672">
+<problem id="oo-id7562051">
+            <para id="id7449726">753.98 to the nearest hundred.   </para>
+          </problem>
+<solution id="eip-id1171909606431"><para id="eip-id1171896045678">800</para></solution>
+</exercise></note>
+        <note id="eip-737" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm245398368">
+<problem id="oo-id7562059">
+            <para id="id7449734">Round 43.99446 to three decimal places.  </para>
+          </problem>
+<solution id="eip-id1171896064223"><para id="eip-id1171898852314">43.994</para></solution>
+</exercise></note><note id="eip-869" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm340413392">
+<problem id="oo-id7562068">
+            <para id="id7449741">Round 105.019997 to four decimal places. </para>
+          </problem>
+<solution id="eip-id1171911413746"><para id="eip-id3401226">105.0200</para></solution>
+</exercise></note>
+        </section></section>
+    <section id="id7449754" class="section-exercises"><title>Homework</title><para id="id7449760">For the first 10 problems, complete the chart by rounding each decimal to the indicated place value.</para><exercise id="id7449765"><problem id="oo-id7562096">
+          <para id="id7449768">20.01071</para>
+<table id="id7449770" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-id1165344310371"><para id="eip-idm1213131424">
+<media id="eip-idm1088960736" alt="." display="block"><image mime-type="image/png" src="../../media/Table 1 for 2.2.png" width="380" print-width="2in"/></media></para>
+
+</solution>
+      </exercise><exercise id="id7449940">
+        <problem id="oo-id7562171">
+          <para id="id7449943">3.52612
+</para>
+<table id="id7449944" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>3.53</entry>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7450020"><problem id="oo-id7562224">
+          <para id="id7450023">531.21878
+</para>
+<table id="id7450024" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-idm398598832"><para id="eip-idm368748928">
+<media id="eip-idm368748672" alt="." display="block"><image mime-type="image/png" src="../../media/Table 2 for 2.2.png" width="380" print-width="2in"/></media></para>
+
+</solution></exercise><exercise id="id7450194"><problem id="oo-id7440595">
+          <para id="id7450197">36.109053</para>
+     
+<table id="id7450198" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry>36.1</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      </problem></exercise>
+      
+      <exercise id="id7450274"><problem id="oo-id7440648">
+          <para id="id7450277">1.999994</para>
+<table id="id7450278" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-idm511243728"><para id="eip-idm701107344">
+<media id="eip-idm216558944" alt="." display="block"><image mime-type="image/png" src="../../media/Table 3 for 2.2.png" width="380" print-width="2in"/></media></para>
+
+</solution></exercise><exercise id="id7450452">
+        <problem id="oo-id7440756">
+          <para id="id7450455">7.4141998</para>
+<table id="id7450456" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>7.414</entry>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7450532"><problem id="oo-id7440809">
+          <para id="id7450536">0.000007</para>
+<table id="id7450537" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-idm1014107648"><para id="eip-idm835377504">
+<media id="eip-idm372623792" alt="." display="block"><image mime-type="image/png" src="../../media/Table 4 for 2.2.png" width="380" print-width="2in"/></media></para>
+
+</solution></exercise><exercise id="id7450706">
+        <problem id="oo-id7440910">
+          <para id="id7450709">0.00008</para>
+<table id="id7450710" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>0.0001</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+      
+      <exercise id="id7450786"><problem id="oo-id7440963">
+          <para id="id7450790">9.19191919</para>
+<table id="id7450791" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+<solution id="eip-idm2016718784"><para id="eip-idm1820042368">
+<media id="eip-idm2003068912" alt="." display="block"><image mime-type="image/png" src="../../media/Table 5 for 2.2.png" width="380" print-width="2in"/></media></para>
+
+</solution></exercise><exercise id="id7450960">
+        <problem id="oo-id7441064">
+          <para id="id7450963">0.0876543</para>
+<table id="id7450964" summary="An exercise table listing the tenth, hundredth and thousandth, and ten thousandth positions.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Tenth </entry>
+              <entry>Hundredth</entry>
+              <entry>Thousandth</entry>
+              <entry>Ten Thousandth</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+        </problem>
+      </exercise>
+      
+      <para id="id7451869"><title>Calculator Problems</title>For the following 5 problems, round 18.4168095 to the indi­cated number of decimal places.</para><exercise id="id7451875">
+        <problem id="oo-id7441122">
+          <para id="id7451878">3 decimal places.    </para>
+        </problem>
+<solution id="eip-id1165326901437"><para id="eip-id1165332728148">18.417</para></solution>
+      </exercise>
+      <exercise id="id7451884">
+        <problem id="oo-id7441130">
+          <para id="id7451887">1 decimal place.</para>
+        </problem>
+      </exercise>
+      <exercise id="id7451889">
+        <problem id="oo-id7441139">
+          <para id="id7451892">5 decimal places.    </para>
+        </problem>
+<solution id="eip-id7867707"><para id="eip-id1165337727605">18.41681</para></solution>
+      </exercise>
+      <exercise id="id7451899">
+        <problem id="oo-id7441147">
+          <para id="id7451902">6 decimal places.</para>
+        </problem>
+      </exercise>
+      <exercise id="id7451903">
+        <problem id="oo-id7441155">
+          <para id="id7451906">2 decimal places.</para>
+        </problem>
+<solution id="eip-id1165339587022"><para id="eip-id1165326819566">18.42</para></solution>
+      </exercise>
+      <para id="eip-id1165527477502">
+        <title>Calculator Problems</title>
+        For the following problems, perform each division using a calculator.</para>
+        <exercise id="id7451923"><problem id="oo-id7441173">
+            <para id="id7451926"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>4 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 3</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"4 " div " 3"} {}</m:annotation></m:semantics></m:math> and round to 2 decimal places.</para>
+          </problem>
+        </exercise>
+        <exercise id="id7451973">
+          <problem id="oo-id7441204">
+            <para id="id7451976">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 8</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1 " div " 8"} {}</m:annotation></m:semantics></m:math> and round to 1 decimal place.  </para>
+          </problem>
+<solution id="eip-id1165351662824"><para id="eip-id1165336029759">0.1</para></solution>
+        </exercise>
+        <exercise id="id7452027">
+          <problem id="oo-id7441236">
+            <para id="id7452030">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>1 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 27</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"1 " div " 27"} {}</m:annotation></m:semantics></m:math> and round to 6 decimal places.</para>
+          </problem>
+        </exercise>
+        <exercise id="id7452077">
+          <problem id="oo-id7441280">
+            <para id="id7452080">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>51</m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 61</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"51" div " 61"} {}</m:annotation></m:semantics></m:math> and round to 5 decimal places.   </para>
+          </problem>
+<solution id="eip-id1165337777392"><para id="eip-id1165326812543">0.83607</para></solution>
+        </exercise>
+        <exercise id="id7452132">
+          <problem id="oo-id7441312">
+            <para id="id7452135"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>3 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 16</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"3 " div " 16"} {}</m:annotation></m:semantics></m:math> and round to 3 decimal places.</para>
+          </problem>
+        </exercise>
+        <exercise id="id7452182">
+          <problem id="oo-id7441343">
+            <para id="id7452185">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>16 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 3</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"16 " div " 3"} {}</m:annotation></m:semantics></m:math> and round to 3 decimal places.  </para>
+          </problem>
+<solution id="eip-id1165341934300"><para id="eip-id1165352300901">5.333</para></solution>
+        </exercise>
+        <exercise id="id7452236">
+          <problem id="oo-id7441374">
+            <para id="id7452239">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>26 </m:mtext><m:mo stretchy="false">÷</m:mo><m:mtext> 7</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"26 " div " 7"} {}</m:annotation></m:semantics></m:math> and round to 5 decimal places.</para>
+          </problem>
+        </exercise>
+     
+      </section></content>
+</document>

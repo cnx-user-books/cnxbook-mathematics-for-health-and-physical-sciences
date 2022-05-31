@@ -1,0 +1,812 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Adding Integers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62535</md:content-id>
+  <md:title>Adding Integers</md:title>
+  <md:abstract/>
+  <md:uuid>06a03e40-52b6-42ab-b334-f8f7b7f68833</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-278"><label/><title>Learning Objectives</title><para id="eip-id2172696">By the end of this section, you will be able to:
+<list id="eip-id2172736">
+<item>Model addition of integers</item>
+<item>Simplify expressions with integers</item>
+</list></para></section><section id="fs-id1166761433818"><title>Model Addition of Integers</title><para id="eip-165">Most students are comfortable with the addition and subtraction facts for positive numbers.  But doing addition or subtraction with both positive and negative numbers may be more difficult. This difficulty relates to the way the brain learns.</para><para id="fs-id1166761426725">The brain learns best by working with objects in the real world and then generalizing to abstract concepts. Toddlers learn quickly that if they have two cookies and their older brother steals one, they have only one left. This is a concrete example of <m:math><m:mrow><m:mn>2</m:mn><m:mo>−</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math> Children learn their basic addition and subtraction facts from experiences in their everyday lives. Eventually, they know the number facts without relying on cookies.</para><para id="fs-id1166761420837">Addition and subtraction of negative numbers have fewer real world examples that are meaningful to us. Math teachers have several different approaches, such as number lines, banking, temperatures, and so on, to make these concepts real.</para>
+<para id="fs-id1166761477082">We will model addition and subtraction of negatives with two color counters. We let a blue counter represent a positive and a red counter will represent a negative.</para>
+<media id="fs-id1166761481032" alt="This figure has a blue circle labeled positive and a red circle labeled negative.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_024_img.jpg"/>
+</media>
+<para id="fs-id1166761480980">If we have one positive and one negative counter, the value of the pair is zero. They form a <term class="no-emphasis">neutral pair</term>. The value of this neutral pair is zero as summarized in <link target-id="CNX_BMath_Figure_03_02_001"/>.</para>
+<figure id="CNX_BMath_Figure_03_02_001">
+<media id="fs-id1166761426480" alt="This figure has a blue circle over a red circle. Beside them is the statement 1 plus negative 1 equals 0.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_001.jpg"/>
+</media>
+<caption>A blue counter represents <m:math><m:mrow><m:mo>+</m:mo><m:mn>1</m:mn><m:mo>.</m:mo></m:mrow></m:math> A red counter represents <m:math><m:mrow><m:mn>−1</m:mn><m:mo>.</m:mo></m:mrow></m:math> Together they add to zero.</caption>
+</figure>
+<para id="fs-id1166761426642">We will model four addition facts using the numbers <m:math><m:mrow><m:mn>5</m:mn><m:mo>,</m:mo><m:mn>−5</m:mn><m:mspace width="0.2em"/><m:mtext>and</m:mtext><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>,</m:mo><m:mn>−3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+<equation id="fs-id1166761433872" class="unnumbered"><label/><m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="1em"/><m:mn>−5</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="1em"/><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mspace width="1em"/><m:mn>5</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></equation>
+<example id="fs-id1166761468356"><exercise id="fs-id1166761480099"><problem id="fs-id1166761477197">
+<para id="fs-id1166761477199">Model: <m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math>
+</para>
+</problem>
+<solution id="fs-id1166761430553">
+
+<table id="eip-id1168469436825" class="unnumbered unstyled" summary="This figure has five rows. The first row states interpret the expression and has 5 plus 3 means the sum of 5 and 3. The second row states to model the first number and start with 5 positives. It has 5 blue circles. The third row states model the second number and add 3 positives. It has 5 blue circles followed by 3 blue circles. The third row states count the total number of counters. It is followed by 8 blue circles. The fifth row states the sum of 5 and 3 is 8 and is followed by the expression 5 plus 3 equals 8."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>Interpret the expression.</entry>
+   <entry><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math> means the sum of <m:math><m:mn>5</m:mn></m:math> and <m:math><m:mn>3</m:mn></m:math>.</entry>
+ </row>
+ <row>
+   <entry>Model the first number. Start with 5 positives.</entry>
+   <entry><media id="eip-id1168469859334" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_025_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Model the second number. Add 3 positives.</entry>
+   <entry><media id="eip-id1168469855190" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_025_img-02.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Count the total number of counters.</entry>
+   <entry><media id="eip-id1168466267334" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_025_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry>The sum of 5 and 3 is 8.</entry>
+   <entry><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>8</m:mn></m:math></entry>
+ </row>
+ 
+</tbody>
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example><note id="eip-511" class="try"><label/><title>Try It</title><exercise id="fs-id1166761429874">
+<problem id="fs-id1166761429876">
+<para id="fs-id1166761430510">Model the expression.</para><para id="fs-id1166761430513"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761420551">
+<para id="fs-id1171103820346"><newline/>
+<media id="fs-id1166761441332" alt="This figure has six blue circles in a row, representing positive counters. The first two circles are separated from the following four circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_005_img.jpg"/>
+</media><newline/><newline/>
+2 + 4 = 6</para></solution>
+</exercise>
+</note><note id="fs-id1171105072761" class="try"><label/><title>Try It</title><exercise id="fs-id1166761477094">
+<problem id="fs-id1166761429482">
+<para id="fs-id1171105262331">Model the expression.</para><para id="fs-id1166761429484"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761455579">
+<para id="fs-id1171103455945"><newline/>
+<media id="fs-id1166761455584" alt="This figure has seven light blue circles in a row, representing positive counters. Two circles are separated from the following 5 circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_006_img.jpg"/>
+</media><newline/><newline/>
+2 + 5 = 7</para></solution>
+</exercise>
+</note><example id="fs-id1166761483066"><exercise id="eip-idm2257727792"><problem id="eip-idm1013592800">
+<para id="fs-id1166761430258">Model: <m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761483098">
+
+<table id="eip-id1168466019221" class="unnumbered unstyled" summary="This figure has five rows. The first row states to interpret the expression and is followed by negative 5 plus negative 3 means the sum of negative 5 and negative 3. The second row states to model the first number and start with 5 negatives followed by 5 red circles. The third row states model the second number and add 3 negatives followed by a row with 5 red circles and 3 red circles. The fourth row states count the total number of counters followed by 8 red circles. The fifth row states the sum of negative 5 and negative 3 is negative 8, and is followed by the expression negative 5 plus negative 3 equals negative 8."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>Interpret the expression.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math> means the sum of <m:math><m:mn>−5</m:mn></m:math> and <m:math><m:mn>−3</m:mn></m:math>.</entry>
+ </row>
+ <row>
+   <entry>Model the first number. Start with 5 negatives.</entry>
+   <entry><media id="eip-id1168466052777" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_026_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Model the second number. Add 3 negatives.</entry>
+   <entry><media id="eip-id1168469344019" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_026_img-02.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Count the total number of counters.</entry>
+   <entry><media id="eip-id1168469757105" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_026_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry>The sum of −5 and −3 is −8.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>−3</m:mn><m:mo>=</m:mo><m:mn>−8</m:mn></m:math></entry>
+ </row>
+ 
+</tbody>
+
+</tgroup>
+</table>
+</solution>
+</exercise></example><note id="fs-id1166761429438" class="try"><label/><title>Try It</title><exercise id="fs-id1166761493510">
+<problem id="fs-id1166761493513">
+<para id="fs-id1166761493515">Model the expression.</para><para id="fs-id1166761493518"><m:math><m:mrow><m:mn>−2</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761477116">
+<para id="fs-id1171105154659"><newline/>
+<media id="fs-id1166761468494" alt="This figure shows a row of 6 dark blue circles, representing negative counters. They are grouped by 2 circles followed by 4 circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_010_img.jpg"/>
+</media><newline/><newline/>
+-2 + (-4) = −6</para></solution>
+</exercise>
+</note><note id="fs-id1171105177651" class="try"><label/><title>Try It</title><exercise id="fs-id1166761468509">
+<problem id="fs-id1166761468511">
+<para id="fs-id1171103661383">Model the expression.</para><para id="fs-id1166761468513"><m:math><m:mrow><m:mn>−2</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761420491">
+<para id="fs-id1171103452522"><newline/>
+<media id="fs-id1166761420494" alt="This figure shows a row of 7 dark blue circles, representing negative counters. They are grouped by 2 circles followed by 5 circles.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_011_img.jpg"/>
+</media><newline/><newline/>
+-2 + (-5) = −7</para></solution>
+</exercise>
+</note><para id="fs-id1166761429358"><link target-id="fs-id1166761468356"/> and <link target-id="fs-id1166761483066"/> are very similar. The first example adds <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> positives and <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> positives—both positives. The second example adds <m:math><m:mrow><m:mn>5</m:mn></m:mrow></m:math> negatives and <m:math><m:mrow><m:mn>3</m:mn></m:mrow></m:math> negatives—both negatives. In each case, we got a result of <m:math><m:mrow><m:mtext>8—either</m:mtext><m:mspace width="0.2em"/><m:mn>8</m:mn></m:mrow></m:math> positives or <m:math><m:mrow><m:mn>8</m:mn></m:mrow></m:math> negatives. When the signs are the same, the counters are all the same color.</para>
+<para id="fs-id1166761429371">Now let’s see what happens when the signs are different.</para>
+<example id="fs-id1166761471996"><exercise id="eip-idm536057840"><problem id="eip-idm1663039648">
+<para id="fs-id1166761472002">Model: <m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761472018">
+
+<table id="eip-id1168468228028" class="unnumbered unstyled" summary="This figure has six rows. The first row states interpret the expression and is followed by negative 5 plus 3 means the sum of negative 5 and 3. The second row states model the first number and start with 5 negatives. It is followed by 5 red circles. The third row states model the second number and add 3 positives. It is followed by 5 red circles and 3 blue circles. The fourth row states remove any neutral pairs. It is followed by a row of 5 red circles and under that a row of 3 blue circles. The first three red and blue circles are grouped together. The fifth row states count the result and has 2 red circles. The sixth row states the sum of negative 5 and 3 is negative 2. It is followed by the expressions negative 5 plus 3 equals negative 2"><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>Interpret the expression.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math> means the sum of <m:math><m:mn>−5</m:mn></m:math> and <m:math><m:mn>3</m:mn></m:math>.</entry>
+ </row>
+ <row>
+   <entry>Model the first number. Start with 5 negatives.</entry>
+   <entry><media id="eip-id1168468254933" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_027_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Model the second number. Add 3 positives.</entry>
+   <entry><media id="eip-id1168468668824" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_027_img-02.png"/></media></entry>
+ </row>
+ <row>
+ <entry>Remove any neutral pairs.</entry>
+ <entry><media id="eip-id1168468525673" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_027_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Count the result.</entry>
+   <entry><media id="eip-id1168468436066" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_027_img-04.png"/></media></entry>
+ </row>
+ <row>
+   <entry>The sum of −5 and 3 is −2.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>=</m:mo><m:mn>−2</m:mn></m:math></entry>
+ </row>
+ 
+</tbody>
+</tgroup>
+</table>
+
+<para id="fs-id1575267">Notice that there were more negatives than positives, so the result is negative.</para>
+</solution>
+</exercise>
+</example><note id="fs-id1166761472038" class="try"><label/><title>Try It</title><exercise id="eip-id1166566427443">
+<problem id="eip-id1166566427445">
+<para id="eip-id1166566427447">Model the expression, and then simplify:</para>
+<para id="eip-id1166566427450"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−4</m:mn><m:mo>)</m:mo></m:mrow></m:math></para></problem>
+<solution id="eip-id1166566427470">
+<para id="eip-id1166566427472"><newline/>Note: Dark blue circles represent negatives and light blue counters represent positives.<newline/><newline/>
+<media id="eip-id1166566427476" alt="This figure shows two rows of counter circles. The first row has 2 dark blue circles, representing negative counters. The second row has 4 light blue circles, representing positive counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_016_img.jpg"/>
+</media><newline/><newline/>
+2 + (-4) = -2</para></solution>
+</exercise>
+</note><note id="fs-id1171105226199" class="try"><label/><title>Try It</title><exercise id="eip-id1166566305604">
+<problem id="eip-id1166566305607">
+<para id="eip-id1166566305609">Model the expression, and then simplify:</para>
+<para id="eip-id1166566305612"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>-5</m:mn><m:mo>)</m:mo></m:mrow></m:math></para></problem>
+<solution id="eip-id1166566305632">
+<para id="eip-id1166566305634"><newline/>
+<media id="eip-id1166566305638" alt="This figure shows two rows of counter circles. The first row has 2 light blue circles, representing positive counters. The second row has 5 dark blue circles, representing negative counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_023_img.jpg"/>
+</media><newline/><newline/>
+2 + (-5) = -3</para></solution>
+</exercise>
+</note><example id="fs-id1166761421624"><exercise id="eip-idm572948160">
+<problem id="eip-idm1066125904">
+<para id="fs-id1166761421630">Model: <m:math><m:mrow><m:mn>5</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−3</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761421653">
+
+<table id="eip-id1168468738226" class="unnumbered unstyled" summary="This figure has six rows. The first row states interpret the expression and is followed by 5 plus negative 3 means the sum of 5 and negative 3. The second row states model the first number and start with 5 positives. It is followed by 5 blue circles. The third row states model the second number and add 3 negatives. It is followed by 5 blue circles and 3 red circles. The fourth row states remove any neutral pairs. It is followed by a row of 5 blue circles and under that a row of 3 red circles. The first three red and blue circles are grouped together. The fifth row states count the result and has 2 blue circles. The sixth row states the sum of 5 and negative 3 is 2. It is followed by the expression five plus negative 3 equals 2."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>Interpret the expression.</entry>
+   <entry><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math> means the sum of <m:math><m:mn>5</m:mn></m:math> and <m:math><m:mn>−3</m:mn></m:math>.</entry>
+ </row>
+ <row>
+   <entry>Model the first number. Start with 5 positives.</entry>
+   <entry><media id="eip-id1168468458435" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_028_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Model the second number. Add 3 negatives.</entry>
+   <entry><media id="eip-id1168467120318" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_028_img-02.png"/></media></entry>
+ </row>
+ <row>
+ <entry>Remove any neutral pairs.</entry>
+ <entry><media id="eip-id1168467199701" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_028_img-03.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Count the result.</entry>
+   <entry><media id="eip-id1168468437854" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_028_img-04.png"/></media></entry>
+ </row>
+ <row>
+   <entry>The sum of 5 and −3 is 2.</entry>
+   <entry><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>2</m:mn></m:math></entry>
+ </row>
+ 
+</tbody>
+</tgroup>
+</table>
+</solution>
+</exercise>
+
+</example><note id="fs-id1166761421670" class="try"><label/><title>Try It</title><exercise id="fs-id1166761421674">
+<problem id="fs-id1166761493948">
+<para id="fs-id11667614939510">Model the expression, and then simplify:</para>
+<para id="fs-id1171105491910"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−4</m:mn><m:mo>)</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id1166761493976">
+<para id="fs-id1171105119798"><newline/>
+<media id="fs-id1166761493978" alt="This figure shows two rows of counter circles. The first row has 2 light blue circles, representing positive counters. The second row has 4 dark blue circles, representing negative counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_022_img.jpg"/>
+</media><newline/><newline/>
+2 + (-4) = -2</para></solution>
+</exercise>
+</note><note id="fs-id1171105494132" class="try"><label/><title>Try It</title><exercise id="eip-id1166568757581">
+<problem id="eip-id1166568757583">
+<para id="eip-id1166568757586">Model the expression:</para>
+<para id="eip-id1166568757589"><m:math><m:mrow><m:mn>-2</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math></para></problem>
+<solution id="eip-id1166567972144">
+<para id="eip-id1166567972146"><newline/>
+<media id="eip-id1166567972149" alt="This figure shows two rows of counters. The first row shows 2 dark blue circles, representing negative counters. The second row has 5 light blue circles, representing positive counters. The neutral pairs of one positive and one negative counter are circled leaving three positive counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_017_img.jpg"/>
+</media><newline/><newline/>
+-2 + 5 = 3</para></solution>
+</exercise></note></section><example id="eip-410"><title>Modeling Addition of Positive and Negative Integers</title><para id="eip-878">
+Model each addition.
+</para><exercise id="eip-495"><problem id="eip-351">
+  <para id="eip-387"><list id="eip-id1168468273422" list-type="enumerated" number-style="lower-alpha" class="circled"><item>4 + 2 </item>
+<item>−3 + 6 </item>
+<item>4 + (−5) </item>
+<item>-2 + (−3) </item>
+</list></para></problem>
+
+<solution id="eip-842">
+  <para id="eip-14"><table id="eip-id1168468294641" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>a</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+   <entry><m:math><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>2</m:mn></m:math></entry>
+ </row>
+ <row>
+   <entry>Start with 4 positives.</entry>
+   <entry><media id="eip-id1168468714743" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_035_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Add two positives.</entry>
+   <entry><media id="eip-id1168468574137" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_035_img-02.png"/></media></entry>
+ </row>
+ <row>
+ <entry>How many do you have?</entry>
+ <entry><m:math><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>6</m:mn></m:math></entry>
+</row>
+ 
+</tbody>
+
+</tgroup>
+</table><table id="eip-id1168468679001" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>b</entry>
+   <entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math><m:mo>−</m:mo><m:mn>3</m:mn><m:mo>+</m:mo><m:mn>6</m:mn></m:math></entry>
+ </row>
+ <row>
+   <entry>Start with 3 negatives.</entry>
+   <entry><media id="eip-id1168468414987" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_036_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Add 6 positives.</entry>
+   <entry><media id="eip-id1168467363206" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_036_img-02.png"/></media></entry>
+ </row>
+<row>
+<entry>Remove neutral pairs.</entry>
+<entry><media id="eip-id1168468516794" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_036_img-03.png"/></media></entry>
+</row>
+ <row>
+ <entry>How many are left?</entry>
+<entry><media id="eip-id1168466078308" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_036_img-04.png"/></media></entry>
+</row>
+<row>
+<entry/>
+ <entry><m:math><m:mn>−3</m:mn><m:mo>+</m:mo><m:mn>6</m:mn><m:mo>=</m:mo><m:mn>3</m:mn></m:math></entry>
+</row>
+ 
+</tbody>
+
+</tgroup>
+</table><table id="eip-id1168467662609" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>c</entry>
+<entry/>
+</row>
+<row>   
+<entry/>
+<entry><m:math><m:mn>4</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo></m:math></entry>
+ </row>
+ <row>
+   <entry>Start with 4 positives.</entry>
+   <entry><media id="eip-id1168467475161" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_037_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Add 5 negatives.</entry>
+   <entry><media id="eip-id1168467293990" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_037_img-02.png"/></media></entry>
+ </row>
+<row>
+<entry>Remove neutral pairs.</entry>
+<entry><media id="eip-id1168468412654" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_037_img-03.png"/></media></entry>
+</row>
+ <row>
+ <entry>How many are left?</entry>
+<entry><media id="eip-id1168466093043" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_037_img-04.png"/></media></entry>
+</row>
+<row>
+<entry/>
+ <entry><m:math><m:mn>4</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>−1</m:mn></m:math></entry>
+</row>
+ 
+</tbody>
+
+</tgroup>
+</table><table id="eip-id1168468388113" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry>d</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+   <entry><m:math><m:mn>−2</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo></m:math></entry>
+ </row>
+ <row>
+   <entry>Start with 2 negatives.</entry>
+   <entry><media id="eip-id1168468748343" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_038_img-01.png"/></media></entry>
+ </row>
+ <row> 
+   <entry>Add 3 negatives.</entry>
+   <entry><media id="eip-id1168468706755" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_038_img-02.png"/></media></entry>
+ </row>
+
+ <row>
+ <entry>How many do you have?</entry>
+ <entry><m:math><m:mn>−2</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>−5</m:mn></m:math></entry>
+</row>
+ 
+</tbody>
+</tgroup>
+</table></para></solution>
+</exercise><note id="eip-513" class="try"><label/><title>Try It</title><exercise id="eip-337"><problem id="eip-272">
+  <para id="eip-155">Model each addition.<newline/>
+
+<list id="eip-id1168469481502" list-type="enumerated" number-style="lower-alpha" class="circled"><item>3 + 4 </item>
+<item> −1 + 4 </item>
+<item>4 + (−6) </item>
+<item>−2 + (−2) </item>
+</list></para></problem>
+
+<solution id="eip-789">
+  <para id="eip-950"><list id="eip-id1168469817624" list-type="enumerated" number-style="lower-alpha" class="circled"><item><newline/><media id="eip-id1166566346715" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_039_img.jpg"/>
+</media><para id="eip-325">3 + 4 = 7</para> </item>
+
+<item><newline/><media id="eip-id1166567843361" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_040_img.jpg"/>
+</media>
+<para id="eip-146">-1 + 4 = 3</para><newline/></item>
+
+<item><newline/><media id="eip-id1166567843376" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_041_img.jpg"/>
+</media>
+<para id="eip-487">4 + (-6) = -2</para><newline/></item>
+<item><newline/><media id="eip-id1166567843391" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_042_img.jpg"/>
+</media><para id="eip-198">-2 + (-2) = -4</para></item>
+</list></para></solution>
+</exercise></note><note id="eip-id1166568120776" class="try"><label/><title>Try It</title><exercise id="eip-id1166568120779"><problem id="eip-id1166568120780">
+  <para id="eip-id1166568120782"><list id="eip-id1168469429098" list-type="enumerated" number-style="lower-alpha" class="circled"><item>5 + 1 </item>
+<item>−3 + 7 </item>
+<item>2 + (−8)</item>
+<item>−3 + (−4)</item>
+</list></para></problem>
+
+<solution id="eip-id1166568120787">
+  <para id="eip-id1166568120789"><list id="eip-id1168468609987" list-type="enumerated" number-style="lower-alpha" class="circled"><item><newline/><media id="eip-id1166568120792" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_043_img.jpg"/>
+</media><para id="eip-81">5 + 1 = 6</para><newline/></item>
+
+<item><newline/><media id="eip-id1166568120807" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_044_img.jpg"/>
+</media><para id="eip-307">-3 + 7 = 4</para><newline/></item>
+
+<item><newline/><media id="eip-id1166568669200" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_045_img.jpg"/>
+</media><para id="eip-971">2 + (-8) = -6</para><newline/></item>
+<item><newline/><media id="eip-id1166568669215" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_046_img.jpg"/>
+</media><para id="eip-53">-3 + (-4) = -7</para></item>
+
+</list></para></solution>
+</exercise></note></example><section id="fs-id1166761433959">
+<title>Simplify Expressions with Integers</title>
+<para id="fs-id1166761433964">Now that you have modeled adding small positive and negative integers, you can visualize the model in your mind to simplify <term class="no-emphasis">expressions</term> with any integers. </para><para id="eip-171">For example, if you want to add <m:math><m:mrow><m:mn>37</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−53</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math> you don’t have to count out <m:math><m:mrow><m:mn>37</m:mn></m:mrow></m:math> blue counters and <m:math><m:mrow><m:mn>53</m:mn></m:mrow></m:math> red counters. </para><para id="eip-866">Picture <m:math><m:mrow><m:mn>37</m:mn></m:mrow></m:math> blue counters with <m:math><m:mrow><m:mn>53</m:mn></m:mrow></m:math> red counters lined up underneath. Since there would be more negative counters than positive counters, the sum would be negative. Because <m:math><m:mrow><m:mn>53</m:mn><m:mn>−37</m:mn><m:mo>=</m:mo><m:mn>16</m:mn><m:mo>,</m:mo></m:mrow></m:math> there are <m:math><m:mrow><m:mn>16</m:mn></m:mrow></m:math> more negative counters.</para><equation id="fs-id1166761483126" class="unnumbered"><label/><m:math><m:mrow><m:mn>37</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−53</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−16</m:mn></m:mrow></m:math></equation>
+<para id="fs-id1166761483151">Let’s try another one. We’ll add <m:math><m:mrow><m:mn>−74</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−27</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math> Imagine <m:math><m:mrow><m:mn>74</m:mn></m:mrow></m:math> red counters and <m:math><m:mrow><m:mn>27</m:mn></m:mrow></m:math> more red counters, so we have <m:math><m:mrow><m:mn>101</m:mn></m:mrow></m:math> red counters all together. This means the sum is <m:math><m:mrow><m:mtext>−101.</m:mtext></m:mrow></m:math></para>
+<equation id="fs-id1166761433993" class="unnumbered"><label/><m:math><m:mrow><m:mn>−74</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−27</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>−101</m:mn></m:mrow></m:math></equation>
+<table id="eip-663" summary="."><label/><title>Summary of the Addition of Positive and Negative Integers</title><tgroup cols="3"> <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/><tbody>
+  <row>
+    <entry align="center"><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math></entry>
+    <entry align="center"><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math></entry>
+  </row>
+  <row>
+    <entry align="center">both positive, sum positive</entry>
+    <entry align="center">both negative, sum negative</entry>
+  </row>
+<row>
+<entry align="center" namest="c1" nameend="c2">When the signs are the same, the counters would be all the same color, so add them.</entry>
+</row>
+ <row>
+ <entry align="center"><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math></entry>
+    <entry align="center"><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math></entry>
+  </row>
+<row>
+<entry align="center">different signs, more negatives</entry>
+<entry align="center">different signs, more positives</entry>
+</row>
+<row>
+<entry align="center">Sum negative</entry>
+<entry align="center">sum positive</entry>
+</row>
+<row><entry align="center" namest="c1" nameend="c2">When the signs are different, some counters would make neutral pairs; subtract to see how many are left.</entry>
+</row>
+</tbody>
+</tgroup>
+</table><example id="fs-id1166761426960"><exercise id="eip-idm382511600">
+<problem id="eip-idm942631616">
+<para id="fs-id1166761426968">Simplify: 
+<list id="eip-id1168469837506" list-type="enumerated" number-style="lower-alpha" class="circled"><item><m:math><m:mspace width="0.2em"/><m:mn>19</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−47</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mspace width="1em"/></m:math></item>
+<item><m:math><m:mspace width="0.2em"/><m:mn>−32</m:mn><m:mo>+</m:mo><m:mn>40</m:mn></m:math></item>
+</list></para></problem>
+<solution id="fs-id1166761427012">
+
+<para id="fs-id1166761427014">a. Since the signs are different, we subtract <m:math><m:mrow><m:mn>19</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>47</m:mn><m:mo>.</m:mo></m:mrow></m:math> The answer will be negative because there are more negatives than positives.</para><equation id="fs-id1166761427018" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mn>19</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−47</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>−28</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+<para id="fs-id1166761458613">b. The signs are different so we subtract <m:math><m:mrow><m:mn>32</m:mn></m:mrow></m:math> from <m:math><m:mrow><m:mn>40</m:mn><m:mo>.</m:mo></m:mrow></m:math> The answer will be positive because there are more positives than negatives.</para><equation id="fs-id1166761458617" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mn>−32</m:mn><m:mo>+</m:mo><m:mn>40</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>8</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+</solution>
+</exercise>
+</example><note id="fs-id1166761458640" class="try"><label/><title>Try It</title><exercise id="fs-id1166761458645"><problem id="fs-id1166761458647">
+<para id="fs-id11667614586490">Simplify each expression:</para>
+<list id="eip-id1168468668742" list-type="enumerated" number-style="lower-alpha" class="circled"><item><m:math><m:mspace width="0.2em"/><m:mn>15</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−32</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="1em"/></m:math></item>
+
+<item><m:math><m:mspace width="0.2em"/><m:mn>−19</m:mn><m:mo>+</m:mo><m:mn>76</m:mn></m:math></item>
+
+</list></problem>
+<solution id="fs-id1166761458697">
+<list id="eip-id1168469725051" list-type="enumerated" number-style="lower-alpha" class="circled"><item>−17 </item>
+<item>57 </item>
+</list></solution>
+</exercise></note><note id="fs-id1171105462410" class="try"><label/><title>Try It</title><exercise id="fs-id1166761458704">
+<problem id="fs-id1166761458706">
+<para id="fs-id1166761458649">Simplify each expression:</para>
+<para id="fs-id1166761458708"><list id="eip-id1168467334033" list-type="enumerated" number-style="lower-alpha" class="circled"><item><m:math><m:mspace width="0.2em"/><m:mn>−55</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mspace width="1em"/></m:math></item>
+
+<item><m:math><m:mspace width="0.2em"/><m:mn>43</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−17</m:mn><m:mo stretchy="false">)</m:mo></m:math></item>
+
+</list></para></problem>
+<solution id="fs-id1166761472163">
+<para id="fs-id1166761472165"><list id="eip-id1168468535430" list-type="enumerated" number-style="lower-alpha" class="circled"><item>−46 </item>
+<item>26 </item>
+</list></para></solution>
+</exercise>
+</note><example id="fs-id1166761472172">
+<exercise id="fs-id1166761472174">
+<problem id="fs-id1166761472176">
+<para id="fs-id1166761472178">Simplify: <m:math><m:mrow><m:mn>−14</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−36</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761472204">
+
+<para id="fs-id1166761472206">Since the signs are the same, we add. The answer will be negative because there are only negatives.</para>
+<equation id="fs-id1166761472210" class="unnumbered"><label/><m:math><m:mrow><m:mtable><m:mtr><m:mtd><m:mn>−14</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−36</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>−50</m:mn></m:mtd></m:mtr></m:mtable></m:mrow></m:math></equation>
+</solution>
+</exercise>
+</example>
+<note id="fs-id1166761472244" class="try"><label/><title>Try It</title><exercise id="fs-id1166761472248">
+<problem id="fs-id1166761472250">
+<para id="fs-id11667614722520">Simplify the expression:</para>
+<para id="fs-id1166761472256"><m:math><m:mrow><m:mn>−31</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−19</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761435856">
+<para id="fs-id1166761435859">−50</para>
+</solution>
+</exercise>
+</note><note id="fs-id1171105069974" class="try"><label/><title>Try It</title><exercise id="fs-id1166761435864">
+<problem id="fs-id1166761435866">
+<para id="fs-id1166761472252">Simplify the expression:</para>
+<para id="fs-id1166761435868"><m:math><m:mrow><m:mn>−42</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−28</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761435892">
+<para id="fs-id1166761435895">−70</para>
+</solution>
+</exercise>
+</note><para id="eip-427">The techniques we have used up to now extend to more complicated expressions. Remember to follow the order of operations.</para><example id="fs-id1166761435901">
+<exercise id="fs-id1166761435903"><problem id="fs-id1166761435905">
+<para id="fs-id1166761435907">Simplify: <m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−2</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761435941">
+
+<table id="eip-id1168466125594" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry/>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>(</m:mo><m:mn>−2</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mo>)</m:mo></m:math></entry>
+ </row>
+ <row>
+   <entry>Simplify inside the parentheses.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo>(</m:mo><m:mn>5</m:mn><m:mo>)</m:mo></m:math></entry>
+ </row>
+ <row> 
+   <entry>Multiply.</entry>
+   <entry><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>15</m:mn></m:math></entry>
+ </row>
+<row>
+ <entry>Add.</entry>
+ <entry><m:math><m:mn>10</m:mn></m:math></entry>
+</row>
+ 
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166761436067" class="try"><label/><title>Try It</title><exercise id="fs-id1166761436071">
+<problem id="fs-id1166761436073">
+<para id="fs-id11667614360760">Simplify the expression:</para>
+<para id="fs-id1166761436079"><m:math><m:mrow><m:mn>−2</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−4</m:mn><m:mo>+</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761429513">
+<para id="fs-id1166761429515">13</para>
+</solution>
+</exercise>
+</note><note id="fs-id1171105501702" class="try"><label/><title>Try It</title><exercise id="fs-id1166761429520">
+<problem id="fs-id1166761429522">
+<para id="fs-id1166761436076">Simplify the expression:</para>
+<para id="fs-id1166761429524"><m:math><m:mrow><m:mn>−4</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo>+</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761429555">
+<para id="fs-id1166761429557">0</para>
+</solution>
+</exercise>
+</note></section>
+<section id="fs-id1166761493264" class="key-concepts">
+<title>Summary</title><list id="fs-id1166761493271" list-type="bulleted" bullet-style="bullet"><item><emphasis effect="bold">Addition of Positive and Negative Integers</emphasis>
+<table id="eip-id1168466149317" summary="." class="unnumbered"><label/><tgroup cols="2"><colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/><tbody>
+  <row>
+    <entry align="center"><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math></entry>
+    <entry align="center"><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math></entry>
+  </row>
+  <row>
+    <entry align="center">both positive, sum positive</entry>
+    <entry align="center">both negative, sum negative</entry>
+  </row>
+<row>
+<entry align="center" namest="c1" nameend="c2">When the signs are the same, the counters would be all the same color, so add them.</entry>
+</row>
+ <row>
+ <entry align="center"><m:math><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>3</m:mn></m:math></entry>
+    <entry align="center"><m:math><m:mn>5</m:mn><m:mo>+</m:mo><m:mo>(</m:mo><m:mn>−3</m:mn><m:mo>)</m:mo></m:math></entry>
+  </row>
+<row>
+<entry align="center">different signs, more negatives</entry>
+<entry align="center">different signs, more positives</entry>
+</row>
+<row>
+<entry align="center">Sum negative</entry><entry align="center">sum positive</entry>
+</row>
+<row><entry align="center" namest="c1" nameend="c2">When the signs are different, some counters would make neutral pairs; subtract to see how many are left.</entry>
+</row>
+</tbody>
+</tgroup>
+</table></item>
+</list></section>
+
+<section id="fs-id1584663" class="section-exercises"><title>Homework</title><para id="fs-id1542968"><emphasis effect="bold">Model Addition of Integers</emphasis> </para><para id="eip-536">In the following exercises, model the expression to simplify.</para><exercise id="fs-id1166761493321">
+<problem id="fs-id1166761493324">
+<para id="fs-id1166761493326"><m:math><m:mrow><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761493337">
+<para id="fs-id1171103414219"><newline/>
+<media id="fs-id1166761493340" alt="This figure shows a row of 11 light pink circles, representing positive counters. They are separated into a group of  seven and a group of four.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_201_img.jpg"/>
+</media><newline/><newline/>
+7 + 4 = 11</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166761493357">
+<problem id="fs-id1166761493359">
+<para id="fs-id1166761493361"><m:math><m:mrow><m:mn>8</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166761493374">
+<problem id="fs-id1166761493376">
+<para id="fs-id1166761493378"><m:math><m:mrow><m:mn>−6</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761493402">
+<para id="fs-id1171105198092"><newline/>
+<media id="fs-id1166761493404" alt="This figure shows a row of 9 dark pink circles, representing negative counters. They are separated into a group of six and a group of three.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_203_img.jpg"/>
+</media><newline/><newline/>
+-6 + (-3) = −9</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166761493421">
+<problem id="fs-id1166761493424">
+<para id="fs-id1166761493426"><m:math><m:mrow><m:mn>−5</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166761493451">
+<problem id="fs-id1166761493453">
+<para id="fs-id1166761493455"><m:math><m:mrow><m:mn>−7</m:mn><m:mo>+</m:mo><m:mn>5</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761493469">
+<para id="fs-id1171105519846"><newline/>
+<media id="fs-id1166761493471" alt="This figure shows two rows of  circles. The top row shows 7 dark pink circles, representing negative counters. The bottom row shows 5 light pink circles, representing positive counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_205_img.jpg"/>
+</media><newline/><newline/>
+-7 + 5 = −2</para>
+</solution>
+</exercise>
+<exercise id="fs-id1987723">
+<problem id="fs-id1302504">
+<para id="fs-id1827109"><m:math><m:mrow><m:mn>−9</m:mn><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1365970">
+<problem id="fs-id1787690">
+<para id="fs-id2472190"><m:math><m:mrow><m:mn>8</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2486708">
+<para id="fs-id1171105216252"><newline/>
+<media id="fs-id1388604" alt="This figure shows two rows of circles. The top row shows 8 light pink circles, representing positive counters. The bottom row shows 7 light pink circles, representing negative counters.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_02_207_img.jpg"/>
+</media><newline/><newline/>
+8 + (-7) = 1</para>
+</solution>
+</exercise>
+<exercise id="fs-id1881284">
+<problem id="fs-id1807389">
+<para id="fs-id1736988"><m:math><m:mrow><m:mn>9</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id2662090"><emphasis effect="bold">Simplify Expressions with Integers</emphasis> </para><para id="eip-935">In the following exercises, simplify each expression.</para><exercise id="fs-id1529630">
+<problem id="fs-id793608">
+<para id="fs-id2262983"><m:math><m:mrow><m:mn>−21</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−59</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1618335">
+<para id="fs-id1152060">−80</para>
+</solution>
+</exercise>
+<exercise id="fs-id1597784">
+<problem id="fs-id1828546">
+<para id="fs-id1607338"><m:math><m:mrow><m:mn>−35</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−47</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1576620">
+<problem id="fs-id1739715">
+<para id="fs-id2306548"><m:math><m:mrow><m:mn>48</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−16</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1065018">
+<para id="fs-id2218025">32</para>
+</solution>
+</exercise>
+<exercise id="fs-id1300480">
+<problem id="fs-id1710890">
+<para id="fs-id2138971"><m:math><m:mrow><m:mn>34</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−19</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1782202">
+<problem id="fs-id934228">
+<para id="fs-id2202957"><m:math><m:mrow><m:mn>−200</m:mn><m:mo>+</m:mo><m:mn>65</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2295287">
+<para id="fs-id930445">−135</para>
+</solution>
+</exercise>
+<exercise id="fs-id1263750">
+<problem id="fs-id1794960">
+<para id="fs-id2269371"><m:math><m:mrow><m:mn>−150</m:mn><m:mo>+</m:mo><m:mn>45</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id2198562">
+<problem id="fs-id1949584">
+<para id="fs-id2278787"><m:math><m:mrow><m:mn>2</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−8</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2134403">
+<para id="fs-id1570385">0</para>
+</solution>
+</exercise>
+<exercise id="fs-id1221765">
+<problem id="fs-id892486">
+<para id="fs-id824185"><m:math><m:mrow><m:mn>4</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−9</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>7</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1962434">
+<problem id="fs-id1632048">
+<para id="fs-id2263458"><m:math><m:mrow><m:mn>−14</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−12</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1842453">
+<para id="fs-id1966722">−22</para>
+</solution>
+</exercise>
+<exercise id="fs-id1711105">
+<problem id="fs-id1578325">
+<para id="fs-id1276100"><m:math><m:mrow><m:mn>−17</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−18</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>6</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1694282">
+<problem id="fs-id2142498">
+<para id="fs-id1278869"><m:math><m:mrow><m:mn>135</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−110</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>83</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id892246">
+<para id="fs-id1242605">108</para>
+</solution>
+</exercise>
+<exercise id="fs-id1222451">
+<problem id="fs-id1467522">
+<para id="fs-id1944734"><m:math><m:mrow><m:mn>140</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−75</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>67</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1410306">
+<problem id="fs-id1410527">
+<para id="fs-id1406170"><m:math><m:mrow><m:mn>−32</m:mn><m:mo>+</m:mo><m:mn>24</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−6</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>10</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2277710">
+<para id="fs-id2481729">−4</para>
+</solution>
+</exercise>
+<exercise id="fs-id2206351">
+<problem id="fs-id835990">
+<para id="fs-id2268951"><m:math><m:mrow><m:mn>−38</m:mn><m:mo>+</m:mo><m:mn>27</m:mn><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mn>−8</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mn>12</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1143998">
+<problem id="fs-id1574192">
+<para id="fs-id1340188"><m:math><m:mrow><m:mn>19</m:mn><m:mo>+</m:mo><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−3</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1313426">
+<para id="fs-id2304007">29</para>
+</solution>
+</exercise>
+<exercise id="fs-id1233050">
+<problem id="fs-id1314119">
+<para id="fs-id1285359"><m:math><m:mrow><m:mn>24</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−5</m:mn><m:mo>+</m:mo><m:mn>9</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para>
+</problem>
+</exercise>
+
+</section></content>
+</document>

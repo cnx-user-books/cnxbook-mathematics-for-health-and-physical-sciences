@@ -1,0 +1,207 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Meanings of Operations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62587</md:content-id>
+  <md:title>Meanings of Operations</md:title>
+  <md:abstract/>
+  <md:uuid>00cb5b97-ac64-4012-be33-46d5f5a8c931</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-80"><title>Learning Objectives</title><para id="eip-430">
+By the end of this lesson, you will be able to:
+</para>
+<list id="eip-id1168701643635"><item>Understand the meanings of the operations of addition, subtraction, multiplication, and division.</item>
+<item>Use the meanings of operations and key words/phrases to write mathematical calculations and solve problems.</item>
+</list></section><para id="delete_me">The following table summarizes the four main mathematical operations, their meanings and key words:<newline/><newline/>
+<media id="eip-id8810542" alt="Meanings of operations"><image src="../../media/Meanings of Operations.png" mime-type="image/png" width="580"/></media><newline/><newline/></para><para id="eip-21">For each of the following examples, we will use the meanings and key words/phrases of the different operations to write a mathematical calculation and then use it to answer the question.</para><example id="eip-952"><exercise id="eip-id1166733900306"><problem id="eip-id1166733602086"><para id="eip-id1166733602087">What is the total weight of two boxes if one box weighs 3.45 lb. and the other box weighs 7.86 lb.?</para></problem>
+
+<solution id="eip-id1166733584055"><para id="eip-id1166735662965">In this problem, we need to <emphasis>combine</emphasis> weights, so the operation is <emphasis>addition</emphasis>. Also, notice the key word "total". <newline/><newline/>Therefore, the calculation is: 3.45 + 7.86 <newline/><newline/>
+The result is  11.31, so the total weight is 11.31 lb. (Always include a label of units on your answers.)</para></solution>
+
+</exercise>
+</example><note id="eip-751" class="try"><label/><title>Try It</title>
+<exercise id="eip-id1165862160346"><problem id="eip-id1165885644296"><para id="eip-id1165862460004">A drug is mixed with <m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac>
+</m:math>oz. of drug A and <m:math>
+   <m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>2</m:mn>
+   </m:mfrac>
+</m:math>oz. of drug B. What is the total weight?</para></problem>
+<solution id="eip-id1165871572216"><para id="eip-id1165878728842">The calculation is: <m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac>
+</m:math><newline/><newline/> The answer is:
+<m:math>
+   <m:mn>1</m:mn><m:mstyle scriptlevel="+1">
+    <m:mfrac>
+     <m:mn>1</m:mn>
+     <m:mn>4</m:mn>
+    </m:mfrac>
+   </m:mstyle>
+</m:math>oz.</para></solution></exercise><newline/><newline/>
+</note><example id="eip-134"><exercise id="eip-id2716620"><problem id="eip-id3365238"><para id="eip-id3268344">A bottle contains <m:math><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:math>gram of a drug and <m:math><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math>gram was given out yesterday. How many grams remain in the bottle?</para></problem>
+<solution id="eip-id3098058"><para id="eip-id3233589">The meaning is <emphasis>to reduce</emphasis> so the operation is <emphasis>subtraction</emphasis> and the calculation is: <m:math><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>-</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math><newline/><newline/>
+The answer is <m:math><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:math>gram.</para></solution></exercise></example><note id="eip-166" class="try"><label/><title>Try It</title><exercise id="eip-id1170223904668"><problem id="eip-id1170226823818"><para id="eip-id1170225516340">An infant weighed 8 lb 14 oz at birth and later the weight was measured at 8 lb 11 oz. How much weight did the infant lose?</para></problem>
+<solution id="eip-id1170229314478"><para id="eip-id1170226982637">The calculation is: 8 lb. 14 oz. – 8 lb. 11 oz. <newline/><newline/>The answer is: 3 oz.</para></solution></exercise><newline/><newline/></note><example id="eip-803"><exercise id="eip-id1170228499958"><problem id="eip-id1170231687555"><para id="eip-id1170223972387">There are 75 tablets in a bottle and each tab is 0.25 grams. How many grams of medication are in the bottle?</para></problem>
+<solution id="eip-id1170247488306"><para id="eip-id1170250889199">For this one, you can think of it as <emphasis>repeated addition</emphasis> of adding 0.25 grams 75 times. Of course, this is the same as <emphasis>multiplication</emphasis>.<newline/><newline/> The calculation is: (0.25)(75).<newline/><newline/>
+The answer is 18.75 grams.</para></solution></exercise></example><note id="eip-25" class="try"><label/><title>Try It</title><exercise id="eip-id1169035674610"><problem id="eip-id1169035674611"><para id="eip-id1169035664557">There are 25 people in a clinical trial and they each receive 14 tablets a week. How many tablets are dispensed in a week?</para></problem>
+<solution id="eip-id1169035664562"><para id="eip-id1169035664563">This is a scaling up due to repeated addition, so the calculation is  25(14).<newline/><newline/>
+The answer is 350 tablets.</para></solution></exercise>  <newline/><newline/></note><example id="eip-792"><exercise id="eip-id1166109521292"><problem id="eip-id1166109320676"><para id="eip-id1166109517167">A vial contains 1600 milligrams and a dose is 20 milligrams per day. How many days' supply are in the vial?</para></problem>
+<solution id="eip-id1166111448769"><para id="eip-id1166109669850">This is asking <emphasis>how many sections</emphasis>, of 20 mg each, are in the vial. Each section is a day’s supply. So the operation is <emphasis>division</emphasis>.<newline/><newline/> The calculation is 1600/20.<newline/><newline/>The answer is 80 days.</para></solution></exercise></example><note id="eip-765" class="try"><label/><title>Try It</title><exercise id="eip-id1171764079071"><problem id="eip-id1171764083610"><para id="eip-id1171772200845">A tablet contains <m:math><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:math>gram of drug.  The dose for this drug is <m:math><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:math>gram.  How many doses are in the tablet?</para></problem>
+<solution id="eip-id1171779943911"><para id="eip-id1171790020428">The calculation is <m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac>
+   <m:mo>÷</m:mo><m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac></m:math>
+<newline/><newline/> The answer is 2 grams.</para></solution></exercise><newline/><newline/></note><section id="eip-401" class="section-exercises"><title>Homework</title><para id="eip-670">For the following exercises, determine the operation and write the calculation needed to solve the problem. Then, give the answer, including units.
+</para><exercise id="eip-524"><problem id="eip-473">
+  <para id="eip-553">
+How many mg of drug are needed to make 12 tablets if each tablet is to have <m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac>
+</m:math>
+ mg of drug?
+  </para>
+</problem>
+
+<solution id="eip-203">
+  <para id="eip-715">The calculation is <m:math>
+   <m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>4</m:mn>
+   </m:mfrac>
+</m:math> × 12. The answer is 9 mg. 
+  </para></solution>
+</exercise><exercise id="eip-448"><problem id="eip-154">
+  <para id="eip-675">
+ A tablet contains 0.75 gram of drug.  A single dose for this drug is 0.25 gram.  How many doses are in the tablet?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-160"><problem id="eip-612">
+  <para id="eip-140">
+A container holds <m:math>
+   <m:mfrac>
+    <m:mn>7</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac>
+</m:math>
+ gallon of a solvent. If <m:math>
+   <m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>2</m:mn>
+   </m:mfrac>
+</m:math> gallon is used, how much is left in the container?
+  </para>
+</problem>
+
+<solution id="eip-432">
+  <para id="eip-722">The calculation is <m:math><m:mfrac>
+    <m:mn>7</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac>
+<m:mo>-</m:mo><m:mfrac>
+    <m:mn>1</m:mn>
+    <m:mn>2</m:mn>
+   </m:mfrac>
+</m:math>. The answer is <m:math><m:mfrac>
+    <m:mn>3</m:mn>
+    <m:mn>8</m:mn>
+   </m:mfrac>
+</m:math> gallon.
+  </para>
+</solution>
+</exercise><exercise id="eip-563"><problem id="eip-421">
+  <para id="eip-530">
+    A patient was given a part of a tablet.  A whole tablet contains 6 mg of drug. If the patient was given <m:math><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math> of the tablet, how many mg did the patient receive?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-630"><problem id="eip-221">
+  <para id="eip-436">
+    A lab technician is weighing a denture in ounces and measures it as less than one full ounce. The technician records the weight as <m:math><m:mfrac><m:mn>15</m:mn><m:mn>16</m:mn></m:mfrac></m:math> of an ounce. This denture weighs too much and <m:math><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:math> of the weight needs to be trimmed off. How much weight is to be removed?
+  </para>
+</problem>
+
+<solution id="eip-601">
+  <para id="eip-786">The calculation is: <m:math><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:math> × <m:math><m:mfrac><m:mn>15</m:mn><m:mn>16</m:mn></m:mfrac></m:math>. The answer is <m:math><m:mfrac><m:mn>3</m:mn><m:mn>16</m:mn></m:mfrac></m:math> oz.
+  </para></solution>
+</exercise><exercise id="eip-18"><problem id="eip-589">
+  <para id="eip-68">
+    How many tablets can be made from 20 mg of drug if each tablet weighs 1.5 mg?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-439"><problem id="eip-252">
+  <para id="eip-240">
+   A drug is administered in a 2.5 mL vial. How many vials are needed to administer 60 mL of the drug?
+  </para>
+</problem>
+
+<solution id="eip-639">
+  <para id="eip-592">
+ The calculation is 60/2.5. The answer is 24 vials.
+  </para>
+</solution>
+</exercise><exercise id="eip-366"><problem id="eip-549">
+  <para id="eip-769">
+    Six capsules of drug are to be administered every day. How many days' supply would 48 capsules be?
+  </para>
+</problem>
+
+</exercise><exercise id="eip-2"><problem id="eip-471">
+  <para id="eip-579">
+   A patient is prescribed 2 drugs. One drug weighs 250 mg for a dose and the other drug weighs 125 mg for a dose. How many mg total is the patient prescribed?
+  </para>
+</problem>
+
+<solution id="eip-777">
+  <para id="eip-138">
+   The calculation is 250 + 125. The answer is 375 mg.
+  </para>
+</solution>
+</exercise><exercise id="eip-114"><problem id="eip-402">
+  <para id="eip-945">
+What is the total volume of a medication if <m:math><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:math> oz of drug A is mixed with <m:math>
+   <m:mn>1</m:mn><m:mstyle scriptlevel="+1">
+    <m:mfrac>
+     <m:mn>2</m:mn>
+     <m:mn>3</m:mn>
+    </m:mfrac>
+   </m:mstyle>
+</m:math> oz of drug B? 
+  </para>
+</problem>
+
+</exercise><exercise id="eip-662"><problem id="eip-453">
+  <para id="eip-44">A lab technician has to perform a test on a third of a sample. The sample weighs <m:math><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:math> of an ounce. How many ounces will she be testing?
+  </para></problem>
+
+<solution id="eip-456">
+  <para id="eip-655">
+    The calculation is <m:math><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math> × <m:math><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:math>. The answer is <m:math><m:mfrac><m:mn>7</m:mn><m:mn>24</m:mn></m:mfrac></m:math> oz.
+  </para>
+</solution>
+</exercise><exercise id="eip-996"><problem id="eip-476">
+  <para id="eip-870">
+    Each tablet contains 120 milligrams of a drug. If a pharmacist has a total of 3000 milligrams of the drug, how many tablets can be made?
+  </para>
+</problem>
+
+</exercise></section></content>
+
+</document>

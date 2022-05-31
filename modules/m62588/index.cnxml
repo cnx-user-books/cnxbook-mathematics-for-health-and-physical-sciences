@@ -1,0 +1,547 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Evaluating Formulas</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62588</md:content-id>
+  <md:title>Evaluating Formulas</md:title>
+  <md:abstract/>
+  <md:uuid>78d19374-71c4-4877-9dc3-6deb0ca72e7c</md:uuid>
+</metadata>
+
+<content>
+
+<section id="fs-id1165123405675" class="learning-objectives">
+  <title>Learning Objectives</title>
+  <para id="fs-id1165123415042">By the end of this section, you will be able to:</para>
+  <list id="fs-id1165123408931"><item>Review the order of operations.</item>
+<item>Evaluate formulas.</item>
+<item>Solve application problems, by evaluating given formulas.</item>
+</list></section>
+
+    <section id="eip-153"><title>The Order of Operations</title><para id="eip-139">
+Recall that <emphasis>PEMDAS</emphasis> is an acronym for the correct order of operations. <list id="eip-id1168189082899"><item>First do any operation within parentheses (P). This also includes above or below a fraction bar, under a radical sign, and inside absolute value signs.</item>
+<item>Next, perform all exponents (E).</item>
+<item>Then, perform any multiplication or division <emphasis>as they appear from left to right</emphasis> (MD).</item>
+<item>Lastly, perform any subtraction or addition <emphasis>as they appear from left to right</emphasis> (AS).</item></list></para><note id="eip-786" type="warning">Note that just because M comes before D, in PEMDAS, does NOT mean that you perform all multiplications before doing any division. You must perform whichever appears first as you move from left to right. The same thing is true for addition and subtraction. If necessary, review this concept in <link document="m64798">The Order of Operations</link>.</note><example id="eip-485"><exercise id="eip-id1171769013768"><problem id="eip-id1171764063520"><para id="eip-445">
+Evaluate by following the correct order of operations: <m:math>   <m:mn>6</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo>+</m:mo><m:mn>3</m:mn><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:msup>
+    <m:mn>2</m:mn>
+    <m:mn>3</m:mn>
+   </m:msup>
+
+</m:math>
+</para></problem>
+<solution id="eip-id1171767568445"><para id="eip-id1171774190687"><list id="eip-id1171772493220">
+<item>First perform the addition inside the parentheses, which will give you <m:math>
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:msup>
+    <m:mn>2</m:mn>
+    <m:mn>3</m:mn>
+   </m:msup>
+</m:math>.</item>
+<item>Next, perform the exponent to get <m:math>
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn>
+</m:math>.</item>
+<item>Then, divide 12 by 3, since it is the first multiplication or division we see as we read from left to right. This will give you <m:math> 
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>4</m:mn><m:mo>⋅</m:mo><m:mn>2</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn>
+</m:math>.</item>
+<item>The multiplication of 4 and 2 should be performed next to give you <m:math>
+<m:mn>6</m:mn><m:mo>+</m:mo><m:mn>8</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn> 
+</m:math>.</item>
+<item>We now need to perform all additions and subtractions from left to right, which means the 6 and 8 should be added next, which gives us <m:math>
+<m:mn>14</m:mn><m:mo>−</m:mo><m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn> 
+</m:math>.</item>
+<item>Subtracting 7 from 14 would come next, giving us <m:math>
+   <m:mn>7</m:mn><m:mo>+</m:mo><m:mn>8</m:mn>
+</m:math>, which equals 15. So our final answer is 15.</item></list></para></solution></exercise>
+
+
+
+
+
+
+</example></section><section id="eip-14"><title>Evaluating a Formula</title><para id="eip-822">
+To evaluate a formula, replace all variables (letters) with their given values and then simplify, using the correct order of operations.
+</para><example id="eip-655"><exercise id="eip-id1166113456146"><problem id="eip-id1166111448018"><para id="eip-248">
+  Evaluate the formula <m:math>
+   <m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mi>A</m:mi>
+    <m:mrow>
+     <m:mi>b</m:mi><m:mi>c</m:mi>  </m:mrow>
+   </m:mfrac>
+</m:math> given that <m:math><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>20</m:mn></m:math>, <m:math><m:mi>b</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>, and <m:math><m:mi>c</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:math>.
+
+</para></problem>
+<solution id="eip-id1166110760387"><para id="eip-id1166109205013">First, we replace all the variables with their given values, which will give us <m:math>
+   <m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>20</m:mn>
+    <m:mrow><m:mo>(</m:mo>
+     <m:mn>2</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mn>5</m:mn><m:mo>)</m:mo>  </m:mrow>
+   </m:mfrac>
+</m:math>.<newline/><newline/>Next, we perform the multiplication in the denominator to get <m:math>
+   <m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>20</m:mn>
+ <m:mn>10</m:mn>
+   </m:mfrac>
+</m:math>.<newline/><newline/>
+Now, we perform the division to get our final answer, which is <m:math><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>.<newline/></para></solution></exercise>
+
+
+</example><example id="eip-113"><exercise id="eip-idm1153288848"> <problem id="eip-idm1198894944"><para id="eip-848">Evaluate the formula for the volume of a box: <m:math><m:mi>V</m:mi><m:mo>=</m:mo><m:mi>LWH</m:mi></m:math>,  given that <m:math><m:mi>L</m:mi><m:mo>=</m:mo><m:mn>14.7</m:mn><m:mtext>,  </m:mtext><m:mi>W</m:mi><m:mo>=</m:mo><m:mn>5.2</m:mn><m:mtext>, and  </m:mtext><m:mi>H</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:math>.</para></problem>
+
+<solution id="eip-idm685244528"><para id="eip-idm399085552">First, we replace all the variables with their given values, which will give us <newline/><newline/><m:math display="block">
+   <m:mi>V</m:mi><m:mo>=</m:mo><m:mo>(</m:mo>
+    <m:mn>14.7</m:mn><m:mo>)</m:mo>
+    <m:mo>(</m:mo>
+     <m:mn>5.2</m:mn><m:mo>)</m:mo><m:mo>(</m:mo><m:mn>2</m:mn><m:mo>)</m:mo> 
+</m:math><newline/>Next, we perform the multiplication to get <m:math>
+   <m:mi>V</m:mi><m:mo>=</m:mo>
+ <m:mn>152.88</m:mn>
+  
+</m:math>.
+</para></solution>
+
+</exercise><note id="eip-415">We'll learn what to do when there are units involved in a later section.</note>
+</example></section><section id="fs-id2954375"><title>Applications with Formulas</title><section id="eip-396"><title>Slope Formula</title><para id="eip-303">Some formulas may use subscripts (a small number or letter written slightly below and to the right of the variable). This formula is using words with subscripts. It could also use variables instead, as shown.  To find the slope of a line, we use the formula <m:math display="block">
+   <m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mtext>output</m:mtext></m:mrow>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mrow>
+       <m:mtext>output</m:mtext></m:mrow>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mrow>
+       <m:mtext>input</m:mtext></m:mrow>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mrow>
+       <m:mtext>input</m:mtext></m:mrow>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+   <m:mtext>     or     </m:mtext><m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+</m:math>
+</para><example id="eip-756"><exercise id="eip-id1165856374576"><problem id="eip-id1165854019739"><para id="eip-700">Use the slope formula to solve for <m:math><m:mi>m</m:mi></m:math> and simplify to a unit rate. Include labels in the rate.          
+ Let <m:math><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub></m:math> = 2.1 mL, <m:math><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub></m:math> = 1.6 mL, <m:math><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub></m:math> = 0.2 g, and <m:math><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:math> = 0.1 g.
+
+</para></problem>
+<solution id="eip-id1170573796906"><para id="eip-id5800213">First we substitute the values in for all the variables that are given. Then, we simplify by following the order of operations, which will give us <newline/><newline/><m:math>
+   <m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>2.1</m:mn><m:mo>−</m:mo><m:mn>1.6</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>0.2</m:mn><m:mo>−</m:mo><m:mn>0.1</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:mn>0.5</m:mn></m:mrow>
+    <m:mrow>
+     <m:mn>0.1</m:mn></m:mrow>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>1</m:mn>
+   </m:mfrac>
+   <m:mo>=</m:mo><m:mn>5</m:mn><m:mtext> mL/g</m:mtext>  
+</m:math>.<newline/><newline/> Notice how we label the answer with the appropriate units. This is a very important step.<newline/></para></solution>
+</exercise></example><note id="eip-702" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1222558448"><problem id="eip-idm312262656"><para id="eip-idm1099549248">
+Use the slope formula to solve for <m:math><m:mi>m</m:mi></m:math> and simplify to a unit rate. Include labels in the rate.          
+ Let <m:math><m:msub><m:mi>y</m:mi><m:mn>2</m:mn></m:msub></m:math> = 25 cents, <m:math><m:msub><m:mi>y</m:mi><m:mn>1</m:mn></m:msub></m:math> = 10 cents, <m:math><m:msub><m:mi>x</m:mi><m:mn>2</m:mn></m:msub></m:math> = 2 oz., and <m:math><m:msub><m:mi>x</m:mi><m:mn>1</m:mn></m:msub></m:math> = 1.5 oz.</para></problem>
+
+<solution id="eip-idm984359328"><para id="eip-idm1850628512"><m:math><m:mi>m</m:mi><m:mo>=</m:mo><m:mtext>30 cents/oz.</m:mtext></m:math></para></solution>
+</exercise>
+</note></section><section id="eip-84"><title>Exercise Movement Example</title><para id="eip-507">There are many formulas for Metabolic Calculations. They use very specific numbers and units.
+</para><para id="eip-529">Here is a formula for the Metabolism for walking:        <m:math><m:mi>V0</m:mi><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>0.1</m:mn><m:mi>S</m:mi><m:mo>+</m:mo><m:mn>1.8</m:mn><m:mi>S</m:mi><m:mi>G</m:mi><m:mo>+</m:mo><m:mn>3.5</m:mn></m:math>, where VO2 represents the maximum amount of oxygen the body can use during a specified period of exercise and is measured in mL/(kg*min).
+<newline/>
+<list id="eip-id4787508">
+<item>It is made up of 3 terms to add. Notice the constants of 0.1, 1.8, and 3.5.</item>
+<item><m:math><m:mi>S</m:mi></m:math> is the speed in meters/min (we will do more with this in conversion lessons)</item>
+<item><m:math><m:mi>G</m:mi></m:math> is the grade of incline given as a percent and calculated as a decimal. So 3% would be 0.03.</item>
+<item>The constant 3.5 is for 1 MET (measured in mL/(kg*min)), which is a measure of the rate at which the body uses energy, called “metabolic equivalent”.</item></list></para><example id="eip-603"><exercise id="eip-id1168085680158"><problem id="eip-id1168085680159"><para id="eip-548">
+Find the VO2 for walking a speed of 94.1 meters per minute (which is equivalent to 3.5 mph) up a 5% grade.</para></problem>
+
+<solution id="eip-id4041946"><para id="eip-id4042063">Plug in the values for <m:math><m:mi>S</m:mi></m:math> and <m:math><m:mi>G</m:mi></m:math> and simplify:<newline/><newline/>
+<m:math display="block">
+<m:mtext>VO2</m:mtext><m:mo>=</m:mo><m:mn>0.1</m:mn><m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mn>94.1</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>1.8</m:mn><m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mn>94.1</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mn>0.05</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>3.5</m:mn><m:mo>≈</m:mo><m:mn>21.3</m:mn><m:mtext> mL/(kg</m:mtext><m:mo>∗</m:mo><m:mtext>min)</m:mtext> 
+</m:math>
+</para></solution></exercise></example><note id="eip-944" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1055428000"><problem id="eip-idm1560409376"><para id="eip-idm1203591152">Find the VO2 for walking a speed of 50 meters per minute up a 7.5% grade.</para></problem>
+
+<solution id="eip-idm1248559856"><para id="eip-idm1159708160"><m:math><m:mtext>VO2</m:mtext><m:mo>=</m:mo><m:mtext>15.25 mL/(kg*min)</m:mtext></m:math></para></solution>
+</exercise></note><para id="eip-359">Here is a formula for the Metabolism for running:        <m:math><m:mi>V0</m:mi><m:mn>2</m:mn><m:mo>=</m:mo><m:mn>0.2</m:mn><m:mi>S</m:mi><m:mo>+</m:mo><m:mn>0.9</m:mn><m:mi>S</m:mi><m:mi>G</m:mi><m:mo>+</m:mo><m:mn>3.5</m:mn></m:math>, where VO2 represents the maximum amount of oxygen the body can use during a specified period of exercise and is measured in mL/(kg*min).
+<newline/>
+<list id="eip-id1169787175159">
+<item>Notice the constants of 0.2, 0.9, and 3.5.</item>
+<item><m:math><m:mi>S</m:mi></m:math> is the speed in meters/min (we will do more with this in conversion lessons)</item>
+<item><m:math><m:mi>G</m:mi></m:math> is the grade of incline given as a percent and calculated as a decimal. So 3% would be 0.03.</item>
+<item>The constant 3.5 is for 1 MET (measured in mL/(kg*min)), which is a measure of the rate at which the body uses energy, called “metabolic equivalent”.</item></list></para><example id="eip-798"><exercise id="eip-id1170571830962"><problem id="eip-id1170573480783"><para id="eip-id1170575142707">
+Find the VO2 for running a speed of 174.7 meters per minute (which is equivalent to 6.5 mph) on level ground.</para></problem>
+
+<solution id="eip-id1170573768549"><para id="eip-id1170570555763">Plug in the values for <m:math><m:mi>S</m:mi></m:math> and <m:math><m:mi>G</m:mi></m:math> and simplify. Note that level ground means the grade is 0%. <newline/><newline/>
+<m:math display="block">
+<m:mtext>VO2</m:mtext><m:mo>=</m:mo><m:mn>0.2</m:mn><m:mo>(</m:mo>
+    
+     <m:mn>174.7</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>0.9</m:mn><m:mo>(</m:mo>
+    
+     <m:mn>174.7</m:mn>
+   <m:mo>)</m:mo><m:mo>(</m:mo>
+    
+     <m:mn>0</m:mn>
+   <m:mo>)</m:mo><m:mo>+</m:mo><m:mn>3.5</m:mn><m:mo>≈</m:mo><m:mn>38.4</m:mn><m:mtext> mL/(kg</m:mtext><m:mo>∗</m:mo><m:mtext>min)</m:mtext> 
+</m:math>
+</para></solution></exercise> 
+
+</example><note id="eip-648" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1008354992"><problem id="eip-idm978406096"><para id="eip-idm976310336">Find the VO2 for running a speed of 225 meters per minute up a 2% grade.</para></problem>
+
+<solution id="eip-idm1105119120"><para id="eip-idm1010630368"><m:math><m:mtext>VO2</m:mtext><m:mo>=</m:mo><m:mtext>52.55 mL/(kg*min)</m:mtext></m:math></para></solution>
+</exercise></note></section><section id="fs-id1560585"><title>Temperature Scales</title><para id="eip-484">The concept of temperature has evolved from the common concepts of hot and cold. Human perception of what feels hot or cold is a relative one. For example, if you place one hand in hot water and the other in cold water, and then place both hands in tepid water, the tepid water will feel cool to the hand that was in hot water, and warm to the one that was in cold water. The scientific definition of temperature is less ambiguous than your senses of hot and cold. <term id="import-auto-id1426896">Temperature</term> is operationally defined to be what we measure with a thermometer.</para><para id="import-auto-id1803281">Thermometers are used to measure temperature according to well-defined scales of measurement, which use pre-defined reference points to help compare quantities. The three most common temperature scales are the Fahrenheit, Celsius, and Kelvin scales. A temperature scale can be created by identifying two easily reproducible temperatures. The freezing and boiling temperatures of water at standard atmospheric pressure are commonly used. </para>
+    <para id="import-auto-id1560689">The <term id="import-auto-id1821755">Celsius</term> scale (which replaced the slightly different <emphasis effect="italics"> <emphasis effect="italics">centigrade</emphasis></emphasis> scale) has the freezing point of water at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0°C} {}</m:annotation></m:semantics></m:math> and the boiling point at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100"°C} {}</m:annotation></m:semantics></m:math>. Its unit is the <term id="import-auto-id1782946">degree Celsius</term><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>º</m:mtext><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( °C \) } {}</m:annotation></m:semantics></m:math>. On the <term id="import-auto-id1565340">Fahrenheit</term> scale (still the most frequently used in the United States), the freezing point of water is at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>32</m:mtext><m:mtext>º</m:mtext><m:mtext>F</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"32"°F} {}</m:annotation></m:semantics></m:math> and the boiling point is at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>212</m:mtext><m:mtext>º</m:mtext><m:mtext>F</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"212"°F} {}</m:annotation></m:semantics></m:math>. The unit of temperature on this scale is the <term id="import-auto-id1349314">degree Fahrenheit</term><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>º</m:mtext><m:mtext>F</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ \( °F \) } {}</m:annotation></m:semantics></m:math>. Note that a temperature difference of one degree Celsius is greater than a temperature difference of one degree Fahrenheit. Only 100 Celsius degrees span the same range as 180 Fahrenheit degrees, thus one degree on the Celsius scale is 1.8 times larger than one degree on the Fahrenheit scale <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>180</m:mtext><m:mo stretchy="false">/</m:mo><m:mtext>100</m:mtext></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>9</m:mn><m:mo stretchy="false">/</m:mo><m:mn>5</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"180"/"100"=9/5 "." } {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id1588077">The <term id="import-auto-id1456841">Kelvin</term> scale is the temperature scale that is commonly used in science. It is an <emphasis effect="italics">absolute temperature</emphasis> scale defined to have 0 K at the lowest possible temperature, called <term id="import-auto-id1218210">absolute zero</term>. The official temperature unit on this scale is the <emphasis effect="italics"><emphasis effect="italics">kelvin</emphasis></emphasis>, which is abbreviated K, and is not accompanied by a degree sign. The freezing and boiling points of water are 273.15 K and 373.15 K, respectively. Thus, the magnitude of temperature differences is the same in units of kelvins and degrees Celsius. Unlike other temperature scales, the Kelvin scale is an absolute scale. It is used extensively in scientific work because a number of physical quantities, such as the volume of an ideal gas, are directly related to absolute temperature. The kelvin is the SI unit used in scientific work.</para>
+    <figure id="import-auto-id1453008"><media id="import-auto-id1806704" alt="Three temperature scales—Fahrenheit, Celsius, and Kelvin—are oriented horizontally, one below the other, and aligned to show how they relate to each other. Absolute zero is at negative four hundred fifty nine point six seven degrees F, negative two hundred seventy three point one five degrees C, and 0 K. Water freezes at thirty two degrees F, 0 degrees C, and two hundred seventy three point one five K. Water boils at two hundred twelve degrees F, one hundred degrees C, and three hundred seventy three point one five K. A temperature difference of 9 degrees F is the same as a temperature difference of 5 degrees C and 5 K.">
+        <image mime-type="image/jpg" src="../../media/Figure_14_01_07.jpg" width="425"/>
+      </media>
+      
+    <caption>Relationships between the Fahrenheit, Celsius, and Kelvin temperature scales, rounded to the nearest degree. The relative sizes of the scales are also shown.</caption></figure><para id="import-auto-id1971844">The relationships between the three common temperature scales is shown in <link target-id="import-auto-id1453008"/>. Temperatures on these scales can be converted using the equations in <link target-id="import-auto-id1782978"/>.</para><table id="import-auto-id1782978" summary="This table, with two columns, shows the formulas to use when converting temperature values between the Celsius, Fahrenheit, and Kelvin scales. Each cell in the left column gives a pair of temperature scales, and the other two columns give the equation to be used for a temperature conversion between those scales."><title>Temperature Conversions</title>
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+       
+        <thead>
+          <row>
+            <entry>To convert from . . .</entry>
+            <entry>Use this formula . . .</entry>
+        
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Celsius to Fahrenheit</entry>
+            <entry>
+              <m:math display="block">
+   <m:mrow>
+   <m:mi>F</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>9</m:mn>
+    <m:mn>5</m:mn>
+   </m:mfrac>
+   <m:mi>C</m:mi><m:mo>+</m:mo><m:mn>32</m:mn></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+          <row>
+            <entry>Fahrenheit to Celsius</entry>
+            <entry>
+              <m:math display="block">
+  <m:mrow>
+   <m:mi>C</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>9</m:mn>
+   </m:mfrac>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mi>F</m:mi><m:mo>−</m:mo><m:mn>32</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+          <row>
+            <entry>Celsius to Kelvin</entry>
+            <entry>
+              <m:math display="block">
+  <m:mrow>
+   <m:mi>K</m:mi><m:mo>=</m:mo><m:mi>C</m:mi><m:mo>+</m:mo><m:mn>273.15</m:mn></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+          <row>
+            <entry>Kelvin to Celsius</entry>
+            <entry>
+              <m:math display="block">
+   <m:mrow>
+   <m:mi>C</m:mi><m:mo>=</m:mo><m:mi>K</m:mi><m:mo>−</m:mo><m:mn>273.15</m:mn></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+          <row>
+            <entry>Fahrenheit to Kelvin</entry>
+            <entry>
+              <m:math>
+  <m:mrow>
+   <m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>5</m:mn>
+    <m:mn>9</m:mn>
+   </m:mfrac>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mi>F</m:mi><m:mo>−</m:mo><m:mn>32</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>273.15</m:mn></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+          <row>
+            <entry>Kelvin to Fahrenheit</entry>
+            <entry>
+              <m:math>
+  <m:mrow>
+   <m:mi>F</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>9</m:mn>
+    <m:mn>5</m:mn>
+   </m:mfrac>
+   <m:mrow><m:mo>(</m:mo>
+    <m:mrow>
+     <m:mi>K</m:mi><m:mo>−</m:mo><m:mn>273.15</m:mn></m:mrow>
+   <m:mo>)</m:mo></m:mrow><m:mo>+</m:mo><m:mn>32</m:mn></m:mrow>
+</m:math>
+
+            </entry>
+  </row>
+        </tbody>
+      
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table><para id="import-auto-id1959762">Notice that the conversions between Fahrenheit and Kelvin look quite complicated. In fact, they are simple combinations of the conversions between Fahrenheit and Celsius, and the conversions between Celsius and Kelvin. </para>
+    <example id="eip-956"><title>Converting between Temperature Scales: Room Temperature</title><para id="eip-965">“Room temperature” is generally defined to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>25</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"25"°C} {}</m:annotation></m:semantics></m:math>. (a) What is room temperature in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>º</m:mtext><m:mtext>F</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°F} {}</m:annotation></m:semantics></m:math>? (b) What is it in <m:math><m:mo>º</m:mo><m:mtext>K</m:mtext></m:math>?
+</para><para id="import-auto-id2098484">
+      <emphasis>Strategy</emphasis>
+    </para>
+    <para id="import-auto-id1105331">To answer these questions, all we need to do is choose the correct conversion equations and plug in the known values.</para>
+    <para id="import-auto-id1566560">
+      <emphasis>Solution for (a)</emphasis>
+    </para>
+    <para id="import-auto-id1551821">1. Choose the right equation. To convert from <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math> to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>º</m:mtext><m:mtext>F</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°F} {}</m:annotation></m:semantics></m:math>, use the equation</para><equation id="eip-22"><m:math>
+  <m:mrow>
+   <m:mi>F</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>9</m:mn>
+    <m:mn>5</m:mn>
+   </m:mfrac>
+   <m:mi>C</m:mi><m:mo>+</m:mo><m:mn>32</m:mn></m:mrow>
+</m:math>
+</equation><para id="import-auto-id1555487">2. Plug the known value into the equation, simplify, and include units on the answer:</para><equation id="eip-379"><m:math>
+  <m:mrow>
+   <m:mi>F</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mn>9</m:mn>
+    <m:mn>5</m:mn>
+   </m:mfrac>
+<m:mo>(</m:mo><m:mn>25</m:mn><m:mo>)</m:mo>
+   <m:mo>+</m:mo><m:mn>32</m:mn><m:mo>=</m:mo><m:mn>45</m:mn><m:mo>+</m:mo><m:mn>32</m:mn><m:mo>=</m:mo><m:mn>77</m:mn><m:mo>°</m:mo><m:mtext>F</m:mtext></m:mrow>
+</m:math>
+</equation><para id="import-auto-id849130">
+      <emphasis>Solution for (b)</emphasis>
+    </para>
+    <para id="import-auto-id1559970">1. Choose the right equation. To convert from <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{°C} {}</m:annotation></m:semantics></m:math> to <m:math><m:mo>º</m:mo><m:mtext>K</m:mtext></m:math>, use the equation</para><equation id="eip-664"><m:math>
+  <m:mrow>
+   <m:mi>K</m:mi><m:mo>=</m:mo><m:mi>C</m:mi><m:mo>+</m:mo><m:mn>273.15</m:mn></m:mrow>
+</m:math>
+
+    </equation><para id="import-auto-id1297825">2. Plug the known value into the equation, simplify, and include units on the answer:</para><equation id="eip-912"><m:math>
+  <m:mrow>
+   <m:mi>K</m:mi><m:mo>=</m:mo><m:mo>(</m:mo><m:mn>25</m:mn><m:mo>)</m:mo><m:mo>+</m:mo><m:mn>273.15</m:mn><m:mo>=</m:mo><m:mn>298.15</m:mn><m:mo>°</m:mo><m:mtext>K</m:mtext></m:mrow>
+</m:math>
+    </equation></example><note id="eip-902" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm896174080"><problem id="eip-idm266534672"><para id="eip-idm315827200">Convert 59 degrees Fahrenheit to degrees Celsius.</para></problem>
+
+<solution id="eip-idm244665488"><para id="eip-idm248166592"><m:math><m:mn>15</m:mn><m:mo>°</m:mo><m:mtext>C</m:mtext></m:math></para></solution>
+</exercise></note></section><section id="fs-id1322300" class="section-exercises"><title>Homework</title><exercise id="eip-957"><problem id="eip-595">
+  <para id="eip-916">Find m, using the formula <m:math>
+   <m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+</m:math>, when <m:math>
+   <m:msub>
+    <m:mi>x</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>8</m:mn>  
+</m:math> g, <m:math>
+   <m:msub>
+    <m:mi>x</m:mi>
+    <m:mn>1</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>5</m:mn>  
+</m:math> g, <m:math>
+   <m:msub>
+    <m:mi>y</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>3</m:mn>  
+</m:math> mL, and <m:math>
+   <m:msub>
+    <m:mi>y</m:mi>
+    <m:mn>1</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>12</m:mn>  
+</m:math> mL.
+  </para></problem>
+
+<solution id="eip-221">
+  <para id="eip-559"><m:math><m:mi>m</m:mi><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>3</m:mn></m:math> mL/g.
+  </para></solution>
+</exercise><exercise id="eip-498"><problem id="eip-id2594655">
+  <para id="eip-id2592932">Find m, using the formula <m:math>
+   <m:mi>m</m:mi><m:mo>=</m:mo><m:mfrac>
+    <m:mrow>
+     <m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>y</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+    <m:mrow>
+     <m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>2</m:mn>
+     </m:msub>
+     <m:mo>−</m:mo><m:msub>
+      <m:mi>x</m:mi>
+      <m:mn>1</m:mn>
+     </m:msub>
+     </m:mrow>
+   </m:mfrac>
+</m:math>, when <m:math>
+   <m:msub>
+    <m:mi>x</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>9</m:mn>  
+</m:math> g, <m:math>
+   <m:msub>
+    <m:mi>x</m:mi>
+    <m:mn>1</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>4</m:mn>  
+</m:math> g, <m:math>
+   <m:msub>
+    <m:mi>y</m:mi>
+    <m:mn>2</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>10</m:mn>  
+</m:math> mL, and <m:math>
+   <m:msub>
+    <m:mi>y</m:mi>
+    <m:mn>1</m:mn>
+   </m:msub>
+   <m:mo>=</m:mo><m:mn>2</m:mn>  
+</m:math> mL.
+  </para></problem>
+</exercise><exercise id="eip-217"><problem id="eip-536">
+  <para id="eip-958">
+ Find the VO2 for a woman running 147.8 meters per minute on a 7.5% incline.
+  </para>
+</problem>
+
+<solution id="eip-722">
+  <para id="eip-340">
+    43 mL/(kg*min)
+  </para>
+</solution>
+</exercise><exercise id="eip-934"><problem id="eip-218">
+  <para id="eip-804">
+Find the VO2 for a man walking 3 miles per hour on a 10% incline.
+  </para>
+</problem>
+
+
+</exercise><exercise id="eip-966"><problem id="eip-752">
+  <para id="eip-268">Convert <m:math><m:mn>30</m:mn><m:mo>°</m:mo><m:mtext>C</m:mtext></m:math> to degrees Fahrenheit.
+  </para></problem>
+
+<solution id="eip-714">
+  <para id="eip-53"><m:math><m:mn>86</m:mn><m:mtext>°F</m:mtext></m:math>
+  </para></solution>
+</exercise><exercise id="eip-400"><problem id="eip-305">
+  <para id="eip-172">Convert <m:math><m:mn>98.6</m:mn><m:mo>°</m:mo><m:mtext>F</m:mtext></m:math> to degrees Celsius.
+  </para></problem>
+</exercise><exercise id="fs-id1394420"><problem id="fs-id1394421">      <para id="import-auto-id1969478">What is the Fahrenheit temperature of a person with a <m:math><m:mn>39.0</m:mn><m:mtext>°C</m:mtext></m:math> fever?</para></problem>
+<solution id="fs-id1425485">
+      <para id="import-auto-id1969494"><m:math><m:mn>102</m:mn><m:mtext>°F</m:mtext></m:math></para></solution>
+      </exercise>
+      <exercise id="fs-id1940370"><problem id="fs-id1940371"><para id="import-auto-id1970929">Frost damage to most plants occurs at temperatures of <m:math><m:mn>28.0</m:mn><m:mtext>°F</m:mtext></m:math> or lower. What is this temperature on the Kelvin scale? </para></problem></exercise>
+      <exercise id="fs-id1566976"><problem id="fs-id1819422"> <para id="import-auto-id1970948">To conserve energy, room temperatures are kept at <m:math><m:mn>68.0</m:mn><m:mtext>°F</m:mtext></m:math> in the winter and <m:math><m:mn>78.0</m:mn><m:mtext>°F</m:mtext></m:math> in the summer. What are these temperatures on the Celsius scale?</para></problem>
+<solution id="fs-id1753396">
+      <para id="import-auto-id1971006"><m:math><m:mn>20.0</m:mn><m:mtext>°C</m:mtext></m:math> and <m:math><m:mn>25.6</m:mn><m:mtext>°C</m:mtext></m:math></para></solution>
+      </exercise>
+      <exercise id="fs-id1818837"><problem id="fs-id1818838">      <para id="import-auto-id1971062">A tungsten light bulb filament may operate at <m:math><m:mn>2900</m:mn><m:mtext>°K</m:mtext></m:math>. What is its Fahrenheit temperature? What is this on the Celsius scale? </para></problem></exercise>
+      <exercise id="fs-id1448440"><problem id="fs-id1448441" type="problems-exercises"> <para id="import-auto-id1971084">The surface temperature of the Sun is about <m:math><m:mn>5750</m:mn><m:mtext>°K</m:mtext></m:math>. What is this temperature on the Fahrenheit scale?</para></problem>
+<solution id="fs-id1822048">
+      <para id="import-auto-id1971088"><m:math><m:mn>9890</m:mn><m:mtext>°F</m:mtext></m:math>
+      </para></solution>
+      </exercise>
+      <exercise id="fs-id1348930"><problem id="fs-id1348931">      <para id="import-auto-id1971117">One of the hottest temperatures ever recorded on the surface of Earth was <m:math><m:mn>134</m:mn><m:mtext>°F</m:mtext></m:math> in Death Valley, CA. What is this temperature in Celsius degrees? What is this temperature in Kelvin? </para></problem></exercise>
+      </section></section>
+</content>
+</document>

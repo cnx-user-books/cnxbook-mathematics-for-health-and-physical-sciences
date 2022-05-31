@@ -1,0 +1,577 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Using Proportions to Solve Percent Problems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62607</md:content-id>
+  <md:title>Using Proportions to Solve Percent Problems</md:title>
+  <md:abstract/>
+  <md:uuid>8694b3ed-155d-4cdd-b786-106bf8910506</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-550"><title>Learning Objectives</title><para id="eip-id1170225635226">By the end of this section, you will be able to:</para>
+<list id="eip-id1170221672460">
+<item>Translate percent problems into proportions</item>
+<item>Solve percent problems using proportions</item>
+</list></section><section id="fs-id1166490820119">
+<title>Translating Percent Problems into Proportions</title><para id="fs-id1166493772070">Previously, we solved percent problems by translating into percent equations and solving by applying the properties of equality we have used to solve linear equations. Some people prefer to solve percent problems by using the proportion method. The proportion method for solving percent problems involves translating a percent problem into a proportion and then solve the proportion using the cross products.<newline/><newline/></para><para id="fs-id1166484174541">The following is a template for setting up your proportion. Remember that the "amount" is a percentage of the "base" and in place of "percent" we place the percent number (without the % sign).</para><equation id="fs-id1166484174542" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:mtext>amount</m:mtext></m:mrow><m:mrow><m:mtext>base</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>percent</m:mtext></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="eip-497">For example, the percent statement "3 is 60% of 5" would translate into the following proportion:</para><equation id="fs-id1166484174543" class="unnumbered"><label/><m:math><m:mrow><m:mspace width="1.2em"/><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>60</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></equation>
+<para id="fs-id1166490806604">If we restate the problem in the words of a proportion, it may be easier to set up the proportion:</para>
+<equation id="fs-id1166490919621" class="unnumbered"><label/><m:math><m:mtext mathvariant="italic">The amount is to the base as the percent is to one hundred.</m:mtext></m:math></equation>
+<para id="fs-id1337486">First we will practice translating into a percent proportion. Later, we’ll solve the proportion.</para>
+<example id="fs-id1447227">
+<exercise id="fs-id1229509"><problem id="fs-id1321188">
+<para id="fs-id1699747">Translate to a proportion. What number is <m:math><m:mtext>75%</m:mtext></m:math> of <m:math><m:mrow><m:mn>90</m:mn><m:mo>?</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1833179">
+
+<para id="fs-id1166492017953">If you look for the word "of", it may help you identify the base.<newline/>
+
+<table id="eip-id1166828184051" class="unnumbered unstyled" summary="The figure shows the parts of a percent proportion in the question 'What number is 75% of 90?' It shows 'what number' as the amount, 75% as the percent, and 90 as the base."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id1166821262634" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_013_img-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id1166819463374" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_013_img-02.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Set up the proportion. Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo><m:mtext>number</m:mtext></m:math>.</entry>
+    <entry><m:math><m:mtext>          </m:mtext><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>90</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>75</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table></para></solution>
+</exercise></example>
+<note id="fs-id1399727" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1166497408289">
+<problem id="fs-id1506540">
+<para id="fs-id1947652">Translate to a proportion: What number is <m:math><m:mtext>60%</m:mtext></m:math> of <m:math><m:mn>105</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166491254241">
+<para id="fs-id1411194"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>105</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>60</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><note id="fs-id1338834" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1166497443440">
+<problem id="fs-id1166493280603">
+<para id="fs-id1166491052615">Translate to a proportion: What number is <m:math><m:mtext>40%</m:mtext></m:math> of <m:math><m:mn>85</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166484083290">
+<para id="fs-id1166494585031"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>85</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>40</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><example id="fs-id1339582">
+<exercise id="fs-id1166483069464"><problem id="fs-id1395244">
+<para id="fs-id1357256">Translate to a proportion. <m:math><m:mn>19</m:mn></m:math> is <m:math><m:mtext>25%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1482353">
+
+
+<table id="eip-id2096152" class="unnumbered unstyled" summary="The figure shows the parts of a percent proportion in the question '19 is 25% of what number?' It shows 19 as the amount, 25% as the percent, and 'what number' as the base."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id2096344" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_014-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id2096496" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_014-02.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Set up the proportion. Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo><m:mtext>number</m:mtext></m:math>.</entry>
+    <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>19</m:mn></m:mrow><m:mi>n</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1166491002988" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1166490903894">
+<problem id="fs-id1956656">
+<para id="fs-id1457910">Translate to a proportion: <m:math><m:mn>36</m:mn></m:math> is <m:math><m:mtext>25%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1948524">
+<para id="fs-id1166491296749"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>36</m:mn></m:mrow><m:mi>n</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><note id="fs-id1215503" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1945455">
+<problem id="fs-id1166493708780">
+<para id="fs-id1166490784121">Translate to a proportion: <m:math><m:mn>27</m:mn></m:math> is <m:math><m:mtext>36%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1288471">
+<para id="fs-id1166494736971"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>27</m:mn></m:mrow><m:mi>n</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>36</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><example id="fs-id1166490849657">
+<exercise id="fs-id1166492885660"><problem id="fs-id1456940">
+<para id="fs-id1494096">Translate to a proportion. What percent of <m:math><m:mn>27</m:mn></m:math> is <m:math><m:mn>9</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1549117">
+
+<table id="eip-id1166141441606" class="unnumbered unstyled" summary="The figure shows the parts of a percent proportion in the question 'What percent of 27 is 9?' It shows 'what percent' as the percent, 27 as the base, and 9 as the amount."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id1166123041868" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_015_img-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id1166129402544" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_015_img-02.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Set up the proportion. Let <m:math><m:mi>p</m:mi><m:mo>=</m:mo><m:mtext>percent</m:mtext></m:math>.</entry>
+    <entry><m:math><m:mrow><m:mfrac><m:mn>9</m:mn><m:mrow><m:mn>27</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>p</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1432879" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1412323">
+<problem id="fs-id1166492019228">
+<para id="fs-id897900">Translate to a proportion: What percent of <m:math><m:mn>52</m:mn></m:math> is <m:math><m:mn>39</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1480032">
+<para id="fs-id1524754"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>39</m:mn></m:mrow><m:mrow><m:mn>52</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><note id="fs-id1698164" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1166491248919">
+<problem id="fs-id1948634">
+<para id="fs-id1359274">Translate to a proportion: What percent of <m:math><m:mn>92</m:mn></m:math> is <m:math><m:mn>23</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166497423981">
+<para id="fs-id1340386"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>23</m:mn></m:mrow><m:mrow><m:mn>92</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note></section>
+<section id="fs-id1432614">
+<title>Solve Percent Problems Using Proportions</title><para id="fs-id1166484083924">Now that we have translated percent problems into proportions, we are ready to solve the percent problems.</para><example id="fs-id1788998">
+<exercise id="fs-id1166492076080"><problem id="fs-id1833323">
+<para id="fs-id1166490855869">Translate and solve using proportions: What number is <m:math><m:mtext>45%</m:mtext></m:math> of <m:math><m:mn>80</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1698394">
+
+
+
+<table id="eip-id4251535" class="unnumbered unstyled" summary="The figure shows the parts of a percent proportion in the question 'What number is 45% of 80?' It shows 'what number' as the amount, 45% as the percent, and 80 as the base.">
+<label/><tgroup cols="2">
+ <tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id1167304133055" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_016_img-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id3247756" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_016_img-02.png"/></media></entry>
+  </row>
+  <row>
+<entry>Set up the proportion. Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo></m:math> number. </entry>
+<entry><media id="eip-id1168469774887" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_004_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry>Find the cross products and set them equal. </entry>
+<entry><media id="eip-id1168467168393" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_004_img-02.png"/></media></entry>
+</row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168464924388" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_004_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry>Divide both sides by 100.</entry>
+   <entry><media id="eip-id1168464924404" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_004_img-04.png"/></media></entry>
+ </row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168464917165" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_004_img-05.png"/></media></entry>
+</row>
+
+ <row> 
+ <entry>Write a complete sentence that answers the question.</entry>
+ <entry>36 is 45% of 80.</entry>
+ </row>
+
+<row> 
+ <entry>Check if the answer is reasonable. </entry>
+<entry> Yes. 45 is a little less than half of 100 and 36 is a little less than half 80.</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+</solution>
+</exercise></example>
+<note id="fs-id1673840" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1627507">
+<problem id="fs-id1476032">
+<para id="fs-id1496332">Translate and solve using proportions: What number is <m:math><m:mtext>65%</m:mtext></m:math> of <m:math><m:mn>40</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1763000">
+<para id="fs-id1166492788865">26</para>
+</solution>
+</exercise>
+</note><note id="fs-id1367063" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1166493771343">
+<problem id="fs-id1166479093244">
+<para id="fs-id1361377">Translate and solve using proportions: What number is <m:math><m:mtext>85%</m:mtext></m:math> of <m:math><m:mn>40</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1481412">
+<para id="fs-id1166483071415">34</para>
+</solution>
+</exercise>
+</note><para id="fs-id1465902">In the next example, the percent is more than <m:math><m:mrow><m:mn>100</m:mn><m:mo>,</m:mo></m:mrow></m:math> which is more than one whole. So the unknown number will be more than the base.</para>
+<example id="fs-id1166483683514">
+<exercise id="fs-id1166491410977"><problem id="fs-id1166484085537">
+<para id="fs-id1166483694550">Translate and solve using proportions: <m:math><m:mtext>125%</m:mtext></m:math> of <m:math><m:mn>25</m:mn></m:math> is what number?</para>
+</problem>
+<solution id="fs-id1166482688502">
+
+<table id="eip-id1165358285731" class="unnumbered unstyled" summary="The figure shows the parts of a percent proportion in the question '125% of 25 is what number?' It shows 125% as the percent, 25 as the base, and 'what number' as the amount."><label/>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id1165367323904" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_17_img-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id1165367094433" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_17_img-02.png"/></media></entry>
+  </row>
+  <row>
+<entry>Set up the proportion. Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo></m:math> number. </entry>
+<entry><media id="eip-id1168468771195" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_005_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry>Find the cross products and set them equal. </entry>
+<entry><media id="eip-id1168468771212" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_005_img-02.png"/></media></entry>
+</row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168468464320" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_005_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry>Divide both sides by 100.</entry>
+   <entry><media id="eip-id1168468464336" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_005_img-04.png"/></media></entry>
+ </row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168467222146" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_005_img-05.png"/></media></entry>
+</row>
+
+ <row> 
+ <entry>Write a complete sentence that answers the question.</entry>
+ <entry>125% of 25 is 31.25.</entry>
+ </row>
+
+<row> 
+ <entry>Check if the answer is reasonable. </entry>
+<entry> Yes. 125 is more than 100 and 31.25 is more than 25.</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example>
+<note id="fs-id1437518" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1581804">
+<problem id="fs-id1166490874428">
+<para id="fs-id1249213">Translate and solve using proportions: <m:math><m:mtext>125%</m:mtext></m:math> of <m:math><m:mn>64</m:mn></m:math> is what number?</para>
+</problem>
+<solution id="fs-id1911526">
+<para id="fs-id1166491296592">80</para>
+</solution>
+</exercise>
+</note><note id="fs-id1166493765844" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1681531">
+<problem id="fs-id1166497278148">
+<para id="fs-id1166497278135">Translate and solve using proportions: <m:math><m:mtext>175%</m:mtext></m:math> of <m:math><m:mn>84</m:mn></m:math> is what number?</para>
+</problem>
+<solution id="fs-id1166493771284">
+<para id="fs-id1946770">147</para>
+</solution>
+</exercise>
+</note><example id="fs-id1453163">
+<exercise id="fs-id1257619"><problem id="fs-id1241946">
+<para id="fs-id1305046">Translate and solve using proportions: What percent of <m:math><m:mn>72</m:mn></m:math> is <m:math><m:mn>9</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1445168">
+
+<table id="eip-id1171789006462" class="unnumbered unstyled" summary=".">
+<label/><tgroup cols="2">
+ <tbody>
+  <row>
+    <entry>Identify the parts of the percent proportion.</entry>
+    <entry><media id="eip-id1171793496328" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_019_img-01.png"/></media></entry>
+  </row>
+  <row>
+    <entry>Restate as a proportion.</entry>
+
+    <entry><media id="eip-id1171797126283" alt="."><image mime-type="image/png" src="../../media/CNX_BMath_Figure_06_05_019_img-02.png"/></media></entry>
+  </row>
+  <row>
+<entry>Set up the proportion. Let <m:math><m:mi>n</m:mi><m:mo>=</m:mo></m:math> number.</entry>
+<entry><media id="eip-id1168468515416" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_007_img-01.png"/></media></entry>
+</row>
+
+<row>
+<entry>Find the cross products and set them equal. </entry>
+<entry><media id="eip-id1168468515434" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_007_img-02.png"/></media></entry>
+</row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168468515451" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_007_img-03.png"/></media></entry>
+</row>
+
+ <row>
+   <entry>Divide both sides by 72.</entry>
+   <entry><media id="eip-id1168465019440" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_007_img-04.png"/></media></entry>
+ </row>
+
+<row> 
+<entry>Simplify.</entry>
+<entry><media id="eip-id1168465019458" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_06_05_007_img-05.png"/></media></entry>
+</row>
+
+ <row> 
+ <entry>Write a complete sentence that answers the question.</entry>
+ <entry>12.5% of 72 is 9.</entry>
+ </row>
+
+<row> 
+ <entry>Check if the answer is reasonable. </entry>
+<entry> Yes. 9 is <m:math><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:math> of 72 and <m:math><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:math> is 12.5%.</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table>
+</solution>
+</exercise></example>
+<note id="fs-id1166479044881" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1517346">
+<problem id="fs-id1517371">
+<para id="fs-id1387794">Translate and solve using proportions: What percent of <m:math><m:mn>72</m:mn></m:math> is <m:math><m:mrow><m:mn>27</m:mn><m:mo>?</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1491140">
+<para id="fs-id1438795">37.5%</para>
+</solution>
+</exercise>
+</note><note id="fs-id792231" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1304221">
+<problem id="fs-id1685652">
+<para id="fs-id1698616">Translate and solve using proportions: What percent of <m:math><m:mn>92</m:mn></m:math> is <m:math><m:mrow><m:mn>23</m:mn><m:mo>?</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1306229">
+<para id="fs-id1471750">25%</para>
+</solution>
+</exercise>
+</note></section>
+<section id="eip-979" class="section-exercises"><title>Homework</title><para id="fs-id1807606"><emphasis effect="bold">Translate Percent Problems into Proportions</emphasis> </para><para id="eip-390">In the following exercises, translate to a proportion.</para><exercise id="fs-id1166478903657">
+<problem id="fs-id1166478903659">
+<para id="fs-id1166478903661">What number is <m:math><m:mtext>35%</m:mtext></m:math> of <m:math><m:mn>250</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166488297787">
+<para id="fs-id1166488297789"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>250</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>35</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492761760">
+<problem id="fs-id1166488295198">
+<para id="fs-id1166488295201">What number is <m:math><m:mtext>75%</m:mtext></m:math> of <m:math><m:mn>920</m:mn><m:mo>?</m:mo></m:math>
+</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166493264814">
+<problem id="fs-id1166493264817">
+<para id="fs-id1166493264819">What number is <m:math><m:mtext>110%</m:mtext></m:math> of <m:math><m:mn>47</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1951884">
+<para id="fs-id1951886"><m:math><m:mrow><m:mfrac><m:mi>n</m:mi><m:mrow><m:mn>47</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>110</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id2053993">
+<problem id="fs-id2053995">
+<para id="fs-id1166497206316">What number is <m:math><m:mtext>150%</m:mtext></m:math> of <m:math><m:mn>64</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1482642">
+<problem id="fs-id1482644">
+<para id="fs-id1482646"><m:math><m:mn>45</m:mn></m:math> is <m:math><m:mtext>30%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1166494590230">
+<para id="fs-id1166494759010"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>45</m:mn></m:mrow><m:mi>n</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>30</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166490789459">
+<problem id="fs-id1166490789461">
+<para id="fs-id1166490789463"><m:math><m:mn>25</m:mn></m:math> is <m:math><m:mtext>80%</m:mtext></m:math> of what number?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497309698">
+<problem id="fs-id1166491003167">
+<para id="fs-id1166491003169"><m:math><m:mn>90</m:mn></m:math> is <m:math><m:mtext>150%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1766473">
+<para id="fs-id1766475"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>90</m:mn></m:mrow><m:mi>n</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>150</m:mn></m:mrow><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166494756647">
+<problem id="fs-id1166494756649">
+<para id="fs-id1166484125287"><m:math><m:mn>77</m:mn></m:math> is <m:math><m:mtext>110%</m:mtext></m:math> of what number?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166489101792">
+<problem id="fs-id1166489101794">
+<para id="fs-id1166489101796">What percent of <m:math><m:mn>85</m:mn></m:math> is <m:math><m:mn>17</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1956354">
+<para id="fs-id1956357"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>17</m:mn></m:mrow><m:mrow><m:mn>85</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>p</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492363260">
+<problem id="fs-id1166492363263">
+<para id="fs-id1166492363265">What percent of <m:math><m:mn>92</m:mn></m:math> is <m:math><m:mn>46</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1952300">
+<problem id="fs-id1952302">
+<para id="fs-id1166491003188">What percent of <m:math><m:mn>260</m:mn></m:math> is <m:math><m:mn>340</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166494756594">
+<para id="fs-id1948501"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>340</m:mn></m:mrow><m:mrow><m:mn>260</m:mn></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>p</m:mi><m:mrow><m:mn>100</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497309716">
+<problem id="fs-id1166497309718">
+<para id="fs-id1166490873727">What percent of <m:math><m:mn>180</m:mn></m:math> is <m:math><m:mn>220</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<para id="fs-id1166493707168"><emphasis effect="bold">Translate and Solve Percent Problems Using Proportions</emphasis> </para><para id="eip-773">In the following exercises, translate and solve using proportions.</para><exercise id="fs-id1166493707175">
+<problem id="fs-id1166484081199">
+<para id="fs-id1166484081201">What number is <m:math><m:mtext>65%</m:mtext></m:math> of <m:math><m:mn>180</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166494738457">
+<para id="fs-id1166494738459">117</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492494396"><problem id="fs-id1166492494399">
+<para id="fs-id1166492494401">What number is <m:math><m:mtext>55%</m:mtext></m:math> of <m:math><m:mn>300</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise><exercise id="fs-id1339644">
+<problem id="fs-id1166491002969">
+<para id="fs-id1166491002972"><m:math><m:mtext>18%</m:mtext></m:math> of <m:math><m:mn>92</m:mn></m:math> is what number?</para>
+</problem>
+<solution id="fs-id1834051">
+<para id="fs-id1166484125252">16.56</para>
+</solution>
+</exercise>
+<exercise id="fs-id1547352">
+<problem id="fs-id1547354">
+<para id="fs-id1547356"><m:math><m:mtext>22%</m:mtext></m:math> of <m:math><m:mn>74</m:mn></m:math> is what number?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497442142">
+<problem id="fs-id1166478903608">
+<para id="fs-id1166478903610"><m:math><m:mtext>175%</m:mtext></m:math> of <m:math><m:mn>26</m:mn></m:math> is what number?</para>
+</problem>
+<solution id="fs-id1166493485428">
+<para id="fs-id1166493485430">45.5</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497191755">
+<problem id="fs-id1166497191757">
+<para id="fs-id1309884"><m:math><m:mtext>250%</m:mtext></m:math> of <m:math><m:mn>61</m:mn></m:math> is what number?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490789447">
+<problem id="fs-id1166490789450">
+<para id="fs-id1166490789452">What is <m:math><m:mtext>300%</m:mtext></m:math> of <m:math><m:mn>488</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166481190938">
+<para id="fs-id1730685">1464</para>
+</solution>
+</exercise>
+<exercise id="fs-id1730694">
+<problem id="fs-id1730696">
+<para id="fs-id1730698">What is <m:math><m:mtext>500%</m:mtext></m:math> of <m:math><m:mn>315</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166497191662">
+<problem id="fs-id1166494756600">
+<para id="fs-id1166494756602"><m:math><m:mtext>17%</m:mtext></m:math> of what number is <m:math><m:mrow><m:mtext>$7.65</m:mtext><m:mo>?</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166492363293">
+<para id="fs-id1166492363296">$45</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166492761879">
+<problem id="fs-id1166492761881">
+<para id="fs-id1166492761883"><m:math><m:mtext>19%</m:mtext></m:math> of what number is <m:math><m:mtext>$6.46</m:mtext><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166490849650">
+<problem id="fs-id1166490849652">
+<para id="fs-id1166492363370"><m:math><m:mtext>$13.53</m:mtext></m:math> is <m:math><m:mtext>8.25%</m:mtext></m:math> of what number?</para>
+</problem>
+<solution id="fs-id1166492363385">
+<para id="fs-id1166492363387">$164</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166479038486">
+<problem id="fs-id1166479038488">
+<para id="fs-id1166479038490"><m:math><m:mtext>$18.12</m:mtext></m:math> is <m:math><m:mtext>7.55%</m:mtext></m:math> of what number?</para>
+</problem>
+</exercise>
+<exercise id="fs-id1833983">
+<problem id="fs-id1833985">
+<para id="fs-id1833987">What percent of <m:math><m:mn>56</m:mn></m:math> is <m:math><m:mn>14</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1166487840970">
+<para id="fs-id1166487840972">25%</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166484059472">
+<problem id="fs-id1166484059474">
+<para id="fs-id1166484059476">What percent of <m:math><m:mn>80</m:mn></m:math> is <m:math><m:mn>28</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1166484059490">
+<problem id="fs-id1166484059492">
+<para id="fs-id1905310">What percent of <m:math><m:mn>96</m:mn></m:math> is <m:math><m:mn>12</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+<solution id="fs-id1905324">
+<para id="fs-id1905326">12.5%</para>
+</solution>
+</exercise>
+<exercise id="fs-id1166497191670">
+<problem id="fs-id1166497191672">
+<para id="fs-id1166497191674">What percent of <m:math><m:mn>120</m:mn></m:math> is <m:math><m:mn>27</m:mn><m:mo>?</m:mo></m:math></para>
+</problem>
+</exercise>
+</section></content>
+
+</document>

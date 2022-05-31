@@ -1,0 +1,228 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Rounding with Precision and Significant Figures</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62532</md:content-id>
+  <md:title>Rounding with Precision and Significant Figures</md:title>
+  <md:abstract/>
+  <md:uuid>9c31f830-1aa1-4013-88c4-ecd63f4c0369</md:uuid>
+</metadata>
+
+<content>
+    
+    <figure id="import-auto-id2957598"><media id="import-auto-id3099136" alt="An old rusted double-pan balance is shown with a weighing stone on one pan.">
+        <image mime-type="image/jpg" src="../../media/Figure_01_03_01.jpg" width="350"/>
+      </media>
+      
+    <caption>A double-pan mechanical balance is used to compare different masses. Usually an object with unknown mass is placed in one pan and objects of known mass are placed in the other pan. When the bar that connects the two pans is horizontal, then the masses in both pans are equal. The “known masses” are typically metal cylinders of standard mass such as 1 gram, 10 grams, and 100 grams. (credit: Serge Melki)</caption></figure><section id="fs-id1413654">
+	  <title>Learning Objectives</title>
+	  <para id="fs-id1555713">By the end of this section, you will be able to:</para>
+	  <list id="fs-id2014909"><item>Round answers from adding or subtracting measurements based on the least precise place value.</item>
+<item>Determine the appropriate number of significant figures to use in multiplication and division calculations.</item>
+	  </list></section>
+<section id="fs-id2526780">
+    <title>Accuracy and Precision of a Measurement</title>
+    <para id="import-auto-id2581406">Science is based on observation and experiment—that is, on measurements. The fields of health and medicine are also based heavily on measurements. <term id="import-auto-id2543264">Accuracy</term> is how close a measurement is to the correct value for that measurement. For example, let's say that you are measuring the length of standard computer paper. The packaging in which you purchased the paper states that it is 11.0 inches long. You measure the length of the paper three times and obtain the following measurements: 11.1 in., 11.2 in., and 10.9 in. These measurements are quite accurate because they are very close to the correct value of 11.0 inches. In contrast, if you had obtained a measurement of 12 inches, your measurement would not be very accurate.</para><para id="import-auto-id1380610">The <term id="import-auto-id2607150">precision</term> of a measurement system has to do with place value. For example, each of the measurements of the piece of paper are precise to the tenths place.<newline/><newline/>
+Here are some examples of measurements and their precision as shown by place values:<newline/><list id="eip-id1166115253138"><item>13.00 is precise to the hundredths place.</item> 
+<item>0.140 is precise to the thousandths place.</item>
+<item>3400 is precise to the hundreds place.</item>
+<item>239,000 is precise to the thousands place.</item>
+<item>14 is precise to the ones place.</item></list>
+
+If there are no digits past the decimal, then the precision of the measurement is to the last place value with a nonzero digit, as you read the number from left to right. If there are digits to the right of the decimal, then the precision of the measurement is to the place value of the very last digit, as you read the number from left to right, even if the last digit is a zero.<newline/><newline/>
+
+Can you see how adding zeros past the decimal without reason can make a measurement more precise and dropping zeros will make a measurement less precise? If a measurement of 13.00, which is precise to the hundredths place, was written down as 13 or 13.0 or 13.000 then this would be wrong since it needs to have its last zero in the hundredths place exactly.  </para><note id="eip-582">Measurements are always rounded estimates because of the inaccuracy of the tool used. The idea of being an estimate must be reflected in the way the results are recorded.<newline/><newline/>
+The result of mathematical operations, performed with approximate numbers from measurements, is also an approximate number and must be rounded according to either the accuracy or the precision of the original numbers.<newline/><newline/> The output cannot be more accurate or precise than the input.
+This is the main idea! Again, <emphasis>the output cannot be more accurate or precise than the input.</emphasis>
+
+
+</note></section>
+<section id="fs-id1954653">
+      <title>Precision when Adding and Subtracting Measurements</title><para id="import-auto-id1992946">When adding and subtracting measurements, the result must be rounded to the <emphasis>least precise place value</emphasis> of the measurements involved. The key is that <emphasis>the result cannot be any more precise than the least precise measurement given.</emphasis></para><para id="import-auto-id2962372">When given two or more measurements to add (or subtract), first add as normal. In other words, <emphasis>do not round the numbers before you add</emphasis>. Then, after adding (or subtracting), round the result to the least precise place value of the given numbers. </para><para id="import-auto-id1618060">In our example, such factors contributing to the uncertainty could be the following: the smallest division on the ruler is 0.1 in., the person using the ruler has bad eyesight, or one side of the paper is slightly longer than the other. At any rate, the uncertainty in a measurement must be based on a careful consideration of all the factors that might contribute and their possible effects.</para>
+    <example id="eip-57"><exercise id="eip-id674481"><problem id="eip-id1096243"><para id="eip-151">
+  Add: 15,800 mi. + 11,000 mi.
+</para></problem>
+<solution id="eip-id1096366"><para id="eip-id1096368">We first add the numbers to get 26,800 mi. <newline/><newline/> Next we note that 15,800 is precise to the hundreds place and 11,000 is precise to the thousands place. <newline/><newline/>The thousands place is less precise than the hundreds place, so we round the result to the thousands place.<newline/><newline/>Thus, the final answer is 27,000 mi. (Notice how the units of miles is included.)</para></solution></exercise>
+</example><note id="fs-id1578248"><label/><title>Steps for adding and subtracting measurements with precision</title>
+<list id="eip-id1166112722833" list-type="enumerated" number-style="arabic" class="stepwise"><item>Make sure the measurements are in the same units. (We can’t add km to m, for example)</item>
+<item>Add or subtract the numbers as they are given to you.</item>
+<item>Round the result to the least precise place value.</item>
+<item>Label the result with the correct units. Don't forget this very important step!</item></list></note><example id="eip-872"><exercise id="eip-id1168911797156"><problem id="eip-id1168908805714"><para id="eip-139">
+  Add: 58.03 m + 11 m 
+</para></problem>
+<solution id="eip-id1168909132557"><para id="eip-id1168909132558">First add the numbers to get 69.03 m.<newline/><newline/> Then, note that 58.03 is precise to the hundredths place and 11 is precise to the ones place. <newline/><newline/>The hundredths place is more precise then the ones place, so we need to round the result to the ones place.<newline/><newline/> Thus, the final answer is 69 m.
+</para></solution></exercise></example><note id="eip-661" class="try"><label/><title>Try It</title><exercise id="eip-id2399583"><problem id="eip-id2410027"><para id="eip-id2418493">Add 24.3 ft. and 16 ft. Round the result to the least precise place value.</para></problem>
+<solution id="eip-id2441428"><para id="eip-id2445775">The answer is 40 ft. Note that this result is precise to the tens place due to the zero in the ones place. However, the key is that the result cannot be any more precise than the least precise place value of the measurements given, which indeed is the case here.</para></solution></exercise></note><example id="eip-302"><exercise id="eip-id2497859"><problem id="eip-id1164123342440"><para id="eip-402">
+  Subtract 344 cm from 48 m.
+</para></problem>
+<solution id="eip-id1164122962860"><para id="eip-id1164123234284">First, we must convert these into the same units. We can either convert the centimeters to meters or convert the meters to centimeters.<newline/><newline/> If we convert the meters to centimeters, then this will give us a subtraction problem of 4,800 cm - 344 cm.<newline/><newline/>Next, we do the subtraction, which gives us 4,456 cm.<newline/><newline/>Note that 4,800 is precise to the hundreds place and 344 is precise to the ones place. Since the hundreds place is less precise than the ones place, we round our answer to the hundreds place.<newline/><newline/>
+The final answer is 4,500 cm.</para></solution></exercise>
+</example></section>
+
+
+<section id="fs-id1964324"><title>Precision when Multiplying and Dividing Measurements, Using Significant Figures</title><para id="import-auto-id1597946">Because measurements are approximations they are rounded estimates. When multiplying or dividing by a rounded number, the result must be rounded correctly to reflect the estimation. This is done by considering the significant digits of each number.<newline/><newline/>
+For multiplication and division: The result should have the same number of significant figures as the measurement having the least significant figures entering into the calculation.<newline/></para><para id="import-auto-id2749602">When we express measured values, we can only list as many digits as we initially measured with our measuring tool. For example, if you use a standard ruler to measure the length of a stick, you may measure it to be <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" "." 7" cm"} {}</m:annotation></m:semantics></m:math>. You could not express this value as <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mtext>71</m:mtext><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" "." "71"" cm"} {}</m:annotation></m:semantics></m:math> because your measuring tool was not precise enough to measure a hundredth of a centimeter. It should be noted that the last digit in a measured value has been estimated in some way by the person performing the measurement. For example, the person measuring the length of a stick with a ruler notices that the stick length seems to be somewhere in between <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mn>6</m:mn><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" "." 6" cm"} {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" "." 7" cm"} {}</m:annotation></m:semantics></m:math>, and he or she must estimate the value of the last digit. Using the method of <term id="import-auto-id2992464">significant figures</term>, the rule is that <emphasis effect="italics"><emphasis effect="italics">the last digit written down in a measurement is the first digit with some uncertainty</emphasis></emphasis>. In order to determine the number of significant digits in a value, start with the first measured value at the left and count the number of digits through the last digit written on the right. For example, the measured value <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>36</m:mtext><m:mtext>.</m:mtext><m:mn>7</m:mn><m:mspace width="0.25em"/><m:mtext>cm</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"36" "." 7" cm"} {}</m:annotation></m:semantics></m:math> has three digits, or significant figures. Significant figures indicate the precision of a measuring tool that was used to measure a value.</para><section id="fs-id2929227">
+    <title>Zeros</title>
+    <para id="import-auto-id3369850">Special consideration is given to zeros when counting significant figures. The zeros in 0.053 are not significant, because they are only placeholders that locate the decimal point. There are two significant figures in 0.053. The zeros in 10.053 are not placeholders, but are significant — this number has five significant figures. The zeros in 1300 may or may not be significant depending on the style of writing numbers. They could mean the number is known to the last digit, or the zeros could be placeholders. So 1300 could have two, three, or four significant figures. (To avoid this ambiguity, write 1300 in scientific notation.) <emphasis><emphasis effect="italics">Zeros are significant except when they serve only as placeholders</emphasis></emphasis>.</para><para id="eip-436"><title>Rules for identifying and counting significant digits.</title>Digits that are <emphasis>significant</emphasis> are:<newline/><list id="eip-id2843423"><item>All nonzero digits, such as in 563, which has 3 significant digits.</item>
+<item>All embedded zeros, such as in 7,500.06, which has 6 significant digits.</item>
+<item>Trailing zeros after the decimal point, such as in 2.4500, which has 5 significant digits.</item></list>
+<newline/><newline/>Digits that are <emphasis>not significant</emphasis> are zeros merely used as place holders between other digits and the decimal point or isolated zeros in front of the decimal point:<newline/><list id="eip-id2843626"><item>Leading zeros, such as in 0.000008, which has only 1 significant figure.</item>
+<item>Trailing zeros before the decimal point, such as in 16000, which has 2 significant digits.</item></list><newline/><newline/></para><exercise id="eip-491"><label/><title>Check Your Understanding</title>
+    
+    <problem id="fs-id1341834">
+    <para id="import-auto-id3201026">Determine the number of significant figures in the following measurements:</para>
+    <list id="import-auto-id1570350" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>0.0009</item>
+      <item>15,450.0</item>
+      <item>87.990</item>
+      <item>30.42</item>
+    <item>2,500,000</item>
+<item>6.20 × 10<sup>3</sup></item></list>
+    </problem>
+<solution id="fs-id1309297" print-placement="here">
+
+    <para id="import-auto-id1564956">(a) 1; the zeros in this number are placeholders that indicate the decimal point</para>
+    <para id="import-auto-id1535269">(b) 6; here, the zeros indicate that a measurement was made to the 0.1 decimal point, so the zeros are significant</para>
+    
+    <para id="import-auto-id3159919">(c) 5; the final zero indicates that a measurement was made to the 0.001 decimal point, so it is significant</para>
+    <para id="import-auto-id1509461">(d) 4; any zeros located in between significant figures in a number are also significant</para><para id="eip-id1166836952276">(e) 2; the zeros here are merely placeholders</para>
+<para id="eip-id1168908023600">(f) 3; the zero here shows precision so should be counted, where as 6.2 × 10<sup>3</sup> would only have 2 significant figures</para>
+    </solution>
+    
+</exercise><list id="eip-751" list-type="enumerated" number-style="arabic" class="stepwise"><title>Steps for rounding results of multiplication or division, using significant digits:</title><item>It is okay to have different units or labels, except for some circumstances, like calculating volume.</item>
+<item>Multiply or divide the given numbers. </item>
+<item>Round the result to the lowest count of significant digits from the given numbers.</item>
+<item>Label the result correctly with proper units.</item></list><example id="eip-319"><exercise id="eip-id1168922410525"><problem id="eip-id1168922908846"><para id="eip-143">The area of a circle can be calculated from its radius using <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>A</m:mi><m:mo stretchy="false">=</m:mo><m:msup><m:mi fontstyle="italic">πr</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 10{A=πr rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.<newline/><newline/> Let's see how many significant figures the area has if the radius has only two—say, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>r</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.</m:mtext><m:mn>2</m:mn><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 10{r=1 "." 2" m"} {}</m:annotation></m:semantics></m:math>. Then,
+</para></problem>
+<solution id="eip-id2925428"><para id="eip-id2924843"><equation id="eip-id2925163"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>A</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msup>
+                          <m:mi fontstyle="italic">πr</m:mi>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          
+                        </m:msup>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mfenced open="(" close=")">
+                          <m:mrow>
+                            <m:mn>3</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>1415927</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>.</m:mtext>
+                          </m:mrow>
+                        </m:mfenced>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mfenced open="(" close=")">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mtext>.</m:mtext>
+                              <m:mn>2</m:mn>
+                              <m:mspace width="0.25em"/><m:mtext>m</m:mtext>
+                            </m:mrow>
+                          </m:mfenced>
+                          
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>4</m:mn>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>5238934</m:mtext>
+                  <m:mspace width="0.25em"/>
+                  <m:msup>
+                    <m:mtext>m</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 10{A=πr rSup { size 8{2} } = left (3 "." "1415927" "."  "."  "."  right ) times  left (1 "." 2" m" right ) rSup { size 8{2} } =4 "." "5238934"" m" rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math></equation>
+
+is what you would get using a calculator that has an eight-digit output. But because the radius has only two significant figures, it limits the calculated quantity to two significant figures or
+<equation id="eip-id1169200275612"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>A</m:mi><m:mtext> = </m:mtext><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mn>5</m:mn><m:mspace width="0.25em"/><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow><m:mtext>,</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A" = "4 "." 5" m" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></equation>even though <m:math><m:semantics><m:mrow><m:mrow><m:mi>π</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 10{π} {}</m:annotation></m:semantics></m:math> is good to at least eight digits.</para></solution></exercise></example><example id="eip-192"><exercise id="eip-id3017821"><problem id="eip-id3017785"><para id="eip-789">Multiply 458.3 cm × 0.002 cm. Round the answer using significant digits.
+</para></problem>
+<solution id="eip-id3019033"><para id="eip-id3019077">Using a calculator, we get 458.3 × 0.002 = 0.9166. Since 0.002 only has one significant digit (all the zeros are placeholders), we must round the answer to 0.9. The final answer, including units, is 0.9 cm<sup>2</sup>.</para></solution></exercise>
+</example><example id="eip-309"><exercise id="eip-id8018064"><problem id="eip-id2566574"><para id="eip-385">
+  Divide: 850 mL ÷ 60 min. Round the result using significant digits.
+</para></problem>
+<solution id="eip-id3036668"><para id="eip-id1171705858378">Using the calculator, 850 ÷ 60 = 14.66666... Since 60 has only one significant digit, which is the lowest number of significant digits between the two numbers, so must the answer. Thus, the final answer, including units is 10 mL/min.</para></solution></exercise>
+</example><note id="eip-722" class="try"><label/><title>Try It</title>
+<exercise id="eip-id1168920763119"><problem id="eip-id1168910644218"><para id="eip-id1168908702536">Divide: 45.6 yd<sup>2</sup> ÷ 9.1 yd. Round the result using significant figures.</para></problem>
+<solution id="eip-id1168907346644"><para id="eip-id1168904100333">Using a calculator, 45.6 ÷ 9.1 = 5.010989011... Since 9.1 has the smallest number of significant digits, namely 2, so must the answer. Thus, the final answer, including units, is 5.0 yd.</para></solution></exercise></note></section>
+
+    <section id="fs-id2657594">    
+<title>Significant Figures in this Text</title><para id="import-auto-id3165710">In this text, you only need to use these rules when specifically asked to do so. Furthermore, other examples and solutions to homework exercises will not necessarily follow these same rules. Whether you need to follow the rules of rounding with precision in your career will depend on your field.</para></section>
+
+</section><section id="fs-id1363145" class="section-summary" type="section-summary">
+    <title>Summary</title>
+    <list id="fs-id2635416"><item id="import-auto-id2581141">Accuracy of a measured value refers to how close a measurement is to the correct value.</item>
+    <item id="import-auto-id3204227">Precision of measured values is based on the last place value.</item>
+    <item id="import-auto-id2921036">The precision of a <emphasis effect="italics"><emphasis effect="italics">measuring tool</emphasis></emphasis> is related to the size of its measurement increments. The smaller the measurement increment, the more precise the tool.</item>
+    <item id="import-auto-id1287163">Significant figures express the precision of a measuring tool.</item>
+<item id="import-auto-id1583780">When adding or subtracting measured values, the final answer cannot contain more decimal places than the least precise value.</item>
+    <item id="import-auto-id2688249">When multiplying or dividing measured values, the final answer can contain only as many significant figures as the value with the least number of significant figures.</item>
+    
+    </list></section>
+
+
+<section id="fs-id1570825" class="section-exercises"><title>Homework</title><para id="import-auto-id1958096"><emphasis>Express your answers to problems in this section to the correct number of significant figures or least precise place value and remember to include proper units.</emphasis>    </para><exercise id="fs-id2131067"><problem id="fs-id1511754">
+    <para id="import-auto-id2589301">Add 0.08 g and 132 mg.</para></problem>
+    <solution id="fs-id888279">
+    <para id="import-auto-id2596708">210 mg or 0.21 g</para></solution></exercise>
+    <exercise id="fs-id1246911"><problem id="fs-id1347190">
+    <para id="import-auto-id3205346">Find the difference: 4.05 L – 1.9 L.</para></problem></exercise>
+    <exercise id="fs-id2773103"><problem id="fs-id2765366">
+    <para id="import-auto-id1532973">Multiply: 6.1 m × 8 m × 5.02 m </para></problem>
+    <solution id="fs-id923761"><para id="eip-id1171889023331">
+    200 m<sup>3</sup></para></solution></exercise><exercise id="fs-id3107170"><problem id="fs-id1563556">
+    <para id="import-auto-id3204311">Multiply: 27 miles × 3.0 miles </para></problem></exercise>
+<exercise id="fs-id1359647"><problem id="fs-id1487162">
+    <para id="import-auto-id1341946">Multiply: 12.6 kg × 0.25 hr.</para></problem>    
+<solution id="fs-id1671653">
+    
+    <para id="import-auto-id3142483">3.2 kg-hr.</para></solution>
+    </exercise>
+<exercise id="fs-id1001291"><problem id="fs-id1514014">
+    <para id="import-auto-id920216">Calculate: 56.4 m + 23 m – 10 m</para></problem></exercise>  
+<exercise id="fs-id882742"><problem id="fs-id1488144">  
+<para id="import-auto-id2749708">Subtract: 1098 mi. – 940 mi.</para>
+</problem>
+<solution id="fs-id2515401"><para id="eip-id3062821">160 mi.</para></solution>
+    </exercise><exercise id="fs-id1954504"><problem id="fs-id2601765">
+    <para id="import-auto-id2719586">Subtract: 62.5 yd. − 8 yd. </para></problem></exercise>
+<exercise id="fs-id2675538"><problem id="fs-id3190594">
+    <para id="import-auto-id3094968">25 milligrams divided by 12 pills </para></problem>    
+<solution id="fs-id2575747">
+    <para id="import-auto-id2768487">2.1 mg/pill</para></solution></exercise><exercise id="eip-626"><problem id="fs-id888555">
+    <para id="eip-idm326908800">Multiply: (3.21 cm)(4.1 cm)  </para></problem>
+
+</exercise>
+</section></content>
+</document>

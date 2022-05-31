@@ -1,0 +1,339 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Multiply and Divide Mixed Numbers</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64904</md:content-id>
+  <md:title>Multiply and Divide Mixed Numbers</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Multiply mixed numbers</item>
+<item>Divide mixed numbers</item>
+</list></md:abstract>
+  <md:uuid>584b604f-4d5c-4297-96cb-4a1b32d80572</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-917"><title>Learning Objectives</title><para id="eip-905">
+By the end of this section, you will be able to:
+<list id="eip-idm211551120">
+<item>Multiply mixed numbers.</item>
+<item>Divide mixed numbers.</item>
+</list>
+</para></section><section id="fs-id2755049">
+<title>Multiply and Divide Mixed Numbers</title>
+<para id="fs-id3324529">In the previous section, you learned how to multiply and divide fractions. All of the examples there used either proper or improper fractions. What happens when you are asked to multiply or divide mixed numbers? Remember that we can convert a <term class="no-emphasis">mixed number</term> to an <term class="no-emphasis">improper fraction</term>. </para><example id="fs-id2484501"><exercise id="fs-id2485730"><problem id="fs-id1785292">
+<para id="fs-id2775569">Multiply: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2466575">
+
+<table id="eip-id1168469856328" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Convert <m:math><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math> to an improper fraction.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>10</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Look for common factors.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Remove common factors.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:math></entry></row> 
+  <row>
+    <entry>Rewrite as a mixed number.</entry>
+    <entry><m:math><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>12</m:mn></m:mfrac></m:math></entry>
+  </row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="fs-id2828350">We give our final answer as a mixed number since we were given a mixed number in the original problem.</para></solution>
+</exercise></example><note id="fs-id2340911" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1511665">
+<problem id="fs-id3399510">
+<para id="fs-id1919494">Multiply, and write your answer in simplified form: <m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mrow><m:mn>17</m:mn></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1384120">
+<para id="fs-id1823179">2</para>
+</solution>
+</exercise>
+</note><note id="fs-id1580818" class="try"><label/><title>Try It</title>
+<exercise id="fs-id4211388">
+<problem id="fs-id1893813">
+<para id="fs-id1151673">Multiply, and write your answer in simplified form: <m:math><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1549311">
+<para id="fs-id2382545"><m:math><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+</note><note id="fs-id1967071" class="howto"><label/><title>To Multiply or divide mixed numbers</title>
+<list id="eip-id1168468257930" list-type="enumerated" number-style="arabic" class="stepwise"><item>Convert the mixed numbers to improper fractions.</item>
+<item>Follow the rules for fraction multiplication or division.</item>
+<item>Simplify if possible.</item>
+</list></note><example id="fs-id1409316"><exercise id="fs-id3445945"><problem id="fs-id2650157">
+<para id="fs-id872283">Multiply, and write your answer in simplified form: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2789492">
+
+
+<table id="eip-id1168468531210" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo></m:math></entry></row>
+<row>
+  <entry>Convert mixed numbers to improper fractions.</entry>
+  <entry><m:math><m:mfrac><m:mrow><m:mn>14</m:mn></m:mrow><m:mn>5</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>14</m:mn><m:mo>·</m:mo><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>8</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Look for common factors.</entry>
+  <entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>5̸</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow><m:mrow><m:mn>5̸</m:mn><m:mo>·</m:mo><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Remove common factors.</entry>
+  <entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mspace width="0.2em"/><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>3</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mrow><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mspace width="0.2em"/><m:mn>21</m:mn></m:mrow><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+  <row>
+    <entry>Rewrite as a mixed number.</entry>
+    <entry><m:math><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:math></entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example><note id="fs-id1767395" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2436830">
+<problem id="fs-id1308856">
+<para id="fs-id2159595">Multiply, and write your answer in simplified form. <m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>(</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1858347">
+<para id="fs-id4877123">15</para>
+</solution>
+</exercise>
+</note><note id="fs-id3327351" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1950660">
+<problem id="fs-id2296558">
+<para id="fs-id2340144">Multiply, and write your answer in simplified form. <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1549181">
+<para id="fs-id1632017"><m:math><m:mn>14</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+</note><example id="fs-id1805514"><exercise id="fs-id2265821"><problem id="fs-id2751190">
+<para id="fs-id2280989">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1919341">
+
+<table id="eip-id1168467104894" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn></m:math></entry></row>
+<row>
+  <entry>Convert mixed numbers to improper fractions.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mfrac><m:mn>5</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply the first fraction by the reciprocal of the second.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Look for common factors.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5̸</m:mn><m:mo>·</m:mo><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow><m:mrow><m:mn>7</m:mn><m:mo>·</m:mo><m:mn>5̸</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Remove common factors.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>1</m:mn></m:mrow><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+</tbody>
+
+
+
+
+</tgroup>
+</table>
+
+</solution>
+</exercise></example><note id="fs-id4153372" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1602109">
+<problem id="fs-id1951786">
+<para id="fs-id2216358">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>7</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1166761301236">
+<para id="fs-id2279767"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><note id="fs-id3016848" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1854628">
+<problem id="fs-id2692103">
+<para id="fs-id1587464">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>3</m:mn><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3407358">
+<para id="fs-id2684908"><m:math><m:mrow><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><example id="fs-id1516809"><exercise id="fs-id3231419"><problem id="fs-id1799865">
+<para id="fs-id2140640">Divide: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1804189">
+
+
+<table id="eip-id1168468240496" class="unnumbered unstyled" summary="."><label/>
+<tgroup cols="2"><tbody>
+<row>
+  <entry/>
+  <entry><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Convert mixed numbers to improper fractions.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply the first fraction by the reciprocal of the second.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Multiply.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5</m:mn><m:mo>·</m:mo><m:mn>4</m:mn></m:mrow><m:mrow><m:mn>2</m:mn><m:mo>·</m:mo><m:mn>5</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Look for common factors.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mrow><m:mn>5̸</m:mn><m:mo>·</m:mo><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>2</m:mn></m:mrow><m:mrow><m:mn>2̸</m:mn><m:mo>·</m:mo><m:mn>1</m:mn><m:mo>·</m:mo><m:mn>5̸</m:mn></m:mrow></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Remove common factors.</entry>
+  <entry><m:math><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>1</m:mn></m:mfrac></m:mrow></m:math></entry></row>
+<row>
+  <entry>Simplify.</entry>
+  <entry><m:math><m:mn>2</m:mn></m:math></entry></row>
+</tbody>
+
+
+
+</tgroup>
+</table>
+
+</solution>
+</exercise></example><note id="fs-id1929302" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2376925">
+<problem id="fs-id2261647">
+<para id="fs-id2949338">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2601459">
+<para id="fs-id3014895"><m:math><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+</note></section>
+<section id="fs-id2261289" class="key-concepts">
+<title>Key Concepts</title>
+<list id="eip-604"><item><emphasis>Multiply or divide mixed numbers.</emphasis><list id="eip-id1170326533660" list-type="enumerated" number-style="arabic" class="stepwise"><item>Convert the mixed numbers to improper fractions.</item>
+<item>Follow the rules for fraction multiplication or division.</item>
+<item>Simplify if possible.</item></list></item>
+</list></section>
+<section id="fs-id2789054" class="section-exercises">
+<section id="fs-id1208814" class="practice-perfect"><title>Homework</title><para id="fs-id1752868"><emphasis effect="bold">Multiply and Divide Mixed Numbers</emphasis> </para><para id="eip-246">In the following exercises, multiply and write the answer as a mixed number in simplified form.</para><exercise id="fs-id1714635">
+<problem id="fs-id1239213">
+<para id="fs-id1370923"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1604577">
+<problem id="fs-id2392222">
+<para id="fs-id1977253"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1565308">
+<para id="fs-id2085045"><m:math><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>21</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1717141">
+<problem id="fs-id1564866">
+<para id="fs-id1833715"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>15</m:mn></m:mrow><m:mrow><m:mn>22</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1633040">
+<problem id="fs-id1500115">
+<para id="fs-id1596823"><m:math><m:mrow><m:mfrac><m:mrow><m:mn>25</m:mn></m:mrow><m:mrow><m:mn>36</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mn>6</m:mn><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id930078">
+<para id="fs-id2637027"><m:math><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<exercise id="fs-id1750322">
+<problem id="fs-id1971919">
+<para id="fs-id2241292"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id1406091">
+<problem id="fs-id2626794">
+<para id="fs-id1545248"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2205738">
+<para id="fs-id1739678"><m:math><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2924694">
+<problem id="fs-id2276973">
+<para id="fs-id2310581"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>5</m:mn><m:mfrac><m:mrow><m:mn>13</m:mn></m:mrow><m:mrow><m:mn>16</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id4876849">
+<problem id="fs-id1956839">
+<para id="fs-id2206207"><m:math><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>20</m:mn></m:mrow></m:mfrac><m:mo>·</m:mo><m:mn>2</m:mn><m:mfrac><m:mrow><m:mn>11</m:mn></m:mrow><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id2751910">
+<para id="fs-id1906083"><m:math><m:mn>3</m:mn><m:mfrac><m:mn>15</m:mn><m:mn>16</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<para id="fs-id1736512">In the following exercises, divide, and write your answer as a mixed number in simplified form.</para><exercise id="fs-id1265553">
+<problem id="fs-id2325398">
+<para id="fs-id2174370"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>4</m:mn></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1723035">
+<problem id="fs-id1224915">
+<para id="fs-id2172014"><m:math><m:mrow><m:mn>13</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>9</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1630988">
+<para id="fs-id1470520"><m:math><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2436827">
+<problem id="fs-id2707964">
+<para id="fs-id2300298"><m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mrow><m:mn>11</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2907584">
+<problem id="fs-id1977698">
+<para id="fs-id1906589"><m:math><m:mrow><m:mn>7</m:mn><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id3445994">
+<para id="fs-id1842468"><m:math><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+<exercise id="fs-id2851133">
+<problem id="fs-id2494706">
+<para id="fs-id1762353"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise>
+<exercise id="fs-id1813805">
+<problem id="fs-id1529110">
+<para id="fs-id3011333"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1165958">
+<para id="fs-id2789043">2</para>
+</solution>
+</exercise>
+<exercise id="fs-id2318582">
+<problem id="fs-id1525608">
+<para id="fs-id2219927"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+</exercise>
+<exercise id="fs-id2648831">
+<problem id="fs-id2212304">
+<para id="fs-id1774853"><m:math><m:mrow><m:mn>18</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mspace width="0.2em"/><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">)</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2777560">
+<para id="fs-id2369690">5</para>
+</solution>
+</exercise>
+</section></section>
+</content>
+
+</document>

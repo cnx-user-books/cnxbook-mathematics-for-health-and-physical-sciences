@@ -1,0 +1,114 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Conversions Involving Density</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62696</md:content-id>
+  <md:title>Conversions Involving Density</md:title>
+  <md:abstract/>
+  <md:uuid>50e72f80-508c-4384-99f6-3718d6cfc1f3</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-677"><title>Learning Objectives</title><para id="eip-285">
+By the end of this lesson, you will be able to use dimensional analysis to:
+</para>
+<list id="eip-id1172301866627">
+<item>Find the mass of an object, given its density and volume.</item>
+<item>Find the volume of an object, given its density and mass.</item></list></section><para id="eip-926">Recall, that in <link document="m62558"> Applications of Proportions</link>, you learned to solve density problems using proportions. Now, we will look at the same types of density problems, but we will solve them using dimensional analysis.<newline/><newline/>
+
+One benefit of using dimensional analysis to solve density problems is that sometimes we want to find the mass in units other than grams or the volume in units other than mL or cc. Since density is usually given in g/mL or g/cc, using dimensional analysis allows us to not only find the mass or volume, but also convert into different units, all in the same process. It's also useful when the volume or mass that is given is not in mL or g respectively.<newline/><newline/></para><example id="eip-351"><exercise id="eip-id1166108727136"><problem id="eip-id1166091454705"><para id="eip-138">
+What is the mass of a block measuring a volume of 2.8 cc and density of 2.54 g/cc?
+</para></problem>
+<solution id="eip-id1170220075452"><para id="eip-id1170243486003">To use dimensional analysis for this type of problem, you would start with the given volume, written as a ratio, and then use the density as a unit ratio, writing it in such a way that the correct units will cross cancel.<newline/><newline/>
+<media id="eip-id1170216742933" alt="density rate"><image src="../../media/density rate 1.PNG" mime-type="image/png" width="240"/></media></para></solution>
+
+</exercise>
+
+</example><example id="eip-407"><exercise id="eip-id1170220364608"><problem id="eip-id1170217702140"><para id="eip-111">
+Given a density of 3.2 g/cc and a known mass of 8.0 g, find the volume. 
+</para></problem>
+<solution id="eip-id1170223905743"><para id="eip-id7491802">To use dimensional analysis for this type of problem, you would start with the given mass, written as a ratio, and then use the density as a unit ratio, writing it in such a way that the correct units will cross cancel.<newline/><newline/><media id="eip-id1170222089242" alt="density rate"><image src="../../media/density rate 2.PNG" mime-type="image/png" width="240"/></media></para></solution></exercise></example><example id="eip-470"><exercise id="eip-id1003416"><problem id="eip-id990027"><para id="eip-647">Given a density of gold as 19.3 g/cc, find the mass of 200 cc of gold in <emphasis>kilograms</emphasis>.<newline/>
+</para></problem>
+
+
+
+<solution id="eip-id1166105421680"><media id="eip-id6614475" alt="density rate"><image src="../../media/density rate 3.PNG" mime-type="image/png" width="300"/></media></solution></exercise></example><example id="eip-294"><exercise id="eip-id1171768791464"><problem id="eip-id1171774715055"><para id="eip-859">
+If the density of gasoline is 0.675 g/cc find the weight of a gallon of gasoline. 
+</para></problem>
+<solution id="eip-id1171763866532"><para id="eip-id1171760164071">Since the given weight is in gallons, rather than grams, we start by converting the gallons into grams, and then we can use the density rate to finish the conversion.<newline/><newline/>
+<media id="eip-id1171771332920" alt="density rate"><image src="../../media/density rate 4.PNG" mime-type="image/png" width="480"/></media></para></solution></exercise>
+</example>
+
+<section id="eip-863" class="free response"><title>Homework</title><para id="eip-971">
+For the following exercises, use dimensional analysis to find the answer.
+</para><exercise id="eip-928"><problem id="eip-832">
+  <para id="eip-264">
+Given a volume of 32 cc of mercury and given the density of mercury to be 13.6 g/cc, find the weight. 
+  </para>
+</problem>
+
+<solution id="eip-281" print-placement="end">
+  <para id="eip-902">
+   435.2 g
+  </para>
+</solution>
+</exercise><exercise id="eip-350"><problem id="eip-732">
+  <para id="eip-455">
+Given the density is 3.72 g/cc and the volume is 15 cc, find the mass.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-471"><problem id="eip-704">
+  <para id="eip-960">
+Given a density of  0.75 g/cc and a known mass of 1.2 g, find the volume. 
+  </para>
+</problem>
+
+<solution id="eip-626" print-placement="end">
+  <para id="eip-143">
+1.6 cc
+  </para>
+</solution>
+</exercise><exercise id="eip-13"><problem id="eip-552">
+  <para id="eip-176">
+ If the density of glass is 2.2 g/cc at room temperature find the volume of a piece of glass weighing 1500 g.
+  </para>
+</problem>
+</exercise><exercise id="eip-250"><problem id="eip-571">
+  <para id="eip-541">
+What is the volume of 15 kg of water?  Use both mL and liters. (Remember that water has a density of 1 g/cc or 1 g/mL.)
+  </para>
+</problem>
+
+<solution id="eip-123" print-placement="end">
+  <para id="eip-58">
+ 15,000 mL = 15 L
+  </para>
+</solution>
+</exercise><exercise id="eip-692"><problem id="eip-620">
+  <para id="eip-287">
+Find the volume of a 45 g object with a density of 2.75 g/cc.
+  </para>
+</problem>
+
+</exercise><exercise id="eip-343"><problem id="eip-985">
+  <para id="eip-221">
+ What is the mass of an object measuring a volume of 56 cc and having a density of 1.12 g/cc?
+  </para>
+</problem>
+
+<solution id="eip-672" print-placement="end">
+  <para id="eip-210">
+ 62.72 g
+  </para>
+</solution>
+</exercise><exercise id="eip-38"><problem id="eip-634">
+  <para id="eip-705">
+What is the volume of an object weighing 125 grams and having a density of 4.8 g/cc?
+  </para>
+</problem>
+
+
+</exercise></section></content>
+
+</document>

@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64928</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>bce3997b-b07a-4e18-b427-4f264c223674</md:uuid>
+</metadata>
+
+<content>
+
+<figure id="CNX_ElemAlg_Figure_02_00_001" class="splash"><media id="fs-id1166503473429" alt=".">
+<image mime-type="image/jpeg" src="../../media/Figure_01_03_02.jpg" print-width="6in" width="650"/>
+</media>
+
+<caption>Many mechanical balances, such as double-pan balances, have been replaced by digital scales, which can typically measure the mass of an object more precisely. Whereas a mechanical balance may only read the mass of an object to the nearest tenth of a gram, many digital scales can measure the mass of an object up to the nearest thousandth of a gram. (credit: Karel Jakubec)</caption></figure><para id="fs-id1166503226544">In this chapter, one of the things we will learn about is accuracy and precision in measurements and how that affects your calculations.</para></content>
+</document>

@@ -1,0 +1,378 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML"><title>Review: Operations with Mixed Numbers</title><metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64920</md:content-id>
+  <md:title>Review: Operations with Mixed Numbers</md:title>
+  <md:abstract>This is a brief review of performing the basic operations between mixed numbers.</md:abstract>
+  <md:uuid>7aa3ccf4-9377-40be-956a-c924200867d6</md:uuid>
+</metadata>
+
+<content><section id="fs-id20400520">      <title>Learning Objectives</title><para id="eip-243">By the end of this lesson, you will be able to:</para><list id="fs-id12242180" list-type="bulleted"><item>Multiply and divide mixed numbers.</item>
+<item>Add and subtract mixed numbers with common denominators.</item>
+<item>Add and subtract mixed numbers with different denominators.</item>		      </list></section><section id="fs-id19725602"><title>Multiply and Divide Mixed Numbers</title><para id="fs-id20383459" class="highlight">In the previous section, you learned how to multiply and divide fractions. All of the examples there used either proper or improper fractions. What happens when you are asked to multiply or divide mixed numbers? Remember that we can convert a <term class="no-emphasis">mixed number</term> to an <term class="no-emphasis">improper fraction</term>. <newline/><newline/></para><list id="eip-385" list-type="enumerated" number-style="arabic" class="stepwise"><title>To Multiply or Divide Mixed Numbers</title><item> Convert the mixed numbers to improper fractions.</item>
+<item> Follow the rules for fraction multiplication or division.</item>
+<item> Simplify if possible.</item>
+</list><example id="fs-id20432090"><exercise id="eip-idm1837498320"><problem id="fs-id1785292">
+<para id="fs-id2775569">Multiply: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math><newline/><newline/></para>
+</problem>
+<solution id="fs-id2466575">
+<para id="eip-idm301945280"><media id="eip-idm400925312" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 1 for 1.3.png" print-width="3.5in" width="380"/></media></para></solution>
+</exercise></example><note id="eip-857" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1950660">
+<problem id="fs-id2296558">
+<para id="fs-id2340144">Multiply, and write your answer in simplified form. <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1549181">
+<para id="fs-id1632017"><m:math><m:mn>14</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+</note><example id="eip-547"><exercise id="eip-idm311831648"><problem id="fs-id2650157">
+<para id="fs-id872283">Multiply, and write your answer in simplified form: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo></m:mrow></m:math>.<newline/><newline/></para>
+</problem>
+<solution id="fs-id2789492">
+<media id="eip-idm557199440" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 2 for 1.3.png" print-width="4in" width="420"/></media></solution>
+</exercise></example><note id="eip-601" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2436830">
+<problem id="fs-id1308856">
+<para id="fs-id2159595">Multiply, and write your answer in simplified form:  <m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>(</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1858347">
+<para id="fs-id4877123">15</para>
+</solution>
+</exercise>
+</note><example id="eip-502"><exercise id="eip-idm567207136"><problem id="fs-id2751190">
+<para id="eip-idm489438464">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>5</m:mn></m:mrow></m:math>.<newline/><newline/></para>
+</problem>
+<solution id="fs-id1919341">
+<media id="eip-idm848730768" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 3 for 1.3.png" print-width="4.3in" width="450"/></media>
+</solution>
+</exercise></example><note id="eip-760" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1602109">
+<problem id="fs-id1951786">
+<para id="fs-id2216358">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>7</m:mn></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1166761301236">
+<para id="fs-id2279767"><m:math><m:mrow><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><example id="eip-27"><exercise id="eip-idm314280816"><problem id="fs-id1799865">
+<para id="eip-idm345585664">Divide: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para>
+</problem>
+<solution id="fs-id1804189">
+
+<media id="eip-idm449775856" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 4 for 1.3.png" print-width="4.3in" width="450"/></media>
+</solution>
+</exercise></example><note id="eip-192" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2376925">
+<problem id="fs-id2261647">
+<para id="fs-id2949338">Divide, and write your answer in simplified form: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id2601459">
+<para id="fs-id3014895"><m:math><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math></para></solution>
+</exercise>
+</note></section><section id="fs-id15293164"><title>Add Mixed Numbers with a Common Denominator</title><list id="eip-947" list-type="enumerated" number-style="arabic" class="stepwise"><title>To Add Mixed Numbers with a Common Denominator</title><item>Add the whole numbers.</item>
+<item>Add the fractions.</item>
+<item>Simplify, if possible.</item></list><example id="eip-561"><exercise id="fs-id2145076"><problem id="fs-id2691167">
+<para id="eip-idm240251488">Add: <m:math><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id1336626">
+
+
+<table id="eip-id1168467315461" class="unnumbered unstyled" summary="The top line says 3 and four-ninths plus 2 and two-ninths. The next line says, “Add the whole numbers,” and shows 3 in red next to four-ninths and 2 in red next to two-ninths with a line below the numbers. Below the line is a red 5. The next line says, “Add the fractions,” and shows 3 next to a red four-ninths and 2 next to a red two-ninths with a line below the numbers. There is a 5 below the whole numbers next to a red six-ninths. The last step says, “Simplify the fraction,” and shows the problem again with a red 5 and six-ninths which equals 5 and two-thirds."><label/>
+<tgroup cols="2" rowsep="2"><tbody>
+ <row>
+   <entry/>
+   <entry align="center"><m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></entry>
+ </row>
+ <row>
+   <entry>Add the whole numbers.</entry>
+   <entry valign="middle"><media id="eip-id1168467123080" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_017-01.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Add the fractions.</entry>
+   <entry><media id="eip-id1168467184698" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_017-02.png"/></media></entry>
+ </row>
+ <row>
+   <entry>Simplify the fraction.</entry>
+   <entry><media id="eip-id1168468282563" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_017-03.png"/></media></entry>
+ </row>  
+</tbody>
+
+
+
+</tgroup>
+</table></solution>
+</exercise></example><note id="eip-935" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2702128">
+<problem id="fs-id764693">
+<para id="fs-id1950139">Find the sum: <m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id2775066">
+<para id="fs-id1854776"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise></note><example id="eip-323"><exercise id="eip-idm485719936"><problem id="fs-id929478">
+<para id="fs-id2630333">Find the sum: <m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id1960546">
+<media id="eip-idm2221883824" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 5 for 1.3.png" print-width="4in" width="420"/></media></solution>
+</exercise>
+</example><note id="eip-39" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1885824">
+<problem id="fs-id2241352">
+<para id="fs-id2443887">Find the sum: <m:math><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>7</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id2220297">
+<para id="fs-id2493838"><m:math><m:mrow><m:mn>16</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise></note><para id="eip-78">An alternate method for adding mixed numbers is to convert the mixed numbers to improper fractions and then add the improper fractions. This method is usually written horizontally.</para><example id="eip-416"><exercise id="eip-idm263578640"><problem id="fs-id3413960">
+<para id="fs-id3408000">Add by converting the mixed numbers to improper fractions: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id2211478">
+
+<media id="eip-idm1194249136" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 6 for 1.3.png" print-width="3.5in" width="380"/></media>
+</solution>
+</exercise></example><note id="eip-16" class="try"><label/><title>Try It</title>
+<exercise id="fs-id4875619">
+<problem id="fs-id2597479">
+<para id="fs-id2299702">Find the sum by converting the mixed numbers to improper fractions:
+ <m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1270568">
+<para id="fs-id1628343"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note></section><section id="fs-id17060938"><title>Subtract Mixed Numbers with a Common Denominator</title><note id="eip-279"><label/><title>To Subtract Mixed Numbers with a Common Denominator</title>
+<list id="eip-306" list-type="enumerated" number-style="arabic" class="stepwise"><item>Rewrite the problem in vertical form.</item>
+<item>Compare the two fractions.<list id="eip-id1170322757770" type="bulleted"><item>If the top fraction is larger than the bottom fraction, go to Step 3.</item><item>If not, in the top mixed number, take one whole and add it to the fraction part, making a mixed number with an improper fraction.</item></list></item>
+
+<item>Subtract the fractions.</item>
+<item>Subtract the whole numbers.</item>
+<item>Simplify, if possible.</item></list></note><example id="eip-287"><exercise id="fs-id1393338"><problem id="fs-id1960506">
+<para id="fs-id1288064">Find the difference: <m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id2670319">
+
+<table id="eip-id1168468520831" class="unnumbered unstyled" summary="The top line says 5 and 3 fifths minus 2 and 4 fifths. The next line says to rewrite the problem in vertical form and shows 5 and 3 fifths above 2 and 4 fifths. The next line says, “Since 3 fifths is less than 4 fifths, take 1 from the 5 and add it to the 3 fifths: 5 fifths plus 3 fifths equals 8 fifths.” Beside this, in red, it shows 5 and 3 fifths with an arrow to the right to 4 and 8 fifths. Both are vertical subtraction problems with minus 2 and 4 fifths. The next line says to subtract the fractions. 4 and a red 8 fifths minus 2 and a red 4 fifths is shown with a red 4 fifths below. The next line says to subtract the whole parts. A red 4 and 8 fifths minus a red 2 and 4 fifths equals 2 and 4 fifths. The last line indicates that the result is in simplest form."><label/>
+<tgroup cols="2"><tbody>
+ <row>
+   <entry/>
+   <entry><media id="eip-id1165721344255" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_014_img-01.png"/></media></entry>
+ </row>  
+ <row>
+   <entry>Rewrite the problem in vertical form.</entry>
+  <entry><media id="eip-id1165722294497" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_014_img-02.png"/></media></entry>
+  </row> 
+ <row>
+   <entry>Since <m:math><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:math> is less than <m:math><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:math>, take 1 from the 5 and add it to the <m:math><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>:</m:mo><m:mo>(</m:mo><m:mfrac><m:mn>5</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mn>8</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>)</m:mo></m:math></entry>
+   <entry><media id="eip-id1168468369099" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_014_img-03.png"/></media></entry>
+ </row> 
+ <row>
+   <entry>Subtract the fractions.</entry>
+   <entry><media id="eip-id1168468710228" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_014_img-04.png"/></media></entry>  
+ </row>
+ <row>
+   <entry>Subtract the whole parts.<newline/>
+The result is in simplest form.</entry>
+   <entry><media id="eip-id1168468528367" alt="."><image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_014_img-05.png"/></media></entry>
+ </row>  
+</tbody>
+
+
+
+</tgroup>
+</table><para id="fs-id1727937">Since the problem was given with mixed numbers, we leave the result as a mixed number.</para>
+</solution>
+</exercise></example><note id="eip-702" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1892563">
+<problem id="fs-id835663">
+<para id="fs-id1519058">Find the difference: <m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1943850">
+<para id="fs-id2319009"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note><para id="eip-242">Just as we did with addition, we could subtract mixed numbers by converting them first to improper fractions. We should write the answer in the form it was given, so if we are given mixed numbers to subtract we will write the answer as a <term>mixed number</term>.</para><example id="eip-528"><exercise id="eip-idm1746681120"><problem id="fs-id1730889">
+<para id="fs-id1563123">Find the difference by converting to improper fractions: <m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>6</m:mn><m:mn>11</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>7</m:mn><m:mfrac><m:mn>10</m:mn><m:mn>11</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para>
+</problem>
+<solution id="fs-id1828927">
+
+
+<media id="eip-idm385513248" alt="." display="block"><image mime-type="image/png" src="../../media/Figure 7 for 1.3.png" print-width="3in" width="300"/></media>
+</solution>
+</exercise>
+</example><note id="eip-512" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1904683">
+<problem id="fs-id4316039">
+<para id="fs-id1572134">Find the difference by converting the mixed numbers to improper fractions:
+ <m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id1973773">
+<para id="fs-id2378225"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note></section><section id="fs-id13578785"><title>Add and Subtract Mixed Numbers with Different Denominators</title><para id="fs-id17942247">To add or subtract mixed numbers with different denominators, we first convert the fractions to equivalent fractions with the LCD. Then we can follow all the steps we used above for adding or subtracting fractions with like denominators.<newline/><newline/></para><example id="eip-237"><exercise id="fs-id2196240"><problem id="fs-id1795810">
+<para id="fs-id2484224">Add: <m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id2657439">
+
+<para id="fs-id2311422">Since the denominators are different, we rewrite the fractions as equivalent fractions with the LCD, <m:math><m:mn>6</m:mn></m:math>. Then we will add and simplify.</para>
+<para id="fs-id1167906525963"><media id="fs-id1969209" alt="There are three vertical addition problems. The first shows 2 and 1 half plus 5 and 2 thirds. There is an arrow pointing to the next. This one shows 2 and 1 times a red 3 over 2 times a red 3, with an arrow pointing to the top red 3 that says, “Change into equivalent,” plus 5 and 2 times a red 2 over 3 times a red 2. There is an arrow pointing to the next. This one shows 2 and 3 sixths plus 5 and 4 sixths equals 7 and 7 sixths. Below are instructions to add and rewrite in simplest form. There is an arrow pointing to a red 8 and 1 sixth.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_015_img.jpg" print-width="5in" width="580"/>
+</media></para><para id="fs-id2481473">We write the answer as a mixed number because we were given mixed numbers in the problem.</para>
+</solution>
+</exercise></example><note id="eip-855" class="try"><label/><title>Try It</title>
+<exercise id="fs-id1787305">
+<problem id="fs-id1040829">
+<para id="fs-id2138304">Add: <m:math><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id2270033">
+<para id="fs-id1578278"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>12</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise></note><note id="eip-158" class="try"><label/><title>Try It</title>
+<exercise id="eip-idm1627622848">
+<problem id="eip-idm428904176">
+<para id="eip-idm370580992">Add: <m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="eip-idm357408352">
+<para id="eip-idm1757267920"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>24</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise></note><example id="eip-389"><exercise id="fs-id2471534"><problem id="fs-id3274098">
+<para id="fs-id1762489">Subtract: <m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math>.<newline/><newline/></para></problem>
+<solution id="fs-id1530864">
+
+<para id="fs-id1250060">Since the denominators of the fractions are different, we will rewrite them as equivalent fractions with the LCD <m:math><m:mn>8</m:mn><m:mo>.</m:mo></m:math> Once in that form, we will subtract. But we will need to borrow <m:math><m:mn>1</m:mn></m:math> first.</para>
+<para id="fs-id1167906343570"><media id="fs-id4211932" alt="There are four vertical subtraction problems. The first shows 4 and 3 fourths minus 2 and 7 eighths. There is an arrow pointing to the next. This shows 4 and 3 times a red 2 over 4 times a red 2, with an arrow above saying, “change into equivalent,” minus 2 and 7 eighths. There is an arrow pointing to the next. This shows 4 and 6 eighths minus 2 and 7 eighths. There is an arrow pointing to the next. It says to borrow 1 whole from the 4, since we cannot subtract 7 eighths from 6 eighths, and shows 3 and 14 eighths minus 2 and 7 eighths equals 1 and 7 eighths.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_04_06_016_img.jpg" print-width="5in" width="580"/>
+</media></para><para id="fs-id2261975">We were given mixed numbers, so we leave the answer as a mixed number.</para>
+</solution>
+</exercise>
+</example><note id="eip-682" class="try"><label/><title>Try It</title>
+<exercise id="fs-id2205455">
+<problem id="fs-id1572191">
+<para id="fs-id2423635">Find the difference: <m:math><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math>.</para>
+</problem>
+<solution id="fs-id2214512">
+<para id="fs-id1881864"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise>
+</note></section><section id="fs-id12754549" class="section-exercises"><title>Homework</title><para id="eip-607"><emphasis>Multiply and Divide Mixed Numbers</emphasis></para><para id="fs-id19265689">In the following exercises, multiply or divide and write the answer as a proper fraction, whole number, or mixed number, in simplified form.</para><exercise id="fs-id5707455"><problem id="fs-id2392222">
+<para id="fs-id1977253"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>·</m:mo><m:mfrac><m:mn>6</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1565308">
+<para id="fs-id2085045"><m:math><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>21</m:mn></m:mfrac></m:math></para></solution>
+</exercise><exercise id="fs-id10728219"><problem id="fs-id1564866">
+<para id="fs-id1833715"><m:math><m:mrow><m:mfrac><m:mn>15</m:mn><m:mn>22</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id11757993"><problem id="fs-id1500115">
+<para id="fs-id1596823"><m:math><m:mrow><m:mfrac><m:mn>25</m:mn><m:mn>36</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>6</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id930078">
+<para id="fs-id2637027"><m:math><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:math></para></solution>
+</exercise><exercise id="fs-id12271011"><problem id="fs-id1971919">
+<para id="fs-id2241292"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>(</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>)</m:mo></m:mrow></m:math></para></problem>
+</exercise><exercise id="fs-id14252765"><problem id="fs-id2626794">
+<para id="fs-id1545248"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>(</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>)</m:mo></m:mrow></m:math></para></problem>
+<solution id="fs-id2205738">
+<para id="fs-id1739678"><m:math><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise><exercise id="fs-id9945186"><problem id="fs-id2276973">
+<para id="fs-id2310581"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>·</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>13</m:mn><m:mn>16</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise><exercise id="fs-id13546345"><problem id="fs-id1224915">
+<para id="fs-id2172014"><m:math><m:mrow><m:mn>13</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>9</m:mn></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1630988">
+<para id="fs-id1470520"><m:math><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math></para></solution>
+</exercise><exercise id="fs-id11929301"><problem id="fs-id2707964">
+<para id="fs-id2300298"><m:math><m:mrow><m:mn>12</m:mn><m:mo>÷</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>11</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise><exercise id="fs-id14443179"><problem id="fs-id1977698">
+<para id="fs-id1906589"><m:math><m:mrow><m:mn>7</m:mn><m:mo>÷</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+<solution id="fs-id3445994">
+<para id="fs-id1842468"><m:math><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:math></para></solution>
+</exercise><exercise id="fs-id6706537"><problem id="fs-id2494706">
+<para id="fs-id1762353"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id5737898"><problem id="fs-id1529110">
+<para id="fs-id3011333"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1165958">
+<para id="fs-id2789043">2</para>
+</solution></exercise><exercise id="fs-id5057019"><problem id="fs-id1525608">
+<para id="fs-id2219927"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>÷</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para></problem>
+</exercise><para id="eip-361"><emphasis>Add Mixed Numbers with a Common Denominator</emphasis> </para><para id="eip-709">In the following exercises, add and write the answer as a proper fraction, whole number, or mixed number, in simplified form.</para><exercise id="fs-id17095240"><problem id="fs-id2303898">
+<para id="fs-id1376946"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2378980">
+<para id="fs-id2658519"><m:math><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id17521017"><problem id="fs-id1339837">
+<para id="fs-id1983326"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>6</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id12386182"><problem id="fs-id1405783">
+<para id="fs-id2608530"><m:math><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>9</m:mn><m:mn>10</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>10</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id3319060">
+<para id="fs-id2277965">11</para>
+</solution>
+</exercise><exercise id="fs-id5769845"><problem id="fs-id1341074">
+<para id="fs-id1817002"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>9</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id16343946"><problem id="fs-id1371064">
+<para id="fs-id1630834"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2170929">
+<para id="fs-id1575855"><m:math><m:mrow><m:mn>11</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id6348270"><problem id="fs-id1215384">
+<para id="fs-id1730404"><m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>6</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><para id="eip-400"><emphasis>Subtract Mixed Numbers with a Common Denominator</emphasis> </para><para id="eip-808">In the following exercises, subtract and write the answer as a proper fraction, whole number, or mixed number, in simplified form.</para><exercise id="fs-id11312133"><problem id="fs-id1547127">
+<para id="fs-id1732944"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>7</m:mn><m:mrow><m:mn>12</m:mn></m:mrow></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>12</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1510197">
+<para id="fs-id1301576"><m:math><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5095645"><problem id="fs-id1950630">
+<para id="fs-id1886122"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id5922787"><problem id="fs-id4333775">
+<para id="fs-id1948959"><m:math><m:mrow><m:mn>19</m:mn><m:mfrac><m:mn>13</m:mn><m:mn>15</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>13</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>15</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2277402">
+<para id="fs-id2200774"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution>
+</exercise><exercise id="fs-id5942380"><problem id="fs-id1388136">
+<para id="fs-id1341755"><m:math><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>17</m:mn><m:mn>20</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>9</m:mn><m:mn>20</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id17097075"><problem id="fs-id1730400">
+<para id="fs-id2567809"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1565773">
+<para id="fs-id1166761301176"><m:math><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>9</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5934963"><problem id="fs-id1160023">
+<para id="fs-id2789072"><m:math><m:mrow><m:mn>8</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>7</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>7</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><para id="eip-752"><emphasis>Add and Subtract Mixed Numbers with Different Denominators</emphasis> </para><para id="eip-835">In the following exercises, write the sum or difference as a proper fraction, whole number, or mixed number, in simplified form.</para><exercise id="fs-id5891860"><problem id="fs-id1509357">
+<para id="fs-id1971802"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2454954">
+<para id="fs-id2134084"><m:math><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>11</m:mn><m:mn>12</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5743904"><problem id="fs-id1390542">
+<para id="fs-id1340660"><m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>6</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id10191773"><problem id="fs-id4228043">
+<para id="fs-id2942973"><m:math><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>8</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2453704">
+<para id="fs-id1886241"><m:math><m:mrow><m:mn>16</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5152456"><problem id="fs-id1610273">
+<para id="fs-id908845"><m:math><m:mrow><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+</exercise><exercise id="fs-id12302713"><problem id="fs-id2789146">
+<para id="fs-id2466425"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1470525">
+<para id="fs-id1580822"><m:math><m:mrow><m:mn>7</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>30</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5663822"><problem id="fs-id1598281">
+<para id="fs-id2453665"><m:math><m:mrow><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>+</m:mo><m:mn>5</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id5504556"><problem id="fs-id2637756">
+<para id="fs-id1826963"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>3</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id2635901">
+<para id="fs-id2299037"><m:math><m:mrow><m:mfrac><m:mn>17</m:mn><m:mn>24</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id12290495"><problem id="fs-id1619442">
+<para id="fs-id1511680"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>8</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id5945377"><problem id="fs-id1789711">
+<para id="fs-id2174924"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>9</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>4</m:mn><m:mfrac><m:mn>2</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1335836">
+<para id="fs-id2684399"><m:math><m:mrow><m:mn>2</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>45</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id14356150"><problem id="fs-id1736668">
+<para id="fs-id1218150"><m:math><m:mrow><m:mn>9</m:mn><m:mfrac><m:mn>7</m:mn><m:mn>10</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>2</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem></exercise><exercise id="fs-id6903549"><problem id="fs-id2310401">
+<para id="fs-id2646654"><m:math><m:mrow><m:mn>6</m:mn><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:math></para>
+</problem>
+<solution id="fs-id1614348">
+<para id="fs-id2296184"><m:math><m:mrow><m:mn>5</m:mn><m:mfrac><m:mn>11</m:mn><m:mn>20</m:mn></m:mfrac></m:mrow></m:math></para>
+</solution></exercise><exercise id="fs-id5149689"><problem id="fs-id5149690"><para id="fs-id5149691"><m:math><m:mrow><m:mn>4</m:mn><m:mfrac><m:mn>3</m:mn><m:mn>4</m:mn></m:mfrac><m:mo>−</m:mo><m:mn>1</m:mn><m:mfrac><m:mn>5</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:math></para></problem></exercise></section>  </content></document>

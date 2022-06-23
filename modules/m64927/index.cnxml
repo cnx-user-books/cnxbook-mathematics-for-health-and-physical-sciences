@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64927</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>e017b13a-c6fa-4048-8b95-876d24d870c9</md:uuid>
+</metadata>
+
+<content>
+
+<figure id="CNX_ElemAlg_Figure_02_00_001" class="splash"><media id="fs-id1166503473429" alt=".">
+<image mime-type="image/jpeg" src="../../media/CNX_Chem_03_02_compound.jpg" print-width="6in" width="650"/>
+</media>
+
+<caption>Each sample contains 6.02 <m:math><m:mo>×</m:mo></m:math> 10<sup>23</sup> molecules, also known as a mole. Clock-wise from the upper left: 130.2 g of 1-octanol, 454.4 g of mercury iodide, 32.0 g of methanol, and 256.5 g of sulfur. (credit: Sahar Atwa)</caption></figure><para id="fs-id1166503226544">In this chapter, we will learn many applications of dimensional analysis, including how to calculate molarity.</para></content>
+</document>

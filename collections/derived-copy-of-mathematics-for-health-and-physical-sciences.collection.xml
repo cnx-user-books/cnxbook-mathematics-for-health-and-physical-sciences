@@ -1,0 +1,381 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col12242</md:content-id>
+  <md:title>Mathematics for Health and Physical Sciences, 2nd Edition</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  <md:uuid>84088c95-58cc-4243-bc85-626244a30bc3</md:uuid>
+<md:slug>derived-copy-of-mathematics-for-health-and-physical-sciences</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Review of Fractions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64922"/>
+        
+      
+    
+    
+      <col:module document="m62609"/>
+        
+      
+    
+    
+      <col:module document="m62610"/>
+        
+      
+    
+    
+      <col:module document="m64920"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Decimal Review</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64923"/>
+        
+      
+    
+    
+      <col:module document="m62565">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m62524">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m62522"/>
+        
+      
+    
+    
+      <col:module document="m62559"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Operations with Integers</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64924"/>
+        
+      
+    
+    
+      <col:module document="m64798"/>
+        
+      
+    
+    
+      <col:module document="m62535"/>
+        
+      
+    
+    
+      <col:module document="m62538"/>
+        
+      
+    
+    
+      <col:module document="m62543"/>
+        
+      
+    
+    
+      <col:module document="m62587"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Formulas and Equations</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64921"/>
+        
+      
+    
+    
+      <col:module document="m62588"/>
+        
+      
+    
+    
+      <col:module document="m62541"/>
+        
+      
+    
+    
+      <col:module document="m62615"/>
+        
+      
+    
+    
+      <col:module document="m62606"/>
+        
+      
+    
+    
+      <col:module document="m62558"/>
+        
+      
+    
+    
+      <col:module document="m62675"/>
+        
+      
+    
+    
+      <col:module document="m62657"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Percents</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64925"/>
+        
+      
+    
+    
+      <col:module document="m62561"/>
+        
+      
+    
+    
+      <col:module document="m62560"/>
+        
+      
+    
+    
+      <col:module document="m62607"/>
+        
+      
+    
+    
+      <col:module document="m62676"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Units of Measurement</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64926"/>
+        
+      
+    
+    
+      <col:module document="m62525"/>
+        
+      
+    
+    
+      <col:module document="m62527"/>
+        
+      
+    
+    
+      <col:module document="m62526"/>
+        
+      
+    
+    
+      <col:module document="m62601">
+        <col:featured-links>
+          
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://cnx.org/content/m34356/latest/">Open Textbook Adoptions</cnxml:link>
+            </cnxml:link-group>
+          
+        </col:featured-links>
+      </col:module>
+        
+      
+    
+    
+      <col:module document="m62594"/>
+        
+      
+    
+    
+      <col:module document="m62673"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>More Applications of Dimensional Analysis</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64927"/>
+        
+      
+    
+    
+      <col:module document="m62605"/>
+        
+      
+    
+    
+      <col:module document="m62695"/>
+        
+      
+    
+    
+      <col:module document="m62674"/>
+        
+      
+    
+    
+      <col:module document="m62697"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Scientific Notation, Logarithms, and pH</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m64928"/>
+        
+      
+    
+    
+      <col:module document="m62534"/>
+        
+      
+    
+    
+      <col:module document="m62532"/>
+        
+      
+    
+    
+      <col:module document="m62700"/>
+        
+      
+    
+    
+      <col:module document="m62702"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

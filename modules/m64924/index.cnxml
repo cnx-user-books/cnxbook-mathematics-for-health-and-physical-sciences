@@ -1,0 +1,18 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64924</md:content-id>
+  <md:title>Introduction</md:title>
+  <md:abstract/>
+  <md:uuid>dfe087a8-7353-43eb-b626-0dd6cd3cc92d</md:uuid>
+</metadata>
+
+<content>
+
+<figure id="CNX_ElemAlg_Figure_02_00_001" class="splash"><media id="fs-id1166503473429" alt="This is a photo of several rocks carefully stacked to achieve balance.">
+<image mime-type="image/jpeg" src="../../media/CNX_BMath_Figure_03_00_001.jpg"/>
+</media>
+
+<caption>The peak of Mount Everest. (credit: Gunther Hagleitner, Flickr)</caption></figure><para id="fs-id1166503226544">At over 29,000 feet, Mount Everest stands as the tallest peak on land. Located along the border of Nepal and China, Mount Everest is also known for its extreme climate. Near the summit, temperatures never rise above freezing. Every year, climbers from around the world brave the extreme conditions in an effort to scale the tremendous height. Only some are successful. Describing the drastic change in elevation the climbers experience and the change in temperatures requires using numbers that extend both above and below zero. In this chapter, we will describe these kinds of numbers and operations using them.</para></content>
+</document>

@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Wendy Lightheart">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12073</md:content-id>
     <md:title>Test Copy - Do Not Use</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>6faa6432-f522-4a40-8524-40df8d16f7b9</md:uuid>
-<md:slug>test-copy-do-not-use</md:slug>
-</metadata>
+    <md:slug>test-copy-do-not-use</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Decimal Review</md:title>
